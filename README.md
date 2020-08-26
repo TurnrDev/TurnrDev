@@ -4,14 +4,7 @@
 - 🤔 I’m studying Computer Science at [OpenUniversity](http://www.open.ac.uk/courses/computing-it/degrees/bsc-computing-it-software-q62-soft)
 
 ![TurnrDev's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TurnrDev&layout=compact&hide_border=true&title_color=1fa6aa&text_color=233247)
-![TurnrDev's GitHub Stats](https://github-readme-stats.codestackr.vercel.app/api?username=TurnrDev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&icon_color=1fa6aa&title_color=1fa6aa&text_color=233247)
-<br>
-
-## @ Reach me
-
-[<img align="left" alt="TurnrDev | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="TurnrDev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="TurnrDev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+![TurnrDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TurnrDev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&icon_color=1fa6aa&title_color=1fa6aa&text_color=233247)
 <br>
 
 ## :zap: Recent Activity
@@ -23,7 +16,3 @@
 4. ❗️ Opened issue [#26](https://github.com//TrainerDex/DiscordBot/issues/26) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
 5. 🗣 Commented on [#414](https://github.com//thedaviddias/Front-End-Checklist/issues/414) in [thedaviddias/Front-End-Checklist](https://github.com//thedaviddias/Front-End-Checklist)
 <!--END_SECTION:activity-->
-
-[facebook]: https://www.facebook.com/TurnrDev
-[twitter]: https://twitter.com/TurnrDev
-[linkedin]: https://linkedin.com/in/TurnrDev
