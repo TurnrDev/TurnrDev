@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Jay - aka <img src="https://raw.githubusercontent.com/TurnrDev/TurnrDev/master/Logo/SVG/TurnrDev_Logo_Dark%20Blue%20%26%20Teal.svg" alt="TurnrDev" height="1em">!
+### Hi there 👋 I'm Jay - aka <img src="https://raw.githubusercontent.com/TurnrDev/TurnrDev/master/Logo/SVG/TurnrDev_Logo_Dark%20Blue%20%26%20Teal.svg" alt="TurnrDev" style="height: 1ex;">!
 
 - 🔭 I’m currently working on [TrainerDex](https://www.github.com/TrainerDex)
 - 🤔 I’m studying Computer Science at [OpenUniversity](http://www.open.ac.uk/courses/computing-it/degrees/bsc-computing-it-software-q62-soft)
