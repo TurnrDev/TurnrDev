@@ -25,6 +25,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#5752](https://github.com//Rapptz/discord.py/issues/5752) in [Rapptz/discord.py](https://github.com//Rapptz/discord.py)
+2. 🗣 Commented on [#4369](https://github.com//Cog-Creators/Red-DiscordBot/issues/4369) in [Cog-Creators/Red-DiscordBot](https://github.com//Cog-Creators/Red-DiscordBot)
+3. 🎉 Merged PR [#26](https://github.com//TrainerDex/backend/pull/26) in [TrainerDex/backend](https://github.com//TrainerDex/backend)
+4. ❗️ Opened issue [#26](https://github.com//TrainerDex/DiscordBot/issues/26) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
+5. 🗣 Commented on [#414](https://github.com//thedaviddias/Front-End-Checklist/issues/414) in [thedaviddias/Front-End-Checklist](https://github.com//thedaviddias/Front-End-Checklist)
 <!--END_SECTION:activity-->
 
 </details>
