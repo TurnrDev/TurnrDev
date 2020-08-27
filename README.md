@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5760](https://github.com//Rapptz/discord.py/issues/5760) in [Rapptz/discord.py](https://github.com//Rapptz/discord.py)
-2. 🗣 Commented on [#5761](https://github.com//Rapptz/discord.py/issues/5761) in [Rapptz/discord.py](https://github.com//Rapptz/discord.py)
+1. 🎉 Merged PR [#7](https://github.com//TrainerDex/Translations/pull/7) in [TrainerDex/Translations](https://github.com//TrainerDex/Translations)
+2. 🗣 Commented on [#5760](https://github.com//Rapptz/discord.py/issues/5760) in [Rapptz/discord.py](https://github.com//Rapptz/discord.py)
 3. 🗣 Commented on [#5761](https://github.com//Rapptz/discord.py/issues/5761) in [Rapptz/discord.py](https://github.com//Rapptz/discord.py)
-4. 💪 Opened PR [#5761](https://github.com//Rapptz/discord.py/pull/5761) in [Rapptz/discord.py](https://github.com//Rapptz/discord.py)
-5. 💪 Opened PR [#7](https://github.com//TrainerDex/Translations/pull/7) in [TrainerDex/Translations](https://github.com//TrainerDex/Translations)
+4. 🗣 Commented on [#5761](https://github.com//Rapptz/discord.py/issues/5761) in [Rapptz/discord.py](https://github.com//Rapptz/discord.py)
+5. 💪 Opened PR [#5761](https://github.com//Rapptz/discord.py/pull/5761) in [Rapptz/discord.py](https://github.com//Rapptz/discord.py)
 <!--END_SECTION:activity-->
