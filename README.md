@@ -10,9 +10,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#25](https://github.com//TrainerDex/DiscordBot/pull/25) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
-2. ❗️ Opened issue [#29](https://github.com//TrainerDex/backend/issues/29) in [TrainerDex/backend](https://github.com//TrainerDex/backend)
-3. ❗️ Opened issue [#28](https://github.com//TrainerDex/backend/issues/28) in [TrainerDex/backend](https://github.com//TrainerDex/backend)
-4. 🗣 Commented on [#5752](https://github.com//Rapptz/discord.py/issues/5752) in [Rapptz/discord.py](https://github.com//Rapptz/discord.py)
-5. 🗣 Commented on [#4369](https://github.com//Cog-Creators/Red-DiscordBot/issues/4369) in [Cog-Creators/Red-DiscordBot](https://github.com//Cog-Creators/Red-DiscordBot)
+1. 💪 Opened PR [#7](https://github.com//TrainerDex/Translations/pull/7) in [TrainerDex/Translations](https://github.com//TrainerDex/Translations)
+2. ❌ Closed PR [#25](https://github.com//TrainerDex/DiscordBot/pull/25) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
+3. ❗️ Opened issue [#29](https://github.com//TrainerDex/backend/issues/29) in [TrainerDex/backend](https://github.com//TrainerDex/backend)
+4. ❗️ Opened issue [#28](https://github.com//TrainerDex/backend/issues/28) in [TrainerDex/backend](https://github.com//TrainerDex/backend)
+5. 🗣 Commented on [#5752](https://github.com//Rapptz/discord.py/issues/5752) in [Rapptz/discord.py](https://github.com//Rapptz/discord.py)
 <!--END_SECTION:activity-->
