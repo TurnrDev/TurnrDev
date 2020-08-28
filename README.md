@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#30](https://github.com//TrainerDex/backend/pull/30) in [TrainerDex/backend](https://github.com//TrainerDex/backend)
-2. ❌ Closed PR [#27](https://github.com//TrainerDex/DiscordBot/pull/27) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
-3. 🎉 Merged PR [#24](https://github.com//TrainerDex/DiscordBot/pull/24) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
-4. 🗣 Commented on [#5761](https://github.com//Rapptz/discord.py/issues/5761) in [Rapptz/discord.py](https://github.com//Rapptz/discord.py)
+1. ❗️ Opened issue [#28](https://github.com//TrainerDex/DiscordBot/issues/28) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
+2. ❌ Closed PR [#30](https://github.com//TrainerDex/backend/pull/30) in [TrainerDex/backend](https://github.com//TrainerDex/backend)
+3. ❌ Closed PR [#27](https://github.com//TrainerDex/DiscordBot/pull/27) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
+4. 🎉 Merged PR [#24](https://github.com//TrainerDex/DiscordBot/pull/24) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
 5. 🗣 Commented on [#5761](https://github.com//Rapptz/discord.py/issues/5761) in [Rapptz/discord.py](https://github.com//Rapptz/discord.py)
 <!--END_SECTION:activity-->
