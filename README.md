@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com//TrainerDex/Translations/pull/9) in [TrainerDex/Translations](https://github.com//TrainerDex/Translations)
-2. ❌ Closed PR [#8](https://github.com//TrainerDex/Translations/pull/8) in [TrainerDex/Translations](https://github.com//TrainerDex/Translations)
-3. 💪 Opened PR [#8](https://github.com//TrainerDex/Translations/pull/8) in [TrainerDex/Translations](https://github.com//TrainerDex/Translations)
-4. ❗️ Opened issue [#28](https://github.com//TrainerDex/DiscordBot/issues/28) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
-5. ❌ Closed PR [#30](https://github.com//TrainerDex/backend/pull/30) in [TrainerDex/backend](https://github.com//TrainerDex/backend)
+1. 🎉 Merged PR [#27](https://github.com//TrainerDex/backend/pull/27) in [TrainerDex/backend](https://github.com//TrainerDex/backend)
+2. 💪 Opened PR [#9](https://github.com//TrainerDex/Translations/pull/9) in [TrainerDex/Translations](https://github.com//TrainerDex/Translations)
+3. ❌ Closed PR [#8](https://github.com//TrainerDex/Translations/pull/8) in [TrainerDex/Translations](https://github.com//TrainerDex/Translations)
+4. 💪 Opened PR [#8](https://github.com//TrainerDex/Translations/pull/8) in [TrainerDex/Translations](https://github.com//TrainerDex/Translations)
+5. ❗️ Opened issue [#28](https://github.com//TrainerDex/DiscordBot/issues/28) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
 <!--END_SECTION:activity-->
