@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com//TrainerDex/backend/pull/27) in [TrainerDex/backend](https://github.com//TrainerDex/backend)
-2. 💪 Opened PR [#9](https://github.com//TrainerDex/Translations/pull/9) in [TrainerDex/Translations](https://github.com//TrainerDex/Translations)
-3. ❌ Closed PR [#8](https://github.com//TrainerDex/Translations/pull/8) in [TrainerDex/Translations](https://github.com//TrainerDex/Translations)
-4. 💪 Opened PR [#8](https://github.com//TrainerDex/Translations/pull/8) in [TrainerDex/Translations](https://github.com//TrainerDex/Translations)
-5. ❗️ Opened issue [#28](https://github.com//TrainerDex/DiscordBot/issues/28) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
+1. 🗣 Commented on [#294](https://github.com//chibisov/drf-extensions/issues/294) in [chibisov/drf-extensions](https://github.com//chibisov/drf-extensions)
+2. ❗️ Closed issue [#297](https://github.com//chibisov/drf-extensions/issues/297) in [chibisov/drf-extensions](https://github.com//chibisov/drf-extensions)
+3. 🗣 Commented on [#297](https://github.com//chibisov/drf-extensions/issues/297) in [chibisov/drf-extensions](https://github.com//chibisov/drf-extensions)
+4. ❗️ Opened issue [#297](https://github.com//chibisov/drf-extensions/issues/297) in [chibisov/drf-extensions](https://github.com//chibisov/drf-extensions)
+5. 🎉 Merged PR [#27](https://github.com//TrainerDex/backend/pull/27) in [TrainerDex/backend](https://github.com//TrainerDex/backend)
 <!--END_SECTION:activity-->
