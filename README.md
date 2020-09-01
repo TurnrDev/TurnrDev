@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#31](https://github.com//TrainerDex/DiscordBot/pull/31) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
-2. 🎉 Merged PR [#30](https://github.com//TrainerDex/DiscordBot/pull/30) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
-3. 🎉 Merged PR [#29](https://github.com//TrainerDex/DiscordBot/pull/29) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
-4. 💪 Opened PR [#29](https://github.com//TrainerDex/DiscordBot/pull/29) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
-5. 🗣 Commented on [#3896](https://github.com//Cog-Creators/Red-DiscordBot/issues/3896) in [Cog-Creators/Red-DiscordBot](https://github.com//Cog-Creators/Red-DiscordBot)
+1. 💪 Opened PR [#32](https://github.com//TrainerDex/DiscordBot/pull/32) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
+2. ❌ Closed PR [#31](https://github.com//TrainerDex/DiscordBot/pull/31) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
+3. 🎉 Merged PR [#30](https://github.com//TrainerDex/DiscordBot/pull/30) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
+4. 🎉 Merged PR [#29](https://github.com//TrainerDex/DiscordBot/pull/29) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
+5. 💪 Opened PR [#29](https://github.com//TrainerDex/DiscordBot/pull/29) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
 <!--END_SECTION:activity-->
