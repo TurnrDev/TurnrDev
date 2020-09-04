@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5789](https://github.com//Rapptz/discord.py/issues/5789) in [Rapptz/discord.py](https://github.com//Rapptz/discord.py)
-2. 🎉 Merged PR [#35](https://github.com//TrainerDex/DiscordBot/pull/35) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
-3. 💪 Opened PR [#35](https://github.com//TrainerDex/DiscordBot/pull/35) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
-4. 🎉 Merged PR [#32](https://github.com//TrainerDex/DiscordBot/pull/32) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
-5. 🎉 Merged PR [#34](https://github.com//TrainerDex/DiscordBot/pull/34) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
+1. 💪 Opened PR [#48](https://github.com//flaree/Flare-Cogs/pull/48) in [flaree/Flare-Cogs](https://github.com//flaree/Flare-Cogs)
+2. 🗣 Commented on [#5789](https://github.com//Rapptz/discord.py/issues/5789) in [Rapptz/discord.py](https://github.com//Rapptz/discord.py)
+3. 🎉 Merged PR [#35](https://github.com//TrainerDex/DiscordBot/pull/35) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
+4. 💪 Opened PR [#35](https://github.com//TrainerDex/DiscordBot/pull/35) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
+5. 🎉 Merged PR [#32](https://github.com//TrainerDex/DiscordBot/pull/32) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
 <!--END_SECTION:activity-->
