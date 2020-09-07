@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#204](https://github.com//talkiq/gcloud-aio/pull/204) in [talkiq/gcloud-aio](https://github.com//talkiq/gcloud-aio)
-2. 🗣 Commented on [#4401](https://github.com//Cog-Creators/Red-DiscordBot/issues/4401) in [Cog-Creators/Red-DiscordBot](https://github.com//Cog-Creators/Red-DiscordBot)
-3. ❗️ Opened issue [#3](https://github.com//TurnrDev/TurnrCogs/issues/3) in [TurnrDev/TurnrCogs](https://github.com//TurnrDev/TurnrCogs)
-4. ❗️ Opened issue [#2](https://github.com//TurnrDev/TurnrCogs/issues/2) in [TurnrDev/TurnrCogs](https://github.com//TurnrDev/TurnrCogs)
-5. ❗️ Opened issue [#1](https://github.com//TurnrDev/TurnrCogs/issues/1) in [TurnrDev/TurnrCogs](https://github.com//TurnrDev/TurnrCogs)
+1. 🗣 Commented on [#4397](https://github.com//Cog-Creators/Red-DiscordBot/issues/4397) in [Cog-Creators/Red-DiscordBot](https://github.com//Cog-Creators/Red-DiscordBot)
+2. 🗣 Commented on [#4404](https://github.com//Cog-Creators/Red-DiscordBot/issues/4404) in [Cog-Creators/Red-DiscordBot](https://github.com//Cog-Creators/Red-DiscordBot)
+3. 💪 Opened PR [#204](https://github.com//talkiq/gcloud-aio/pull/204) in [talkiq/gcloud-aio](https://github.com//talkiq/gcloud-aio)
+4. 🗣 Commented on [#4401](https://github.com//Cog-Creators/Red-DiscordBot/issues/4401) in [Cog-Creators/Red-DiscordBot](https://github.com//Cog-Creators/Red-DiscordBot)
+5. ❗️ Opened issue [#3](https://github.com//TurnrDev/TurnrCogs/issues/3) in [TurnrDev/TurnrCogs](https://github.com//TurnrDev/TurnrCogs)
 <!--END_SECTION:activity-->
