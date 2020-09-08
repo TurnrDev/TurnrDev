@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37](https://github.com//TrainerDex/DiscordBot/pull/37) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
-2. 🗣 Commented on [#37](https://github.com//TrainerDex/DiscordBot/issues/37) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
-3. 🗣 Commented on [#3896](https://github.com//Cog-Creators/Red-DiscordBot/issues/3896) in [Cog-Creators/Red-DiscordBot](https://github.com//Cog-Creators/Red-DiscordBot)
-4. ❗️ Opened issue [#154](https://github.com//TrustyJAID/Trusty-cogs/issues/154) in [TrustyJAID/Trusty-cogs](https://github.com//TrustyJAID/Trusty-cogs)
-5. 🗣 Commented on [#8](https://github.com//TrainerDex/PogoOCR/issues/8) in [TrainerDex/PogoOCR](https://github.com//TrainerDex/PogoOCR)
+1. 💪 Opened PR [#38](https://github.com//TrainerDex/DiscordBot/pull/38) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
+2. 🎉 Merged PR [#37](https://github.com//TrainerDex/DiscordBot/pull/37) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
+3. 🗣 Commented on [#37](https://github.com//TrainerDex/DiscordBot/issues/37) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
+4. 🗣 Commented on [#3896](https://github.com//Cog-Creators/Red-DiscordBot/issues/3896) in [Cog-Creators/Red-DiscordBot](https://github.com//Cog-Creators/Red-DiscordBot)
+5. ❗️ Opened issue [#154](https://github.com//TrustyJAID/Trusty-cogs/issues/154) in [TrustyJAID/Trusty-cogs](https://github.com//TrustyJAID/Trusty-cogs)
 <!--END_SECTION:activity-->
