@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1683](https://github.com//Cog-Creators/Red-DiscordBot/issues/1683) in [Cog-Creators/Red-DiscordBot](https://github.com//Cog-Creators/Red-DiscordBot)
-2. 🗣 Commented on [#1683](https://github.com//Cog-Creators/Red-DiscordBot/issues/1683) in [Cog-Creators/Red-DiscordBot](https://github.com//Cog-Creators/Red-DiscordBot)
-3. 💪 Opened PR [#38](https://github.com//TrainerDex/DiscordBot/pull/38) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
-4. 🎉 Merged PR [#37](https://github.com//TrainerDex/DiscordBot/pull/37) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
-5. 🗣 Commented on [#37](https://github.com//TrainerDex/DiscordBot/issues/37) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
+1. 💪 Opened PR [#5](https://github.com//TurnrDev/TurnrCogs/pull/5) in [TurnrDev/TurnrCogs](https://github.com//TurnrDev/TurnrCogs)
+2. ❗️ Closed issue [#4](https://github.com//TurnrDev/TurnrCogs/issues/4) in [TurnrDev/TurnrCogs](https://github.com//TurnrDev/TurnrCogs)
+3. ❗️ Opened issue [#4](https://github.com//TurnrDev/TurnrCogs/issues/4) in [TurnrDev/TurnrCogs](https://github.com//TurnrDev/TurnrCogs)
+4. 🗣 Commented on [#1683](https://github.com//Cog-Creators/Red-DiscordBot/issues/1683) in [Cog-Creators/Red-DiscordBot](https://github.com//Cog-Creators/Red-DiscordBot)
+5. 🗣 Commented on [#1683](https://github.com//Cog-Creators/Red-DiscordBot/issues/1683) in [Cog-Creators/Red-DiscordBot](https://github.com//Cog-Creators/Red-DiscordBot)
 <!--END_SECTION:activity-->
