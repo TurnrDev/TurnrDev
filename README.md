@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10](https://github.com//TurnrDev/TurnrCogs/issues/10) in [TurnrDev/TurnrCogs](https://github.com//TurnrDev/TurnrCogs)
-2. 🗣 Commented on [#10](https://github.com//TurnrDev/TurnrCogs/issues/10) in [TurnrDev/TurnrCogs](https://github.com//TurnrDev/TurnrCogs)
-3. ❗️ Opened issue [#10](https://github.com//TurnrDev/TurnrCogs/issues/10) in [TurnrDev/TurnrCogs](https://github.com//TurnrDev/TurnrCogs)
-4. ❗️ Closed issue [#9](https://github.com//TurnrDev/TurnrCogs/issues/9) in [TurnrDev/TurnrCogs](https://github.com//TurnrDev/TurnrCogs)
-5. ❗️ Opened issue [#9](https://github.com//TurnrDev/TurnrCogs/issues/9) in [TurnrDev/TurnrCogs](https://github.com//TurnrDev/TurnrCogs)
+1. ❗️ Opened issue [#35](https://github.com//TrainerDex/Website/issues/35) in [TrainerDex/Website](https://github.com//TrainerDex/Website)
+2. ❗️ Opened issue [#34](https://github.com//TrainerDex/Website/issues/34) in [TrainerDex/Website](https://github.com//TrainerDex/Website)
+3. ❗️ Closed issue [#10](https://github.com//TurnrDev/TurnrCogs/issues/10) in [TurnrDev/TurnrCogs](https://github.com//TurnrDev/TurnrCogs)
+4. 🗣 Commented on [#10](https://github.com//TurnrDev/TurnrCogs/issues/10) in [TurnrDev/TurnrCogs](https://github.com//TurnrDev/TurnrCogs)
+5. ❗️ Opened issue [#10](https://github.com//TurnrDev/TurnrCogs/issues/10) in [TurnrDev/TurnrCogs](https://github.com//TurnrDev/TurnrCogs)
 <!--END_SECTION:activity-->
