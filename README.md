@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com//TurnrDev/TurnrCogs/issues/6) in [TurnrDev/TurnrCogs](https://github.com//TurnrDev/TurnrCogs)
-2. 💪 Opened PR [#5](https://github.com//TurnrDev/TurnrCogs/pull/5) in [TurnrDev/TurnrCogs](https://github.com//TurnrDev/TurnrCogs)
-3. ❗️ Closed issue [#4](https://github.com//TurnrDev/TurnrCogs/issues/4) in [TurnrDev/TurnrCogs](https://github.com//TurnrDev/TurnrCogs)
-4. ❗️ Opened issue [#4](https://github.com//TurnrDev/TurnrCogs/issues/4) in [TurnrDev/TurnrCogs](https://github.com//TurnrDev/TurnrCogs)
-5. 🗣 Commented on [#1683](https://github.com//Cog-Creators/Red-DiscordBot/issues/1683) in [Cog-Creators/Red-DiscordBot](https://github.com//Cog-Creators/Red-DiscordBot)
+1. ❗️ Closed issue [#10](https://github.com//TurnrDev/TurnrCogs/issues/10) in [TurnrDev/TurnrCogs](https://github.com//TurnrDev/TurnrCogs)
+2. 🗣 Commented on [#10](https://github.com//TurnrDev/TurnrCogs/issues/10) in [TurnrDev/TurnrCogs](https://github.com//TurnrDev/TurnrCogs)
+3. ❗️ Opened issue [#10](https://github.com//TurnrDev/TurnrCogs/issues/10) in [TurnrDev/TurnrCogs](https://github.com//TurnrDev/TurnrCogs)
+4. ❗️ Closed issue [#9](https://github.com//TurnrDev/TurnrCogs/issues/9) in [TurnrDev/TurnrCogs](https://github.com//TurnrDev/TurnrCogs)
+5. ❗️ Opened issue [#9](https://github.com//TurnrDev/TurnrCogs/issues/9) in [TurnrDev/TurnrCogs](https://github.com//TurnrDev/TurnrCogs)
 <!--END_SECTION:activity-->
