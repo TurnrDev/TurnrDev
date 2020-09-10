@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#35](https://github.com//TrainerDex/Website/issues/35) in [TrainerDex/Website](https://github.com//TrainerDex/Website)
-2. ❗️ Opened issue [#34](https://github.com//TrainerDex/Website/issues/34) in [TrainerDex/Website](https://github.com//TrainerDex/Website)
-3. ❗️ Closed issue [#10](https://github.com//TurnrDev/TurnrCogs/issues/10) in [TurnrDev/TurnrCogs](https://github.com//TurnrDev/TurnrCogs)
-4. 🗣 Commented on [#10](https://github.com//TurnrDev/TurnrCogs/issues/10) in [TurnrDev/TurnrCogs](https://github.com//TurnrDev/TurnrCogs)
-5. ❗️ Opened issue [#10](https://github.com//TurnrDev/TurnrCogs/issues/10) in [TurnrDev/TurnrCogs](https://github.com//TurnrDev/TurnrCogs)
+1. ❗️ Opened issue [#4](https://github.com//TrainerDex/TrainerDex/issues/4) in [TrainerDex/TrainerDex](https://github.com//TrainerDex/TrainerDex)
+2. ❗️ Opened issue [#3](https://github.com//TrainerDex/TrainerDex/issues/3) in [TrainerDex/TrainerDex](https://github.com//TrainerDex/TrainerDex)
+3. ❗️ Opened issue [#36](https://github.com//TrainerDex/Website/issues/36) in [TrainerDex/Website](https://github.com//TrainerDex/Website)
+4. ❗️ Opened issue [#35](https://github.com//TrainerDex/Website/issues/35) in [TrainerDex/Website](https://github.com//TrainerDex/Website)
+5. ❗️ Opened issue [#34](https://github.com//TrainerDex/Website/issues/34) in [TrainerDex/Website](https://github.com//TrainerDex/Website)
 <!--END_SECTION:activity-->
