@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12](https://github.com//anentropic/django-exclusivebooleanfield/issues/12) in [anentropic/django-exclusivebooleanfield](https://github.com//anentropic/django-exclusivebooleanfield)
-2. ❗️ Opened issue [#42](https://github.com//TrainerDex/DiscordBot/issues/42) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
-3. 💪 Opened PR [#38](https://github.com//TrainerDex/Website/pull/38) in [TrainerDex/Website](https://github.com//TrainerDex/Website)
-4. 🗣 Commented on [#294](https://github.com//chibisov/drf-extensions/issues/294) in [chibisov/drf-extensions](https://github.com//chibisov/drf-extensions)
-5. ❗️ Opened issue [#37](https://github.com//TrainerDex/Website/issues/37) in [TrainerDex/Website](https://github.com//TrainerDex/Website)
+1. ❌ Closed PR [#41](https://github.com//TrainerDex/Website/pull/41) in [TrainerDex/Website](https://github.com//TrainerDex/Website)
+2. 🗣 Commented on [#41](https://github.com//TrainerDex/Website/issues/41) in [TrainerDex/Website](https://github.com//TrainerDex/Website)
+3. ❌ Closed PR [#40](https://github.com//TrainerDex/Website/pull/40) in [TrainerDex/Website](https://github.com//TrainerDex/Website)
+4. ❌ Closed PR [#39](https://github.com//TrainerDex/Website/pull/39) in [TrainerDex/Website](https://github.com//TrainerDex/Website)
+5. 🗣 Commented on [#39](https://github.com//TrainerDex/Website/issues/39) in [TrainerDex/Website](https://github.com//TrainerDex/Website)
 <!--END_SECTION:activity-->
