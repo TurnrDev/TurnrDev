@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#43](https://github.com//TrainerDex/DiscordBot/pull/43) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
-2. ❌ Closed PR [#41](https://github.com//TrainerDex/Website/pull/41) in [TrainerDex/Website](https://github.com//TrainerDex/Website)
-3. 🗣 Commented on [#41](https://github.com//TrainerDex/Website/issues/41) in [TrainerDex/Website](https://github.com//TrainerDex/Website)
-4. ❌ Closed PR [#40](https://github.com//TrainerDex/Website/pull/40) in [TrainerDex/Website](https://github.com//TrainerDex/Website)
-5. ❌ Closed PR [#39](https://github.com//TrainerDex/Website/pull/39) in [TrainerDex/Website](https://github.com//TrainerDex/Website)
+1. 🗣 Commented on [#5814](https://github.com//Rapptz/discord.py/issues/5814) in [Rapptz/discord.py](https://github.com//Rapptz/discord.py)
+2. 🎉 Merged PR [#43](https://github.com//TrainerDex/DiscordBot/pull/43) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
+3. ❌ Closed PR [#41](https://github.com//TrainerDex/Website/pull/41) in [TrainerDex/Website](https://github.com//TrainerDex/Website)
+4. 🗣 Commented on [#41](https://github.com//TrainerDex/Website/issues/41) in [TrainerDex/Website](https://github.com//TrainerDex/Website)
+5. ❌ Closed PR [#40](https://github.com//TrainerDex/Website/pull/40) in [TrainerDex/Website](https://github.com//TrainerDex/Website)
 <!--END_SECTION:activity-->
