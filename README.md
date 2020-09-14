@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com//TrainerDex/Website/pull/42) in [TrainerDex/Website](https://github.com//TrainerDex/Website)
-2. 🗣 Commented on [#42](https://github.com//TrainerDex/Website/issues/42) in [TrainerDex/Website](https://github.com//TrainerDex/Website)
-3. 💪 Opened PR [#21](https://github.com//Ext-Creators/discord-ext-alternatives/pull/21) in [Ext-Creators/discord-ext-alternatives](https://github.com//Ext-Creators/discord-ext-alternatives)
-4. 🎉 Merged PR [#38](https://github.com//TrainerDex/Website/pull/38) in [TrainerDex/Website](https://github.com//TrainerDex/Website)
-5. 🗣 Commented on [#5814](https://github.com//Rapptz/discord.py/issues/5814) in [Rapptz/discord.py](https://github.com//Rapptz/discord.py)
+1. 💪 Opened PR [#43](https://github.com//TrainerDex/Website/pull/43) in [TrainerDex/Website](https://github.com//TrainerDex/Website)
+2. 🎉 Merged PR [#42](https://github.com//TrainerDex/Website/pull/42) in [TrainerDex/Website](https://github.com//TrainerDex/Website)
+3. 🗣 Commented on [#42](https://github.com//TrainerDex/Website/issues/42) in [TrainerDex/Website](https://github.com//TrainerDex/Website)
+4. 💪 Opened PR [#21](https://github.com//Ext-Creators/discord-ext-alternatives/pull/21) in [Ext-Creators/discord-ext-alternatives](https://github.com//Ext-Creators/discord-ext-alternatives)
+5. 🎉 Merged PR [#38](https://github.com//TrainerDex/Website/pull/38) in [TrainerDex/Website](https://github.com//TrainerDex/Website)
 <!--END_SECTION:activity-->
