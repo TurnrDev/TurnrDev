@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#47](https://github.com//TrainerDex/Website/pull/47) in [TrainerDex/Website](https://github.com//TrainerDex/Website)
-2. ❌ Closed PR [#46](https://github.com//TrainerDex/Website/pull/46) in [TrainerDex/Website](https://github.com//TrainerDex/Website)
-3. ❌ Closed PR [#45](https://github.com//TrainerDex/Website/pull/45) in [TrainerDex/Website](https://github.com//TrainerDex/Website)
-4. 🎉 Merged PR [#44](https://github.com//TrainerDex/Website/pull/44) in [TrainerDex/Website](https://github.com//TrainerDex/Website)
-5. 💪 Opened PR [#44](https://github.com//TrainerDex/DiscordBot/pull/44) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
+1. 💪 Opened PR [#48](https://github.com//TrainerDex/Website/pull/48) in [TrainerDex/Website](https://github.com//TrainerDex/Website)
+2. 🎉 Merged PR [#47](https://github.com//TrainerDex/Website/pull/47) in [TrainerDex/Website](https://github.com//TrainerDex/Website)
+3. ❌ Closed PR [#46](https://github.com//TrainerDex/Website/pull/46) in [TrainerDex/Website](https://github.com//TrainerDex/Website)
+4. ❌ Closed PR [#45](https://github.com//TrainerDex/Website/pull/45) in [TrainerDex/Website](https://github.com//TrainerDex/Website)
+5. 🎉 Merged PR [#44](https://github.com//TrainerDex/Website/pull/44) in [TrainerDex/Website](https://github.com//TrainerDex/Website)
 <!--END_SECTION:activity-->
