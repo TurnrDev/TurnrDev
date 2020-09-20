@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#46](https://github.com//TrainerDex/DiscordBot/pull/46) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
-2. 💪 Opened PR [#46](https://github.com//TrainerDex/DiscordBot/pull/46) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
-3. 🗣 Commented on [#44](https://github.com//TrainerDex/DiscordBot/issues/44) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
-4. 🎉 Merged PR [#45](https://github.com//TrainerDex/DiscordBot/pull/45) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
-5. 🎉 Merged PR [#48](https://github.com//TrainerDex/Website/pull/48) in [TrainerDex/Website](https://github.com//TrainerDex/Website)
+1. 🗣 Commented on [#35](https://github.com//ZeLarpMaster/ZeCogs/issues/35) in [ZeLarpMaster/ZeCogs](https://github.com//ZeLarpMaster/ZeCogs)
+2. 🎉 Merged PR [#46](https://github.com//TrainerDex/DiscordBot/pull/46) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
+3. 💪 Opened PR [#46](https://github.com//TrainerDex/DiscordBot/pull/46) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
+4. 🗣 Commented on [#44](https://github.com//TrainerDex/DiscordBot/issues/44) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
+5. 🎉 Merged PR [#45](https://github.com//TrainerDex/DiscordBot/pull/45) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
 <!--END_SECTION:activity-->
