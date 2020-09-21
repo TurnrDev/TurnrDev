@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com//TurnrDev/TurnrCogs/pull/5) in [TurnrDev/TurnrCogs](https://github.com//TurnrDev/TurnrCogs)
-2. ❗️ Closed issue [#3](https://github.com//TurnrDev/TurnrCogs/issues/3) in [TurnrDev/TurnrCogs](https://github.com//TurnrDev/TurnrCogs)
-3. ❗️ Closed issue [#16](https://github.com//TurnrDev/TurnrCogs/issues/16) in [TurnrDev/TurnrCogs](https://github.com//TurnrDev/TurnrCogs)
-4. ❗️ Closed issue [#14](https://github.com//TurnrDev/TurnrCogs/issues/14) in [TurnrDev/TurnrCogs](https://github.com//TurnrDev/TurnrCogs)
-5. ❗️ Closed issue [#15](https://github.com//TurnrDev/TurnrCogs/issues/15) in [TurnrDev/TurnrCogs](https://github.com//TurnrDev/TurnrCogs)
+1. ❗️ Opened issue [#48](https://github.com//TrainerDex/DiscordBot/issues/48) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
+2. 🎉 Merged PR [#5](https://github.com//TurnrDev/TurnrCogs/pull/5) in [TurnrDev/TurnrCogs](https://github.com//TurnrDev/TurnrCogs)
+3. ❗️ Closed issue [#3](https://github.com//TurnrDev/TurnrCogs/issues/3) in [TurnrDev/TurnrCogs](https://github.com//TurnrDev/TurnrCogs)
+4. ❗️ Closed issue [#16](https://github.com//TurnrDev/TurnrCogs/issues/16) in [TurnrDev/TurnrCogs](https://github.com//TurnrDev/TurnrCogs)
+5. ❗️ Closed issue [#14](https://github.com//TurnrDev/TurnrCogs/issues/14) in [TurnrDev/TurnrCogs](https://github.com//TurnrDev/TurnrCogs)
 <!--END_SECTION:activity-->
