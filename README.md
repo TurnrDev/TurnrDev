@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#48](https://github.com//TrainerDex/DiscordBot/issues/48) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
-2. 🎉 Merged PR [#5](https://github.com//TurnrDev/TurnrCogs/pull/5) in [TurnrDev/TurnrCogs](https://github.com//TurnrDev/TurnrCogs)
-3. ❗️ Closed issue [#3](https://github.com//TurnrDev/TurnrCogs/issues/3) in [TurnrDev/TurnrCogs](https://github.com//TurnrDev/TurnrCogs)
-4. ❗️ Closed issue [#16](https://github.com//TurnrDev/TurnrCogs/issues/16) in [TurnrDev/TurnrCogs](https://github.com//TurnrDev/TurnrCogs)
-5. ❗️ Closed issue [#14](https://github.com//TurnrDev/TurnrCogs/issues/14) in [TurnrDev/TurnrCogs](https://github.com//TurnrDev/TurnrCogs)
+1. ❗️ Closed issue [#56](https://github.com//Dav-Git/fk-cogs/issues/56) in [Dav-Git/fk-cogs](https://github.com//Dav-Git/fk-cogs)
+2. ❗️ Opened issue [#56](https://github.com//Dav-Git/fk-cogs/issues/56) in [Dav-Git/fk-cogs](https://github.com//Dav-Git/fk-cogs)
+3. ❗️ Opened issue [#55](https://github.com//Dav-Git/fk-cogs/issues/55) in [Dav-Git/fk-cogs](https://github.com//Dav-Git/fk-cogs)
+4. ❗️ Opened issue [#48](https://github.com//TrainerDex/DiscordBot/issues/48) in [TrainerDex/DiscordBot](https://github.com//TrainerDex/DiscordBot)
+5. 🎉 Merged PR [#5](https://github.com//TurnrDev/TurnrCogs/pull/5) in [TurnrDev/TurnrCogs](https://github.com//TurnrDev/TurnrCogs)
 <!--END_SECTION:activity-->
