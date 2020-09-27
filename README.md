@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/TrainerDex/PogoOCR/pull/12) in [TrainerDex/PogoOCR](https://github.com/TrainerDex/PogoOCR)
-2. ❌ Closed PR [#11](https://github.com/TrainerDex/PogoOCR/pull/11) in [TrainerDex/PogoOCR](https://github.com/TrainerDex/PogoOCR)
-3. 💪 Opened PR [#11](https://github.com/TrainerDex/PogoOCR/pull/11) in [TrainerDex/PogoOCR](https://github.com/TrainerDex/PogoOCR)
-4. 🗣 Commented on [#4048](https://github.com/Cog-Creators/Red-DiscordBot/issues/4048) in [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
-5. ❗️ Opened issue [#10](https://github.com/TrainerDex/PogoOCR/issues/10) in [TrainerDex/PogoOCR](https://github.com/TrainerDex/PogoOCR)
+1. 🎉 Merged PR [#44](https://github.com/TrainerDex/DiscordBot/pull/44) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+2. ❗️ Closed issue [#10](https://github.com/TrainerDex/PogoOCR/issues/10) in [TrainerDex/PogoOCR](https://github.com/TrainerDex/PogoOCR)
+3. 🎉 Merged PR [#12](https://github.com/TrainerDex/PogoOCR/pull/12) in [TrainerDex/PogoOCR](https://github.com/TrainerDex/PogoOCR)
+4. 💪 Opened PR [#12](https://github.com/TrainerDex/PogoOCR/pull/12) in [TrainerDex/PogoOCR](https://github.com/TrainerDex/PogoOCR)
+5. ❌ Closed PR [#11](https://github.com/TrainerDex/PogoOCR/pull/11) in [TrainerDex/PogoOCR](https://github.com/TrainerDex/PogoOCR)
 <!--END_SECTION:activity-->
