@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#50](https://github.com/TrainerDex/DiscordBot/pull/50) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-2. ❗️ Closed issue [#18](https://github.com/TurnrDev/TurnrCogs/issues/18) in [TurnrDev/TurnrCogs](https://github.com/TurnrDev/TurnrCogs)
-3. 🎉 Merged PR [#44](https://github.com/TrainerDex/DiscordBot/pull/44) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-4. ❗️ Closed issue [#10](https://github.com/TrainerDex/PogoOCR/issues/10) in [TrainerDex/PogoOCR](https://github.com/TrainerDex/PogoOCR)
-5. 🎉 Merged PR [#12](https://github.com/TrainerDex/PogoOCR/pull/12) in [TrainerDex/PogoOCR](https://github.com/TrainerDex/PogoOCR)
+1. 🗣 Commented on [#51](https://github.com/TrainerDex/DiscordBot/issues/51) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+2. 💪 Opened PR [#51](https://github.com/TrainerDex/DiscordBot/pull/51) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+3. 🎉 Merged PR [#50](https://github.com/TrainerDex/DiscordBot/pull/50) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+4. ❗️ Closed issue [#18](https://github.com/TurnrDev/TurnrCogs/issues/18) in [TurnrDev/TurnrCogs](https://github.com/TurnrDev/TurnrCogs)
+5. 🎉 Merged PR [#44](https://github.com/TrainerDex/DiscordBot/pull/44) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
 <!--END_SECTION:activity-->
