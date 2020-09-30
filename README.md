@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#47](https://github.com/TrainerDex/DiscordBot/issues/47) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-2. 🎉 Merged PR [#52](https://github.com/TrainerDex/DiscordBot/pull/52) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-3. ❗️ Closed issue [#47](https://github.com/TrainerDex/DiscordBot/issues/47) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-4. 💪 Opened PR [#52](https://github.com/TrainerDex/DiscordBot/pull/52) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-5. 🎉 Merged PR [#51](https://github.com/TrainerDex/DiscordBot/pull/51) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+1. 🗣 Commented on [#52](https://github.com/googleapis/python-vision/issues/52) in [googleapis/python-vision](https://github.com/googleapis/python-vision)
+2. ❗️ Reopened issue [#47](https://github.com/TrainerDex/DiscordBot/issues/47) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+3. 🎉 Merged PR [#52](https://github.com/TrainerDex/DiscordBot/pull/52) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+4. ❗️ Closed issue [#47](https://github.com/TrainerDex/DiscordBot/issues/47) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+5. 💪 Opened PR [#52](https://github.com/TrainerDex/DiscordBot/pull/52) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
 <!--END_SECTION:activity-->
