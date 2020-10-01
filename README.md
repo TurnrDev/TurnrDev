@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#57](https://github.com/TrainerDex/Website/pull/57) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-2. 🗣 Commented on [#4361](https://github.com/Cog-Creators/Red-DiscordBot/issues/4361) in [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
-3. ❌ Closed PR [#13](https://github.com/TrainerDex/PogoOCR/pull/13) in [TrainerDex/PogoOCR](https://github.com/TrainerDex/PogoOCR)
-4. 🗣 Commented on [#13](https://github.com/TrainerDex/PogoOCR/issues/13) in [TrainerDex/PogoOCR](https://github.com/TrainerDex/PogoOCR)
-5. 🗣 Commented on [#52](https://github.com/googleapis/python-vision/issues/52) in [googleapis/python-vision](https://github.com/googleapis/python-vision)
+1. ❗️ Opened issue [#35](https://github.com/crowdin/github-action/issues/35) in [crowdin/github-action](https://github.com/crowdin/github-action)
+2. 🎉 Merged PR [#57](https://github.com/TrainerDex/Website/pull/57) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+3. 🗣 Commented on [#4361](https://github.com/Cog-Creators/Red-DiscordBot/issues/4361) in [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
+4. ❌ Closed PR [#13](https://github.com/TrainerDex/PogoOCR/pull/13) in [TrainerDex/PogoOCR](https://github.com/TrainerDex/PogoOCR)
+5. 🗣 Commented on [#13](https://github.com/TrainerDex/PogoOCR/issues/13) in [TrainerDex/PogoOCR](https://github.com/TrainerDex/PogoOCR)
 <!--END_SECTION:activity-->
