@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#54](https://github.com/TrainerDex/DiscordBot/pull/54) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-2. 💪 Opened PR [#58](https://github.com/Malarne/discord_cogs/pull/58) in [Malarne/discord_cogs](https://github.com/Malarne/discord_cogs)
-3. 💪 Opened PR [#57](https://github.com/Malarne/discord_cogs/pull/57) in [Malarne/discord_cogs](https://github.com/Malarne/discord_cogs)
-4. ❗️ Closed issue [#53](https://github.com/TrainerDex/DiscordBot/issues/53) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-5. ❗️ Opened issue [#53](https://github.com/TrainerDex/DiscordBot/issues/53) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+1. 🎉 Merged PR [#55](https://github.com/TrainerDex/DiscordBot/pull/55) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+2. 💪 Opened PR [#55](https://github.com/TrainerDex/DiscordBot/pull/55) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+3. 🎉 Merged PR [#54](https://github.com/TrainerDex/DiscordBot/pull/54) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+4. 💪 Opened PR [#58](https://github.com/Malarne/discord_cogs/pull/58) in [Malarne/discord_cogs](https://github.com/Malarne/discord_cogs)
+5. 💪 Opened PR [#57](https://github.com/Malarne/discord_cogs/pull/57) in [Malarne/discord_cogs](https://github.com/Malarne/discord_cogs)
 <!--END_SECTION:activity-->
