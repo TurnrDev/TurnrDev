@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/TrainerDex/PogoOCR/pull/14) in [TrainerDex/PogoOCR](https://github.com/TrainerDex/PogoOCR)
-2. 💪 Opened PR [#14](https://github.com/TrainerDex/PogoOCR/pull/14) in [TrainerDex/PogoOCR](https://github.com/TrainerDex/PogoOCR)
-3. 🎉 Merged PR [#55](https://github.com/TrainerDex/DiscordBot/pull/55) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-4. 💪 Opened PR [#55](https://github.com/TrainerDex/DiscordBot/pull/55) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-5. 🎉 Merged PR [#54](https://github.com/TrainerDex/DiscordBot/pull/54) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+1. 🎉 Merged PR [#56](https://github.com/TrainerDex/DiscordBot/pull/56) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+2. 🎉 Merged PR [#14](https://github.com/TrainerDex/PogoOCR/pull/14) in [TrainerDex/PogoOCR](https://github.com/TrainerDex/PogoOCR)
+3. 💪 Opened PR [#14](https://github.com/TrainerDex/PogoOCR/pull/14) in [TrainerDex/PogoOCR](https://github.com/TrainerDex/PogoOCR)
+4. 🎉 Merged PR [#55](https://github.com/TrainerDex/DiscordBot/pull/55) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+5. 💪 Opened PR [#55](https://github.com/TrainerDex/DiscordBot/pull/55) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
 <!--END_SECTION:activity-->
