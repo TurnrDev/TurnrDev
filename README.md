@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#154](https://github.com/bee-keeper/django-invitations/issues/154) in [bee-keeper/django-invitations](https://github.com/bee-keeper/django-invitations)
-2. 🗣 Commented on [#103](https://github.com/actions/labeler/issues/103) in [actions/labeler](https://github.com/actions/labeler)
-3. 💪 Opened PR [#882](https://github.com/django-helpdesk/django-helpdesk/pull/882) in [django-helpdesk/django-helpdesk](https://github.com/django-helpdesk/django-helpdesk)
-4. 🎉 Merged PR [#59](https://github.com/TrainerDex/DiscordBot/pull/59) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-5. 🎉 Merged PR [#57](https://github.com/TrainerDex/DiscordBot/pull/57) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+1. 💪 Opened PR [#2680](https://github.com/pennersr/django-allauth/pull/2680) in [pennersr/django-allauth](https://github.com/pennersr/django-allauth)
+2. 🗣 Commented on [#154](https://github.com/bee-keeper/django-invitations/issues/154) in [bee-keeper/django-invitations](https://github.com/bee-keeper/django-invitations)
+3. 🗣 Commented on [#103](https://github.com/actions/labeler/issues/103) in [actions/labeler](https://github.com/actions/labeler)
+4. 💪 Opened PR [#882](https://github.com/django-helpdesk/django-helpdesk/pull/882) in [django-helpdesk/django-helpdesk](https://github.com/django-helpdesk/django-helpdesk)
+5. 🎉 Merged PR [#59](https://github.com/TrainerDex/DiscordBot/pull/59) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
 <!--END_SECTION:activity-->
