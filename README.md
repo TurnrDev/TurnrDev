@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#103](https://github.com/actions/labeler/issues/103) in [actions/labeler](https://github.com/actions/labeler)
-2. 🎉 Merged PR [#61](https://github.com/TrainerDex/Website/pull/61) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-3. ❗️ Closed issue [#103](https://github.com/actions/labeler/issues/103) in [actions/labeler](https://github.com/actions/labeler)
-4. 💪 Opened PR [#61](https://github.com/TrainerDex/Website/pull/61) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-5. 🗣 Commented on [#882](https://github.com/django-helpdesk/django-helpdesk/issues/882) in [django-helpdesk/django-helpdesk](https://github.com/django-helpdesk/django-helpdesk)
+1. 💪 Opened PR [#57](https://github.com/codecov/example-python/pull/57) in [codecov/example-python](https://github.com/codecov/example-python)
+2. 🗣 Commented on [#103](https://github.com/actions/labeler/issues/103) in [actions/labeler](https://github.com/actions/labeler)
+3. 🎉 Merged PR [#61](https://github.com/TrainerDex/Website/pull/61) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+4. ❗️ Closed issue [#103](https://github.com/actions/labeler/issues/103) in [actions/labeler](https://github.com/actions/labeler)
+5. 💪 Opened PR [#61](https://github.com/TrainerDex/Website/pull/61) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
 <!--END_SECTION:activity-->
