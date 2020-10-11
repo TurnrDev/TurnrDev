@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#882](https://github.com/django-helpdesk/django-helpdesk/issues/882) in [django-helpdesk/django-helpdesk](https://github.com/django-helpdesk/django-helpdesk)
-2. 🗣 Commented on [#2680](https://github.com/pennersr/django-allauth/issues/2680) in [pennersr/django-allauth](https://github.com/pennersr/django-allauth)
-3. 💪 Opened PR [#2680](https://github.com/pennersr/django-allauth/pull/2680) in [pennersr/django-allauth](https://github.com/pennersr/django-allauth)
-4. 🗣 Commented on [#154](https://github.com/bee-keeper/django-invitations/issues/154) in [bee-keeper/django-invitations](https://github.com/bee-keeper/django-invitations)
-5. 🗣 Commented on [#103](https://github.com/actions/labeler/issues/103) in [actions/labeler](https://github.com/actions/labeler)
+1. 🗣 Commented on [#103](https://github.com/actions/labeler/issues/103) in [actions/labeler](https://github.com/actions/labeler)
+2. 🎉 Merged PR [#61](https://github.com/TrainerDex/Website/pull/61) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+3. ❗️ Closed issue [#103](https://github.com/actions/labeler/issues/103) in [actions/labeler](https://github.com/actions/labeler)
+4. 💪 Opened PR [#61](https://github.com/TrainerDex/Website/pull/61) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+5. 🗣 Commented on [#882](https://github.com/django-helpdesk/django-helpdesk/issues/882) in [django-helpdesk/django-helpdesk](https://github.com/django-helpdesk/django-helpdesk)
 <!--END_SECTION:activity-->
