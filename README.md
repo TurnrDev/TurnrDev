@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#57](https://github.com/codecov/example-python/pull/57) in [codecov/example-python](https://github.com/codecov/example-python)
-2. 🗣 Commented on [#103](https://github.com/actions/labeler/issues/103) in [actions/labeler](https://github.com/actions/labeler)
-3. 🎉 Merged PR [#61](https://github.com/TrainerDex/Website/pull/61) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-4. ❗️ Closed issue [#103](https://github.com/actions/labeler/issues/103) in [actions/labeler](https://github.com/actions/labeler)
-5. 💪 Opened PR [#61](https://github.com/TrainerDex/Website/pull/61) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+1. 🎉 Merged PR [#65](https://github.com/TrainerDex/Website/pull/65) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+2. 🎉 Merged PR [#64](https://github.com/TrainerDex/Website/pull/64) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+3. 💪 Opened PR [#57](https://github.com/codecov/example-python/pull/57) in [codecov/example-python](https://github.com/codecov/example-python)
+4. 🗣 Commented on [#103](https://github.com/actions/labeler/issues/103) in [actions/labeler](https://github.com/actions/labeler)
+5. 🎉 Merged PR [#61](https://github.com/TrainerDex/Website/pull/61) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
 <!--END_SECTION:activity-->
