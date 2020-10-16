@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#63](https://github.com/TrainerDex/Website/issues/63) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-2. 🎉 Merged PR [#71](https://github.com/TrainerDex/Website/pull/71) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-3. 🎉 Merged PR [#66](https://github.com/TrainerDex/Website/pull/66) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-4. 🎉 Merged PR [#70](https://github.com/TrainerDex/Website/pull/70) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-5. 🎉 Merged PR [#72](https://github.com/TrainerDex/Website/pull/72) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+1. 🗣 Commented on [#62](https://github.com/TrainerDex/DiscordBot/issues/62) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+2. 🗣 Commented on [#62](https://github.com/TrainerDex/DiscordBot/issues/62) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+3. ❗️ Opened issue [#62](https://github.com/TrainerDex/DiscordBot/issues/62) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+4. 🗣 Commented on [#120](https://github.com/flapjax/FlapJack-Cogs/issues/120) in [flapjax/FlapJack-Cogs](https://github.com/flapjax/FlapJack-Cogs)
+5. 💪 Opened PR [#120](https://github.com/flapjax/FlapJack-Cogs/pull/120) in [flapjax/FlapJack-Cogs](https://github.com/flapjax/FlapJack-Cogs)
 <!--END_SECTION:activity-->
