@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/TrainerDex/PogoOCR/issues/9) in [TrainerDex/PogoOCR](https://github.com/TrainerDex/PogoOCR)
-2. 🗣 Commented on [#62](https://github.com/TrainerDex/DiscordBot/issues/62) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+1. 🗣 Commented on [#62](https://github.com/TrainerDex/DiscordBot/issues/62) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+2. 🗣 Commented on [#9](https://github.com/TrainerDex/PogoOCR/issues/9) in [TrainerDex/PogoOCR](https://github.com/TrainerDex/PogoOCR)
 3. 🗣 Commented on [#62](https://github.com/TrainerDex/DiscordBot/issues/62) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
 4. 🗣 Commented on [#62](https://github.com/TrainerDex/DiscordBot/issues/62) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-5. ❗️ Opened issue [#62](https://github.com/TrainerDex/DiscordBot/issues/62) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+5. 🗣 Commented on [#62](https://github.com/TrainerDex/DiscordBot/issues/62) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
 <!--END_SECTION:activity-->
