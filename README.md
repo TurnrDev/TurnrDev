@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Ext-Creators/discord-ext-converters/issues/1) in [Ext-Creators/discord-ext-converters](https://github.com/Ext-Creators/discord-ext-converters)
-2. 🎉 Merged PR [#62](https://github.com/TrainerDex/Website/pull/62) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-3. 🎉 Merged PR [#65](https://github.com/TrainerDex/Website/pull/65) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-4. 🎉 Merged PR [#64](https://github.com/TrainerDex/Website/pull/64) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-5. 💪 Opened PR [#57](https://github.com/codecov/example-python/pull/57) in [codecov/example-python](https://github.com/codecov/example-python)
+1. 🎉 Merged PR [#61](https://github.com/TrainerDex/DiscordBot/pull/61) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+2. 🗣 Commented on [#1](https://github.com/Ext-Creators/discord-ext-converters/issues/1) in [Ext-Creators/discord-ext-converters](https://github.com/Ext-Creators/discord-ext-converters)
+3. 🎉 Merged PR [#62](https://github.com/TrainerDex/Website/pull/62) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+4. 🎉 Merged PR [#65](https://github.com/TrainerDex/Website/pull/65) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+5. 🎉 Merged PR [#64](https://github.com/TrainerDex/Website/pull/64) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
 <!--END_SECTION:activity-->
