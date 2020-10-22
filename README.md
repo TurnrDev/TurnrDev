@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#62](https://github.com/TrainerDex/DiscordBot/issues/62) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-2. 🗣 Commented on [#9](https://github.com/TrainerDex/PogoOCR/issues/9) in [TrainerDex/PogoOCR](https://github.com/TrainerDex/PogoOCR)
-3. 🗣 Commented on [#62](https://github.com/TrainerDex/DiscordBot/issues/62) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-4. 🗣 Commented on [#62](https://github.com/TrainerDex/DiscordBot/issues/62) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-5. 🗣 Commented on [#62](https://github.com/TrainerDex/DiscordBot/issues/62) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+1. ❌ Closed PR [#78](https://github.com/TrainerDex/Website/pull/78) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+2. ❌ Closed PR [#77](https://github.com/TrainerDex/Website/pull/77) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+3. ❌ Closed PR [#75](https://github.com/TrainerDex/Website/pull/75) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+4. ❌ Closed PR [#74](https://github.com/TrainerDex/Website/pull/74) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+5. 🎉 Merged PR [#76](https://github.com/TrainerDex/Website/pull/76) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
 <!--END_SECTION:activity-->
