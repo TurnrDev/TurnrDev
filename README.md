@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#63](https://github.com/TrainerDex/DiscordBot/pull/63) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-2. 🗣 Commented on [#63](https://github.com/TrainerDex/DiscordBot/issues/63) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-3. ❌ Closed PR [#78](https://github.com/TrainerDex/Website/pull/78) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-4. ❌ Closed PR [#77](https://github.com/TrainerDex/Website/pull/77) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-5. ❌ Closed PR [#75](https://github.com/TrainerDex/Website/pull/75) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+1. 💪 Opened PR [#1](https://github.com/craigtweedy/django-rest-versioning/pull/1) in [craigtweedy/django-rest-versioning](https://github.com/craigtweedy/django-rest-versioning)
+2. ❌ Closed PR [#63](https://github.com/TrainerDex/DiscordBot/pull/63) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+3. 🗣 Commented on [#63](https://github.com/TrainerDex/DiscordBot/issues/63) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+4. ❌ Closed PR [#78](https://github.com/TrainerDex/Website/pull/78) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+5. ❌ Closed PR [#77](https://github.com/TrainerDex/Website/pull/77) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
 <!--END_SECTION:activity-->
