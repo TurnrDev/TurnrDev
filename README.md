@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/craigtweedy/django-rest-versioning/pull/1) in [craigtweedy/django-rest-versioning](https://github.com/craigtweedy/django-rest-versioning)
-2. ❌ Closed PR [#63](https://github.com/TrainerDex/DiscordBot/pull/63) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-3. 🗣 Commented on [#63](https://github.com/TrainerDex/DiscordBot/issues/63) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-4. ❌ Closed PR [#78](https://github.com/TrainerDex/Website/pull/78) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-5. ❌ Closed PR [#77](https://github.com/TrainerDex/Website/pull/77) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+1. 🗣 Commented on [#3896](https://github.com/Cog-Creators/Red-DiscordBot/issues/3896) in [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
+2. 💪 Opened PR [#4551](https://github.com/Cog-Creators/Red-DiscordBot/pull/4551) in [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
+3. 🎉 Merged PR [#60](https://github.com/TrainerDex/DiscordBot/pull/60) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+4. 💪 Opened PR [#1](https://github.com/craigtweedy/django-rest-versioning/pull/1) in [craigtweedy/django-rest-versioning](https://github.com/craigtweedy/django-rest-versioning)
+5. ❌ Closed PR [#63](https://github.com/TrainerDex/DiscordBot/pull/63) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
 <!--END_SECTION:activity-->
