@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4551](https://github.com/Cog-Creators/Red-DiscordBot/issues/4551) in [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
-2. 🗣 Commented on [#3896](https://github.com/Cog-Creators/Red-DiscordBot/issues/3896) in [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
-3. 💪 Opened PR [#4551](https://github.com/Cog-Creators/Red-DiscordBot/pull/4551) in [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
-4. 🎉 Merged PR [#60](https://github.com/TrainerDex/DiscordBot/pull/60) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-5. 💪 Opened PR [#1](https://github.com/craigtweedy/django-rest-versioning/pull/1) in [craigtweedy/django-rest-versioning](https://github.com/craigtweedy/django-rest-versioning)
+1. ❗️ Opened issue [#66](https://github.com/TrainerDex/DiscordBot/issues/66) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+2. ❗️ Opened issue [#65](https://github.com/TrainerDex/DiscordBot/issues/65) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+3. 🗣 Commented on [#36](https://github.com/TrainerDex/DiscordBot/issues/36) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+4. 🗣 Commented on [#64](https://github.com/TrainerDex/DiscordBot/issues/64) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+5. ❗️ Opened issue [#64](https://github.com/TrainerDex/DiscordBot/issues/64) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
 <!--END_SECTION:activity-->
