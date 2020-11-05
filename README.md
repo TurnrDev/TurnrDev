@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#84](https://github.com/TrainerDex/Website/pull/84) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-2. 🗣 Commented on [#107](https://github.com/wsvincent/awesome-django/issues/107) in [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django)
-3. ❗️ Opened issue [#69](https://github.com/TrainerDex/DiscordBot/issues/69) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-4. 🎉 Merged PR [#68](https://github.com/TrainerDex/DiscordBot/pull/68) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-5. 🎉 Merged PR [#82](https://github.com/TrainerDex/Website/pull/82) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+1. 🎉 Merged PR [#83](https://github.com/TrainerDex/Website/pull/83) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+2. 🎉 Merged PR [#84](https://github.com/TrainerDex/Website/pull/84) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+3. 💪 Opened PR [#84](https://github.com/TrainerDex/Website/pull/84) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+4. 🗣 Commented on [#107](https://github.com/wsvincent/awesome-django/issues/107) in [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django)
+5. ❗️ Opened issue [#69](https://github.com/TrainerDex/DiscordBot/issues/69) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
 <!--END_SECTION:activity-->
