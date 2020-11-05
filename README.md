@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2706](https://github.com/pennersr/django-allauth/pull/2706) in [pennersr/django-allauth](https://github.com/pennersr/django-allauth)
-2. 🎉 Merged PR [#83](https://github.com/TrainerDex/Website/pull/83) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-3. 🎉 Merged PR [#84](https://github.com/TrainerDex/Website/pull/84) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-4. 💪 Opened PR [#84](https://github.com/TrainerDex/Website/pull/84) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-5. 🗣 Commented on [#107](https://github.com/wsvincent/awesome-django/issues/107) in [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django)
+1. 🗣 Commented on [#58](https://github.com/django-oscar/django-oscar-accounts/issues/58) in [django-oscar/django-oscar-accounts](https://github.com/django-oscar/django-oscar-accounts)
+2. 💪 Opened PR [#2706](https://github.com/pennersr/django-allauth/pull/2706) in [pennersr/django-allauth](https://github.com/pennersr/django-allauth)
+3. 🎉 Merged PR [#83](https://github.com/TrainerDex/Website/pull/83) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+4. 🎉 Merged PR [#84](https://github.com/TrainerDex/Website/pull/84) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+5. 💪 Opened PR [#84](https://github.com/TrainerDex/Website/pull/84) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
 <!--END_SECTION:activity-->
