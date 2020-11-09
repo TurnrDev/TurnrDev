@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#118](https://github.com/django-oscar/django-oscar-accounts/pull/118) in [django-oscar/django-oscar-accounts](https://github.com/django-oscar/django-oscar-accounts)
-2. 💪 Opened PR [#117](https://github.com/django-oscar/django-oscar-accounts/pull/117) in [django-oscar/django-oscar-accounts](https://github.com/django-oscar/django-oscar-accounts)
-3. 🎉 Merged PR [#85](https://github.com/TrainerDex/Website/pull/85) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-4. 💪 Opened PR [#70](https://github.com/TrainerDex/DiscordBot/pull/70) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-5. 🗣 Commented on [#58](https://github.com/django-oscar/django-oscar-accounts/issues/58) in [django-oscar/django-oscar-accounts](https://github.com/django-oscar/django-oscar-accounts)
+1. 🎉 Merged PR [#70](https://github.com/TrainerDex/DiscordBot/pull/70) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+2. 💪 Opened PR [#118](https://github.com/django-oscar/django-oscar-accounts/pull/118) in [django-oscar/django-oscar-accounts](https://github.com/django-oscar/django-oscar-accounts)
+3. 💪 Opened PR [#117](https://github.com/django-oscar/django-oscar-accounts/pull/117) in [django-oscar/django-oscar-accounts](https://github.com/django-oscar/django-oscar-accounts)
+4. 🎉 Merged PR [#85](https://github.com/TrainerDex/Website/pull/85) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+5. 💪 Opened PR [#70](https://github.com/TrainerDex/DiscordBot/pull/70) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
 <!--END_SECTION:activity-->
