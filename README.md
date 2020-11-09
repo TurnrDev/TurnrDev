@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#70](https://github.com/TrainerDex/DiscordBot/pull/70) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-2. 💪 Opened PR [#118](https://github.com/django-oscar/django-oscar-accounts/pull/118) in [django-oscar/django-oscar-accounts](https://github.com/django-oscar/django-oscar-accounts)
-3. 💪 Opened PR [#117](https://github.com/django-oscar/django-oscar-accounts/pull/117) in [django-oscar/django-oscar-accounts](https://github.com/django-oscar/django-oscar-accounts)
-4. 🎉 Merged PR [#85](https://github.com/TrainerDex/Website/pull/85) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-5. 💪 Opened PR [#70](https://github.com/TrainerDex/DiscordBot/pull/70) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+1. ❌ Closed PR [#31](https://github.com/Azelphur/Monord/pull/31) in [Azelphur/Monord](https://github.com/Azelphur/Monord)
+2. 🎉 Merged PR [#1](https://github.com/TurnrDev/Monord/pull/1) in [TurnrDev/Monord](https://github.com/TurnrDev/Monord)
+3. 💪 Opened PR [#1](https://github.com/TurnrDev/Monord/pull/1) in [TurnrDev/Monord](https://github.com/TurnrDev/Monord)
+4. 🎉 Merged PR [#70](https://github.com/TrainerDex/DiscordBot/pull/70) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+5. 💪 Opened PR [#118](https://github.com/django-oscar/django-oscar-accounts/pull/118) in [django-oscar/django-oscar-accounts](https://github.com/django-oscar/django-oscar-accounts)
 <!--END_SECTION:activity-->
