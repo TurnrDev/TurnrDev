@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#119](https://github.com/django-oscar/django-oscar-accounts/pull/119) in [django-oscar/django-oscar-accounts](https://github.com/django-oscar/django-oscar-accounts)
-2. ❌ Closed PR [#1](https://github.com/maerts/PogoOCR/pull/1) in [maerts/PogoOCR](https://github.com/maerts/PogoOCR)
-3. ❌ Closed PR [#31](https://github.com/Azelphur/Monord/pull/31) in [Azelphur/Monord](https://github.com/Azelphur/Monord)
-4. 🎉 Merged PR [#1](https://github.com/TurnrDev/Monord/pull/1) in [TurnrDev/Monord](https://github.com/TurnrDev/Monord)
-5. 💪 Opened PR [#1](https://github.com/TurnrDev/Monord/pull/1) in [TurnrDev/Monord](https://github.com/TurnrDev/Monord)
+1. ❗️ Closed issue [#29](https://github.com/Azelphur/Monord/issues/29) in [Azelphur/Monord](https://github.com/Azelphur/Monord)
+2. ❌ Closed PR [#30](https://github.com/Azelphur/Monord/pull/30) in [Azelphur/Monord](https://github.com/Azelphur/Monord)
+3. ❌ Closed PR [#3](https://github.com/TurnrDev/Monord/pull/3) in [TurnrDev/Monord](https://github.com/TurnrDev/Monord)
+4. 🗣 Commented on [#3](https://github.com/TurnrDev/Monord/issues/3) in [TurnrDev/Monord](https://github.com/TurnrDev/Monord)
+5. 🗣 Commented on [#3](https://github.com/TurnrDev/Monord/issues/3) in [TurnrDev/Monord](https://github.com/TurnrDev/Monord)
 <!--END_SECTION:activity-->
