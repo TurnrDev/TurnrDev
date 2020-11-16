@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#72](https://github.com/TrainerDex/DiscordBot/pull/72) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-2. 🎉 Merged PR [#88](https://github.com/TrainerDex/Website/pull/88) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-3. 🎉 Merged PR [#87](https://github.com/TrainerDex/Website/pull/87) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-4. 💪 Opened PR [#87](https://github.com/TrainerDex/Website/pull/87) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-5. 🗣 Commented on [#119](https://github.com/django-oscar/django-oscar-accounts/issues/119) in [django-oscar/django-oscar-accounts](https://github.com/django-oscar/django-oscar-accounts)
+1. 🗣 Commented on [#4569](https://github.com/Cog-Creators/Red-DiscordBot/issues/4569) in [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
+2. 🎉 Merged PR [#72](https://github.com/TrainerDex/DiscordBot/pull/72) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+3. 🎉 Merged PR [#88](https://github.com/TrainerDex/Website/pull/88) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+4. 🎉 Merged PR [#87](https://github.com/TrainerDex/Website/pull/87) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+5. 💪 Opened PR [#87](https://github.com/TrainerDex/Website/pull/87) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
 <!--END_SECTION:activity-->
