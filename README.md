@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#74](https://github.com/TrainerDex/DiscordBot/pull/74) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-2. 💪 Opened PR [#74](https://github.com/TrainerDex/DiscordBot/pull/74) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-3. 🎉 Merged PR [#73](https://github.com/TrainerDex/DiscordBot/pull/73) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-4. 🎉 Merged PR [#89](https://github.com/TrainerDex/Website/pull/89) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-5. 🗣 Commented on [#183](https://github.com/gta-chaos-mod/ChaosModV/issues/183) in [gta-chaos-mod/ChaosModV](https://github.com/gta-chaos-mod/ChaosModV)
+1. 💪 Opened PR [#90](https://github.com/TrainerDex/Website/pull/90) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+2. 🎉 Merged PR [#74](https://github.com/TrainerDex/DiscordBot/pull/74) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+3. 💪 Opened PR [#74](https://github.com/TrainerDex/DiscordBot/pull/74) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+4. 🎉 Merged PR [#73](https://github.com/TrainerDex/DiscordBot/pull/73) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+5. 🎉 Merged PR [#89](https://github.com/TrainerDex/Website/pull/89) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
 <!--END_SECTION:activity-->
