@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/TrainerDex/TrainerDex.py/pull/31) in [TrainerDex/TrainerDex.py](https://github.com/TrainerDex/TrainerDex.py)
-2. 💪 Opened PR [#13721](https://github.com/django/django/pull/13721) in [django/django](https://github.com/django/django)
-3. 🎉 Merged PR [#92](https://github.com/TrainerDex/Website/pull/92) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-4. 🗣 Commented on [#8](https://github.com/PokeMiners/pogo_assets/issues/8) in [PokeMiners/pogo_assets](https://github.com/PokeMiners/pogo_assets)
-5. ❗️ Opened issue [#8](https://github.com/PokeMiners/pogo_assets/issues/8) in [PokeMiners/pogo_assets](https://github.com/PokeMiners/pogo_assets)
+1. ❗️ Closed issue [#75](https://github.com/TrainerDex/DiscordBot/issues/75) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+2. 🗣 Commented on [#75](https://github.com/TrainerDex/DiscordBot/issues/75) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+3. 💪 Opened PR [#31](https://github.com/TrainerDex/TrainerDex.py/pull/31) in [TrainerDex/TrainerDex.py](https://github.com/TrainerDex/TrainerDex.py)
+4. 💪 Opened PR [#13721](https://github.com/django/django/pull/13721) in [django/django](https://github.com/django/django)
+5. 🎉 Merged PR [#92](https://github.com/TrainerDex/Website/pull/92) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
 <!--END_SECTION:activity-->
