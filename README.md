@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com/PokeMiners/pogo_assets/issues/8) in [PokeMiners/pogo_assets](https://github.com/PokeMiners/pogo_assets)
-2. 💪 Opened PR [#92](https://github.com/TrainerDex/Website/pull/92) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-3. 🎉 Merged PR [#90](https://github.com/TrainerDex/Website/pull/90) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-4. ❗️ Opened issue [#75](https://github.com/TrainerDex/DiscordBot/issues/75) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-5. 💪 Opened PR [#90](https://github.com/TrainerDex/Website/pull/90) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+1. 🗣 Commented on [#8](https://github.com/PokeMiners/pogo_assets/issues/8) in [PokeMiners/pogo_assets](https://github.com/PokeMiners/pogo_assets)
+2. ❗️ Opened issue [#8](https://github.com/PokeMiners/pogo_assets/issues/8) in [PokeMiners/pogo_assets](https://github.com/PokeMiners/pogo_assets)
+3. 💪 Opened PR [#92](https://github.com/TrainerDex/Website/pull/92) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+4. 🎉 Merged PR [#90](https://github.com/TrainerDex/Website/pull/90) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+5. ❗️ Opened issue [#75](https://github.com/TrainerDex/DiscordBot/issues/75) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
 <!--END_SECTION:activity-->
