@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#77](https://github.com/TrainerDex/DiscordBot/pull/77) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-2. 💪 Opened PR [#76](https://github.com/TrainerDex/DiscordBot/pull/76) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-3. ❗️ Closed issue [#75](https://github.com/TrainerDex/DiscordBot/issues/75) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-4. 🗣 Commented on [#75](https://github.com/TrainerDex/DiscordBot/issues/75) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-5. 💪 Opened PR [#31](https://github.com/TrainerDex/TrainerDex.py/pull/31) in [TrainerDex/TrainerDex.py](https://github.com/TrainerDex/TrainerDex.py)
+1. 🎉 Merged PR [#76](https://github.com/TrainerDex/DiscordBot/pull/76) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+2. 🎉 Merged PR [#77](https://github.com/TrainerDex/DiscordBot/pull/77) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+3. 💪 Opened PR [#77](https://github.com/TrainerDex/DiscordBot/pull/77) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+4. 💪 Opened PR [#76](https://github.com/TrainerDex/DiscordBot/pull/76) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+5. ❗️ Closed issue [#75](https://github.com/TrainerDex/DiscordBot/issues/75) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
 <!--END_SECTION:activity-->
