@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#78](https://github.com/TrainerDex/DiscordBot/pull/78) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-2. 🎉 Merged PR [#1](https://github.com/TurnrDev/django/pull/1) in [TurnrDev/django](https://github.com/TurnrDev/django)
-3. 💪 Opened PR [#1](https://github.com/TurnrDev/django/pull/1) in [TurnrDev/django](https://github.com/TurnrDev/django)
-4. 🎉 Merged PR [#76](https://github.com/TrainerDex/DiscordBot/pull/76) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-5. 🎉 Merged PR [#77](https://github.com/TrainerDex/DiscordBot/pull/77) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+1. 🗣 Commented on [#187](https://github.com/gta-chaos-mod/ChaosModV/issues/187) in [gta-chaos-mod/ChaosModV](https://github.com/gta-chaos-mod/ChaosModV)
+2. 💪 Opened PR [#78](https://github.com/TrainerDex/DiscordBot/pull/78) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+3. 🎉 Merged PR [#1](https://github.com/TurnrDev/django/pull/1) in [TurnrDev/django](https://github.com/TurnrDev/django)
+4. 💪 Opened PR [#1](https://github.com/TurnrDev/django/pull/1) in [TurnrDev/django](https://github.com/TurnrDev/django)
+5. 🎉 Merged PR [#76](https://github.com/TrainerDex/DiscordBot/pull/76) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
 <!--END_SECTION:activity-->
