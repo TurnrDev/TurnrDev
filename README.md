@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#94](https://github.com/TrainerDex/Website/pull/94) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-2. 🎉 Merged PR [#78](https://github.com/TrainerDex/DiscordBot/pull/78) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-3. 🗣 Commented on [#13721](https://github.com/django/django/issues/13721) in [django/django](https://github.com/django/django)
-4. 🗣 Commented on [#187](https://github.com/gta-chaos-mod/ChaosModV/issues/187) in [gta-chaos-mod/ChaosModV](https://github.com/gta-chaos-mod/ChaosModV)
-5. 💪 Opened PR [#78](https://github.com/TrainerDex/DiscordBot/pull/78) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+1. 🗣 Commented on [#187](https://github.com/gta-chaos-mod/ChaosModV/issues/187) in [gta-chaos-mod/ChaosModV](https://github.com/gta-chaos-mod/ChaosModV)
+2. ❌ Closed PR [#94](https://github.com/TrainerDex/Website/pull/94) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+3. 💪 Opened PR [#94](https://github.com/TrainerDex/Website/pull/94) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+4. 🎉 Merged PR [#78](https://github.com/TrainerDex/DiscordBot/pull/78) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+5. 🗣 Commented on [#13721](https://github.com/django/django/issues/13721) in [django/django](https://github.com/django/django)
 <!--END_SECTION:activity-->
