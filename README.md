@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#78](https://github.com/TrainerDex/DiscordBot/pull/78) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-2. 🗣 Commented on [#13721](https://github.com/django/django/issues/13721) in [django/django](https://github.com/django/django)
-3. 🗣 Commented on [#187](https://github.com/gta-chaos-mod/ChaosModV/issues/187) in [gta-chaos-mod/ChaosModV](https://github.com/gta-chaos-mod/ChaosModV)
-4. 💪 Opened PR [#78](https://github.com/TrainerDex/DiscordBot/pull/78) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-5. 🎉 Merged PR [#1](https://github.com/TurnrDev/django/pull/1) in [TurnrDev/django](https://github.com/TurnrDev/django)
+1. 💪 Opened PR [#94](https://github.com/TrainerDex/Website/pull/94) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+2. 🎉 Merged PR [#78](https://github.com/TrainerDex/DiscordBot/pull/78) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+3. 🗣 Commented on [#13721](https://github.com/django/django/issues/13721) in [django/django](https://github.com/django/django)
+4. 🗣 Commented on [#187](https://github.com/gta-chaos-mod/ChaosModV/issues/187) in [gta-chaos-mod/ChaosModV](https://github.com/gta-chaos-mod/ChaosModV)
+5. 💪 Opened PR [#78](https://github.com/TrainerDex/DiscordBot/pull/78) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
 <!--END_SECTION:activity-->
