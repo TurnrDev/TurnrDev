@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#79](https://github.com/TrainerDex/DiscordBot/pull/79) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-2. 🗣 Commented on [#187](https://github.com/gta-chaos-mod/ChaosModV/issues/187) in [gta-chaos-mod/ChaosModV](https://github.com/gta-chaos-mod/ChaosModV)
-3. ❌ Closed PR [#94](https://github.com/TrainerDex/Website/pull/94) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-4. 💪 Opened PR [#94](https://github.com/TrainerDex/Website/pull/94) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-5. 🎉 Merged PR [#78](https://github.com/TrainerDex/DiscordBot/pull/78) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+1. 💪 Opened PR [#97](https://github.com/TrainerDex/Website/pull/97) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+2. 💪 Opened PR [#79](https://github.com/TrainerDex/DiscordBot/pull/79) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+3. 🗣 Commented on [#187](https://github.com/gta-chaos-mod/ChaosModV/issues/187) in [gta-chaos-mod/ChaosModV](https://github.com/gta-chaos-mod/ChaosModV)
+4. ❌ Closed PR [#94](https://github.com/TrainerDex/Website/pull/94) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+5. 💪 Opened PR [#94](https://github.com/TrainerDex/Website/pull/94) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
 <!--END_SECTION:activity-->
