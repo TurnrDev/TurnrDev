@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/eunwoo1104/discord-py-slash-command/issues/27) in [eunwoo1104/discord-py-slash-command](https://github.com/eunwoo1104/discord-py-slash-command)
-2. 🗣 Commented on [#32](https://github.com/eunwoo1104/discord-py-slash-command/issues/32) in [eunwoo1104/discord-py-slash-command](https://github.com/eunwoo1104/discord-py-slash-command)
-3. 🗣 Commented on [#7](https://github.com/eunwoo1104/discord-py-slash-command/issues/7) in [eunwoo1104/discord-py-slash-command](https://github.com/eunwoo1104/discord-py-slash-command)
-4. 💪 Opened PR [#97](https://github.com/TrainerDex/Website/pull/97) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-5. 💪 Opened PR [#79](https://github.com/TrainerDex/DiscordBot/pull/79) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+1. 🎉 Merged PR [#95](https://github.com/TrainerDex/Website/pull/95) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+2. 🎉 Merged PR [#96](https://github.com/TrainerDex/Website/pull/96) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+3. 🗣 Commented on [#98](https://github.com/TrainerDex/Website/issues/98) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+4. 🎉 Merged PR [#99](https://github.com/TrainerDex/Website/pull/99) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+5. 🎉 Merged PR [#80](https://github.com/TrainerDex/DiscordBot/pull/80) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
 <!--END_SECTION:activity-->
