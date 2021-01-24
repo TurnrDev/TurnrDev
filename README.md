@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/IpswichMapper/SwiftAddress/issues/1) in [IpswichMapper/SwiftAddress](https://github.com/IpswichMapper/SwiftAddress)
-2. ❗️ Opened issue [#1](https://github.com/IpswichMapper/SwiftAddress/issues/1) in [IpswichMapper/SwiftAddress](https://github.com/IpswichMapper/SwiftAddress)
-3. 🎉 Merged PR [#79](https://github.com/TrainerDex/DiscordBot/pull/79) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-4. 🎉 Merged PR [#95](https://github.com/TrainerDex/Website/pull/95) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-5. 🎉 Merged PR [#96](https://github.com/TrainerDex/Website/pull/96) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+1. 🗣 Commented on [#2588](https://github.com/osmlab/name-suggestion-index/issues/2588) in [osmlab/name-suggestion-index](https://github.com/osmlab/name-suggestion-index)
+2. ❗️ Opened issue [#4875](https://github.com/osmlab/name-suggestion-index/issues/4875) in [osmlab/name-suggestion-index](https://github.com/osmlab/name-suggestion-index)
+3. 🗣 Commented on [#4870](https://github.com/osmlab/name-suggestion-index/issues/4870) in [osmlab/name-suggestion-index](https://github.com/osmlab/name-suggestion-index)
+4. 💪 Opened PR [#4874](https://github.com/osmlab/name-suggestion-index/pull/4874) in [osmlab/name-suggestion-index](https://github.com/osmlab/name-suggestion-index)
+5. 🗣 Commented on [#1](https://github.com/IpswichMapper/SwiftAddress/issues/1) in [IpswichMapper/SwiftAddress](https://github.com/IpswichMapper/SwiftAddress)
 <!--END_SECTION:activity-->
