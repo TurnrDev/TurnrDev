@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4875](https://github.com/osmlab/name-suggestion-index/issues/4875) in [osmlab/name-suggestion-index](https://github.com/osmlab/name-suggestion-index)
+1. ❗️ Opened issue [#129](https://github.com/mpolden/echoip/issues/129) in [mpolden/echoip](https://github.com/mpolden/echoip)
 2. 🗣 Commented on [#4875](https://github.com/osmlab/name-suggestion-index/issues/4875) in [osmlab/name-suggestion-index](https://github.com/osmlab/name-suggestion-index)
-3. 🗣 Commented on [#3437](https://github.com/osmlab/name-suggestion-index/issues/3437) in [osmlab/name-suggestion-index](https://github.com/osmlab/name-suggestion-index)
-4. 🗣 Commented on [#2588](https://github.com/osmlab/name-suggestion-index/issues/2588) in [osmlab/name-suggestion-index](https://github.com/osmlab/name-suggestion-index)
-5. ❗️ Opened issue [#4875](https://github.com/osmlab/name-suggestion-index/issues/4875) in [osmlab/name-suggestion-index](https://github.com/osmlab/name-suggestion-index)
+3. 🗣 Commented on [#4875](https://github.com/osmlab/name-suggestion-index/issues/4875) in [osmlab/name-suggestion-index](https://github.com/osmlab/name-suggestion-index)
+4. 🗣 Commented on [#3437](https://github.com/osmlab/name-suggestion-index/issues/3437) in [osmlab/name-suggestion-index](https://github.com/osmlab/name-suggestion-index)
+5. 🗣 Commented on [#2588](https://github.com/osmlab/name-suggestion-index/issues/2588) in [osmlab/name-suggestion-index](https://github.com/osmlab/name-suggestion-index)
 <!--END_SECTION:activity-->
