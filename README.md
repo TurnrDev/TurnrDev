@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3051](https://github.com/openstreetmap/openstreetmap-website/issues/3051) in [openstreetmap/openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website)
-2. ❗️ Opened issue [#2544](https://github.com/streetcomplete/StreetComplete/issues/2544) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-3. 🗣 Commented on [#1](https://github.com/IpswichMapper/SwiftAddress/issues/1) in [IpswichMapper/SwiftAddress](https://github.com/IpswichMapper/SwiftAddress)
-4. ❗️ Opened issue [#129](https://github.com/mpolden/echoip/issues/129) in [mpolden/echoip](https://github.com/mpolden/echoip)
-5. 🗣 Commented on [#4875](https://github.com/osmlab/name-suggestion-index/issues/4875) in [osmlab/name-suggestion-index](https://github.com/osmlab/name-suggestion-index)
+1. 🗣 Commented on [#294](https://github.com/chibisov/drf-extensions/issues/294) in [chibisov/drf-extensions](https://github.com/chibisov/drf-extensions)
+2. 🗣 Commented on [#3051](https://github.com/openstreetmap/openstreetmap-website/issues/3051) in [openstreetmap/openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website)
+3. ❗️ Opened issue [#2544](https://github.com/streetcomplete/StreetComplete/issues/2544) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+4. 🗣 Commented on [#1](https://github.com/IpswichMapper/SwiftAddress/issues/1) in [IpswichMapper/SwiftAddress](https://github.com/IpswichMapper/SwiftAddress)
+5. ❗️ Opened issue [#129](https://github.com/mpolden/echoip/issues/129) in [mpolden/echoip](https://github.com/mpolden/echoip)
 <!--END_SECTION:activity-->
