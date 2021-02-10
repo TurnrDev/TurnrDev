@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10817](https://github.com/osmandapp/OsmAnd/issues/10817) in [osmandapp/OsmAnd](https://github.com/osmandapp/OsmAnd)
-2. 🗣 Commented on [#4324](https://github.com/gravitystorm/openstreetmap-carto/issues/4324) in [gravitystorm/openstreetmap-carto](https://github.com/gravitystorm/openstreetmap-carto)
-3. ❗️ Opened issue [#4324](https://github.com/gravitystorm/openstreetmap-carto/issues/4324) in [gravitystorm/openstreetmap-carto](https://github.com/gravitystorm/openstreetmap-carto)
-4. 🗣 Commented on [#294](https://github.com/chibisov/drf-extensions/issues/294) in [chibisov/drf-extensions](https://github.com/chibisov/drf-extensions)
-5. 🗣 Commented on [#3051](https://github.com/openstreetmap/openstreetmap-website/issues/3051) in [openstreetmap/openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website)
+1. 🗣 Commented on [#2563](https://github.com/streetcomplete/StreetComplete/issues/2563) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+2. ❗️ Opened issue [#10817](https://github.com/osmandapp/OsmAnd/issues/10817) in [osmandapp/OsmAnd](https://github.com/osmandapp/OsmAnd)
+3. 🗣 Commented on [#4324](https://github.com/gravitystorm/openstreetmap-carto/issues/4324) in [gravitystorm/openstreetmap-carto](https://github.com/gravitystorm/openstreetmap-carto)
+4. ❗️ Opened issue [#4324](https://github.com/gravitystorm/openstreetmap-carto/issues/4324) in [gravitystorm/openstreetmap-carto](https://github.com/gravitystorm/openstreetmap-carto)
+5. 🗣 Commented on [#294](https://github.com/chibisov/drf-extensions/issues/294) in [chibisov/drf-extensions](https://github.com/chibisov/drf-extensions)
 <!--END_SECTION:activity-->
