@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2590](https://github.com/streetcomplete/StreetComplete/issues/2590) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-2. 🗣 Commented on [#2566](https://github.com/streetcomplete/StreetComplete/issues/2566) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-3. 🗣 Commented on [#129](https://github.com/mpolden/echoip/issues/129) in [mpolden/echoip](https://github.com/mpolden/echoip)
-4. 🗣 Commented on [#2566](https://github.com/streetcomplete/StreetComplete/issues/2566) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-5. ❗️ Opened issue [#2566](https://github.com/streetcomplete/StreetComplete/issues/2566) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+1. ❗️ Opened issue [#1057](https://github.com/osmlab/editor-layer-index/issues/1057) in [osmlab/editor-layer-index](https://github.com/osmlab/editor-layer-index)
+2. ❗️ Opened issue [#2590](https://github.com/streetcomplete/StreetComplete/issues/2590) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+3. 🗣 Commented on [#2566](https://github.com/streetcomplete/StreetComplete/issues/2566) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+4. 🗣 Commented on [#129](https://github.com/mpolden/echoip/issues/129) in [mpolden/echoip](https://github.com/mpolden/echoip)
+5. 🗣 Commented on [#2566](https://github.com/streetcomplete/StreetComplete/issues/2566) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
 <!--END_SECTION:activity-->
