@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#122](https://github.com/openstreetmap/id-tagging-schema/issues/122) in [openstreetmap/id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema)
-2. 🗣 Commented on [#126](https://github.com/openstreetmap/id-tagging-schema/issues/126) in [openstreetmap/id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema)
-3. 🗣 Commented on [#122](https://github.com/openstreetmap/id-tagging-schema/issues/122) in [openstreetmap/id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema)
-4. 🗣 Commented on [#70](https://github.com/openstreetmap/id-tagging-schema/issues/70) in [openstreetmap/id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema)
-5. 🗣 Commented on [#2566](https://github.com/streetcomplete/StreetComplete/issues/2566) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+1. 💪 Opened PR [#2604](https://github.com/streetcomplete/StreetComplete/pull/2604) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+2. 🗣 Commented on [#122](https://github.com/openstreetmap/id-tagging-schema/issues/122) in [openstreetmap/id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema)
+3. 🗣 Commented on [#126](https://github.com/openstreetmap/id-tagging-schema/issues/126) in [openstreetmap/id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema)
+4. 🗣 Commented on [#122](https://github.com/openstreetmap/id-tagging-schema/issues/122) in [openstreetmap/id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema)
+5. 🗣 Commented on [#70](https://github.com/openstreetmap/id-tagging-schema/issues/70) in [openstreetmap/id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema)
 <!--END_SECTION:activity-->
