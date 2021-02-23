@@ -15,5 +15,5 @@
 2. 🗣 Commented on [#2604](https://github.com/streetcomplete/StreetComplete/issues/2604) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
 3. 🗣 Commented on [#2604](https://github.com/streetcomplete/StreetComplete/issues/2604) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
 4. 🗣 Commented on [#2604](https://github.com/streetcomplete/StreetComplete/issues/2604) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-5. 💪 Opened PR [#2604](https://github.com/streetcomplete/StreetComplete/pull/2604) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+5. 🗣 Commented on [#2604](https://github.com/streetcomplete/StreetComplete/issues/2604) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
 <!--END_SECTION:activity-->
