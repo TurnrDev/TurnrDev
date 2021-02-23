@@ -13,7 +13,7 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2604](https://github.com/streetcomplete/StreetComplete/issues/2604) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
 2. 🗣 Commented on [#2604](https://github.com/streetcomplete/StreetComplete/issues/2604) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-3. 💪 Opened PR [#2604](https://github.com/streetcomplete/StreetComplete/pull/2604) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-4. 🗣 Commented on [#122](https://github.com/openstreetmap/id-tagging-schema/issues/122) in [openstreetmap/id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema)
-5. 🗣 Commented on [#126](https://github.com/openstreetmap/id-tagging-schema/issues/126) in [openstreetmap/id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema)
+3. 🗣 Commented on [#2604](https://github.com/streetcomplete/StreetComplete/issues/2604) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+4. 🗣 Commented on [#2604](https://github.com/streetcomplete/StreetComplete/issues/2604) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+5. 💪 Opened PR [#2604](https://github.com/streetcomplete/StreetComplete/pull/2604) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
 <!--END_SECTION:activity-->
