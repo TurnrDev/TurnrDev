@@ -13,7 +13,7 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2566](https://github.com/streetcomplete/StreetComplete/issues/2566) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
 2. 🗣 Commented on [#2566](https://github.com/streetcomplete/StreetComplete/issues/2566) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-3. 🗣 Commented on [#2614](https://github.com/streetcomplete/StreetComplete/issues/2614) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-4. 🗣 Commented on [#129](https://github.com/mpolden/echoip/issues/129) in [mpolden/echoip](https://github.com/mpolden/echoip)
-5. 🗣 Commented on [#2583](https://github.com/streetcomplete/StreetComplete/issues/2583) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+3. 🗣 Commented on [#2566](https://github.com/streetcomplete/StreetComplete/issues/2566) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+4. 🗣 Commented on [#2614](https://github.com/streetcomplete/StreetComplete/issues/2614) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+5. 🗣 Commented on [#129](https://github.com/mpolden/echoip/issues/129) in [mpolden/echoip](https://github.com/mpolden/echoip)
 <!--END_SECTION:activity-->
