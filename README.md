@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/TrainerDex/Website/pull/2) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-2. ❌ Closed PR [#105](https://github.com/TrainerDex/Website/pull/105) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-3. ❌ Closed PR [#104](https://github.com/TrainerDex/Website/pull/104) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-4. ❌ Closed PR [#102](https://github.com/TrainerDex/Website/pull/102) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-5. ❌ Closed PR [#97](https://github.com/TrainerDex/Website/pull/97) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+1. 🗣 Commented on [#2647](https://github.com/streetcomplete/StreetComplete/issues/2647) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+2. ❌ Closed PR [#2](https://github.com/TrainerDex/Website/pull/2) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+3. ❌ Closed PR [#105](https://github.com/TrainerDex/Website/pull/105) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+4. ❌ Closed PR [#104](https://github.com/TrainerDex/Website/pull/104) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+5. ❌ Closed PR [#102](https://github.com/TrainerDex/Website/pull/102) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
 <!--END_SECTION:activity-->
