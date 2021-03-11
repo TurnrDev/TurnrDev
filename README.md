@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2651](https://github.com/streetcomplete/StreetComplete/issues/2651) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-2. 🗣 Commented on [#2652](https://github.com/streetcomplete/StreetComplete/issues/2652) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-3. 🗣 Commented on [#2651](https://github.com/streetcomplete/StreetComplete/issues/2651) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-4. 🗣 Commented on [#2647](https://github.com/streetcomplete/StreetComplete/issues/2647) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-5. ❌ Closed PR [#2](https://github.com/TrainerDex/Website/pull/2) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+1. 💪 Opened PR [#106](https://github.com/TrainerDex/Website/pull/106) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+2. 🗣 Commented on [#2651](https://github.com/streetcomplete/StreetComplete/issues/2651) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+3. 🗣 Commented on [#2652](https://github.com/streetcomplete/StreetComplete/issues/2652) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+4. 🗣 Commented on [#2651](https://github.com/streetcomplete/StreetComplete/issues/2651) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+5. 🗣 Commented on [#2647](https://github.com/streetcomplete/StreetComplete/issues/2647) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
 <!--END_SECTION:activity-->
