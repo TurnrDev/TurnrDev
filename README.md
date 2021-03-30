@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2702](https://github.com/streetcomplete/StreetComplete/issues/2702) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-2. 🗣 Commented on [#135](https://github.com/openstreetmap/id-tagging-schema/issues/135) in [openstreetmap/id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema)
-3. 🗣 Commented on [#2583](https://github.com/streetcomplete/StreetComplete/issues/2583) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-4. 💪 Opened PR [#988](https://github.com/notepadqq/notepadqq/pull/988) in [notepadqq/notepadqq](https://github.com/notepadqq/notepadqq)
-5. 💪 Opened PR [#106](https://github.com/TrainerDex/Website/pull/106) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+1. 🗣 Commented on [#2702](https://github.com/streetcomplete/StreetComplete/issues/2702) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+2. ❗️ Opened issue [#2702](https://github.com/streetcomplete/StreetComplete/issues/2702) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+3. 🗣 Commented on [#135](https://github.com/openstreetmap/id-tagging-schema/issues/135) in [openstreetmap/id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema)
+4. 🗣 Commented on [#2583](https://github.com/streetcomplete/StreetComplete/issues/2583) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+5. 💪 Opened PR [#988](https://github.com/notepadqq/notepadqq/pull/988) in [notepadqq/notepadqq](https://github.com/notepadqq/notepadqq)
 <!--END_SECTION:activity-->
