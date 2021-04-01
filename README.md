@@ -11,9 +11,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2704](https://github.com/streetcomplete/StreetComplete/issues/2704) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-2. 🗣 Commented on [#2702](https://github.com/streetcomplete/StreetComplete/issues/2702) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-3. ❗️ Opened issue [#2702](https://github.com/streetcomplete/StreetComplete/issues/2702) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-4. 🗣 Commented on [#135](https://github.com/openstreetmap/id-tagging-schema/issues/135) in [openstreetmap/id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema)
-5. 🗣 Commented on [#2583](https://github.com/streetcomplete/StreetComplete/issues/2583) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+1. 🗣 Commented on [#35](https://github.com/matkoniecz/lunar_assembler/issues/35) in [matkoniecz/lunar_assembler](https://github.com/matkoniecz/lunar_assembler)
+2. 💪 Opened PR [#36](https://github.com/matkoniecz/lunar_assembler/pull/36) in [matkoniecz/lunar_assembler](https://github.com/matkoniecz/lunar_assembler)
+3. ❗️ Opened issue [#35](https://github.com/matkoniecz/lunar_assembler/issues/35) in [matkoniecz/lunar_assembler](https://github.com/matkoniecz/lunar_assembler)
+4. 🗣 Commented on [#2704](https://github.com/streetcomplete/StreetComplete/issues/2704) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+5. 🗣 Commented on [#2702](https://github.com/streetcomplete/StreetComplete/issues/2702) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
 <!--END_SECTION:activity-->
