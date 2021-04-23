@@ -12,7 +12,7 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2792](https://github.com/streetcomplete/StreetComplete/issues/2792) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
 2. 🗣 Commented on [#2792](https://github.com/streetcomplete/StreetComplete/issues/2792) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-3. ❗️ Opened issue [#2792](https://github.com/streetcomplete/StreetComplete/issues/2792) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-4. 🗣 Commented on [#1734](https://github.com/streetcomplete/StreetComplete/issues/1734) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-5. 🗣 Commented on [#2583](https://github.com/streetcomplete/StreetComplete/issues/2583) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+3. 🗣 Commented on [#2792](https://github.com/streetcomplete/StreetComplete/issues/2792) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+4. ❗️ Opened issue [#2792](https://github.com/streetcomplete/StreetComplete/issues/2792) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+5. 🗣 Commented on [#1734](https://github.com/streetcomplete/StreetComplete/issues/1734) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
 <!--END_SECTION:activity-->
