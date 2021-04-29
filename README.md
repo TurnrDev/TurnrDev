@@ -10,9 +10,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2566](https://github.com/streetcomplete/StreetComplete/issues/2566) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-2. 🎉 Merged PR [#86](https://github.com/TrainerDex/DiscordBot/pull/86) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-3. 🗣 Commented on [#1630](https://github.com/streetcomplete/StreetComplete/issues/1630) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-4. 🗣 Commented on [#2795](https://github.com/streetcomplete/StreetComplete/issues/2795) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-5. 🗣 Commented on [#2792](https://github.com/streetcomplete/StreetComplete/issues/2792) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+1. 🗣 Commented on [#2823](https://github.com/streetcomplete/StreetComplete/issues/2823) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+2. 🗣 Commented on [#2823](https://github.com/streetcomplete/StreetComplete/issues/2823) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+3. 🗣 Commented on [#2566](https://github.com/streetcomplete/StreetComplete/issues/2566) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+4. 🎉 Merged PR [#86](https://github.com/TrainerDex/DiscordBot/pull/86) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+5. 🗣 Commented on [#1630](https://github.com/streetcomplete/StreetComplete/issues/1630) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
 <!--END_SECTION:activity-->
