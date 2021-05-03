@@ -10,9 +10,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2839](https://github.com/streetcomplete/StreetComplete/issues/2839) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-2. 🗣 Commented on [#2823](https://github.com/streetcomplete/StreetComplete/issues/2823) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+1. 🗣 Commented on [#2839](https://github.com/streetcomplete/StreetComplete/issues/2839) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+2. ❗️ Opened issue [#2839](https://github.com/streetcomplete/StreetComplete/issues/2839) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
 3. 🗣 Commented on [#2823](https://github.com/streetcomplete/StreetComplete/issues/2823) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-4. 🗣 Commented on [#2828](https://github.com/streetcomplete/StreetComplete/issues/2828) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-5. 🗣 Commented on [#2827](https://github.com/streetcomplete/StreetComplete/issues/2827) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+4. 🗣 Commented on [#2823](https://github.com/streetcomplete/StreetComplete/issues/2823) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+5. 🗣 Commented on [#2828](https://github.com/streetcomplete/StreetComplete/issues/2828) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
 <!--END_SECTION:activity-->
