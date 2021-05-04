@@ -10,9 +10,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2846](https://github.com/streetcomplete/StreetComplete/pull/2846) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-2. 🎉 Merged PR [#1](https://github.com/TurnrDev/PaintTheTownRed/pull/1) in [TurnrDev/PaintTheTownRed](https://github.com/TurnrDev/PaintTheTownRed)
-3. 🗣 Commented on [#1](https://github.com/TurnrDev/StreetComplete/issues/1) in [TurnrDev/StreetComplete](https://github.com/TurnrDev/StreetComplete)
-4. 💪 Opened PR [#1](https://github.com/TurnrDev/StreetComplete/pull/1) in [TurnrDev/StreetComplete](https://github.com/TurnrDev/StreetComplete)
-5. 🗣 Commented on [#1](https://github.com/ChiSigma/chi-sigma-homepage/issues/1) in [ChiSigma/chi-sigma-homepage](https://github.com/ChiSigma/chi-sigma-homepage)
+1. 🗣 Commented on [#2846](https://github.com/streetcomplete/StreetComplete/issues/2846) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+2. 💪 Opened PR [#2846](https://github.com/streetcomplete/StreetComplete/pull/2846) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+3. 🎉 Merged PR [#1](https://github.com/TurnrDev/PaintTheTownRed/pull/1) in [TurnrDev/PaintTheTownRed](https://github.com/TurnrDev/PaintTheTownRed)
+4. 🗣 Commented on [#1](https://github.com/TurnrDev/StreetComplete/issues/1) in [TurnrDev/StreetComplete](https://github.com/TurnrDev/StreetComplete)
+5. 💪 Opened PR [#1](https://github.com/TurnrDev/StreetComplete/pull/1) in [TurnrDev/StreetComplete](https://github.com/TurnrDev/StreetComplete)
 <!--END_SECTION:activity-->
