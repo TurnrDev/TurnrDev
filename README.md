@@ -10,9 +10,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/ChiSigma/chi-sigma-homepage/issues/1) in [ChiSigma/chi-sigma-homepage](https://github.com/ChiSigma/chi-sigma-homepage)
-2. ❌ Closed PR [#1](https://github.com/craigtweedy/django-rest-versioning/pull/1) in [craigtweedy/django-rest-versioning](https://github.com/craigtweedy/django-rest-versioning)
-3. 🗣 Commented on [#119](https://github.com/django-oscar/django-oscar-accounts/issues/119) in [django-oscar/django-oscar-accounts](https://github.com/django-oscar/django-oscar-accounts)
-4. 🎉 Merged PR [#106](https://github.com/TrainerDex/Website/pull/106) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-5. ❌ Closed PR [#2604](https://github.com/streetcomplete/StreetComplete/pull/2604) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+1. 🗣 Commented on [#1](https://github.com/TurnrDev/StreetComplete/issues/1) in [TurnrDev/StreetComplete](https://github.com/TurnrDev/StreetComplete)
+2. 💪 Opened PR [#1](https://github.com/TurnrDev/StreetComplete/pull/1) in [TurnrDev/StreetComplete](https://github.com/TurnrDev/StreetComplete)
+3. 🗣 Commented on [#1](https://github.com/ChiSigma/chi-sigma-homepage/issues/1) in [ChiSigma/chi-sigma-homepage](https://github.com/ChiSigma/chi-sigma-homepage)
+4. ❌ Closed PR [#1](https://github.com/craigtweedy/django-rest-versioning/pull/1) in [craigtweedy/django-rest-versioning](https://github.com/craigtweedy/django-rest-versioning)
+5. 🗣 Commented on [#119](https://github.com/django-oscar/django-oscar-accounts/issues/119) in [django-oscar/django-oscar-accounts](https://github.com/django-oscar/django-oscar-accounts)
 <!--END_SECTION:activity-->
