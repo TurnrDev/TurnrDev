@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Jay!
 
-- 🔭 I’m currently working on [TrainerDex](https://www.github.com/TrainerDex) [![Discord](https://discordapp.com/api/v6/guilds/364313717720219651/widget.png?style=shield)](http://discord.trainerdex.co.uk/)
+- 🔭 I’m currently working on [TrainerDex](https://www.github.com/TrainerDex) and [Paint The Town Red](https://github.com/TurnrDev/PaintTheTownRed) ([StreetComplete](https://github.com/streetcomplete/StreetComplete)).
 
 ![TurnrDev's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TurnrDev&layout=compact&hide_border=true&title_color=1fa6aa&text_color=233247)
 <br>
