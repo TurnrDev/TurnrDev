@@ -10,9 +10,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/matkoniecz/Zazolc/pull/3) in [matkoniecz/Zazolc](https://github.com/matkoniecz/Zazolc)
-2. 🗣 Commented on [#2867](https://github.com/streetcomplete/StreetComplete/issues/2867) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-3. 🗣 Commented on [#2823](https://github.com/streetcomplete/StreetComplete/issues/2823) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-4. 🗣 Commented on [#2872](https://github.com/streetcomplete/StreetComplete/issues/2872) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-5. 🗣 Commented on [#2872](https://github.com/streetcomplete/StreetComplete/issues/2872) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+1. 🎉 Merged PR [#87](https://github.com/TrainerDex/DiscordBot/pull/87) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+2. 🎉 Merged PR [#88](https://github.com/TrainerDex/DiscordBot/pull/88) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+3. 💪 Opened PR [#3](https://github.com/matkoniecz/Zazolc/pull/3) in [matkoniecz/Zazolc](https://github.com/matkoniecz/Zazolc)
+4. 🗣 Commented on [#2867](https://github.com/streetcomplete/StreetComplete/issues/2867) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+5. 🗣 Commented on [#2823](https://github.com/streetcomplete/StreetComplete/issues/2823) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
 <!--END_SECTION:activity-->
