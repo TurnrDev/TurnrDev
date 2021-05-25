@@ -12,9 +12,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#369](https://github.com/TrainerDex/Website/issues/369) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-2. 🗣 Commented on [#369](https://github.com/TrainerDex/Website/issues/369) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-3. 🎉 Merged PR [#370](https://github.com/TrainerDex/Website/pull/370) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-4. 🎉 Merged PR [#368](https://github.com/TrainerDex/Website/pull/368) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-5. 🎉 Merged PR [#367](https://github.com/TrainerDex/Website/pull/367) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+1. 🗣 Commented on [#376](https://github.com/TrainerDex/Website/issues/376) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+2. ❌ Closed PR [#376](https://github.com/TrainerDex/Website/pull/376) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+3. 🗣 Commented on [#376](https://github.com/TrainerDex/Website/issues/376) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+4. 🎉 Merged PR [#369](https://github.com/TrainerDex/Website/pull/369) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+5. 🗣 Commented on [#12](https://github.com/actions/labeler/issues/12) in [actions/labeler](https://github.com/actions/labeler)
 <!--END_SECTION:activity-->
