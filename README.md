@@ -10,9 +10,9 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#87](https://github.com/TrainerDex/DiscordBot/pull/87) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-2. 🎉 Merged PR [#88](https://github.com/TrainerDex/DiscordBot/pull/88) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-3. 💪 Opened PR [#3](https://github.com/matkoniecz/Zazolc/pull/3) in [matkoniecz/Zazolc](https://github.com/matkoniecz/Zazolc)
-4. 🗣 Commented on [#2867](https://github.com/streetcomplete/StreetComplete/issues/2867) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-5. 🗣 Commented on [#2823](https://github.com/streetcomplete/StreetComplete/issues/2823) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+1. 🎉 Merged PR [#371](https://github.com/TrainerDex/Website/pull/371) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+2. 🗣 Commented on [#371](https://github.com/TrainerDex/Website/issues/371) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+3. 🎉 Merged PR [#372](https://github.com/TrainerDex/Website/pull/372) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+4. 🗣 Commented on [#367](https://github.com/TrainerDex/Website/issues/367) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+5. 🗣 Commented on [#368](https://github.com/TrainerDex/Website/issues/368) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
 <!--END_SECTION:activity-->
