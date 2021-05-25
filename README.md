@@ -13,8 +13,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#369](https://github.com/TrainerDex/Website/issues/369) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-2. 🎉 Merged PR [#370](https://github.com/TrainerDex/Website/pull/370) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-3. 🎉 Merged PR [#368](https://github.com/TrainerDex/Website/pull/368) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-4. 🎉 Merged PR [#367](https://github.com/TrainerDex/Website/pull/367) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-5. 🎉 Merged PR [#374](https://github.com/TrainerDex/Website/pull/374) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+2. 🗣 Commented on [#369](https://github.com/TrainerDex/Website/issues/369) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+3. 🎉 Merged PR [#370](https://github.com/TrainerDex/Website/pull/370) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+4. 🎉 Merged PR [#368](https://github.com/TrainerDex/Website/pull/368) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+5. 🎉 Merged PR [#367](https://github.com/TrainerDex/Website/pull/367) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
 <!--END_SECTION:activity-->
