@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Jay!
 
-- 🔭 I’m currently working on [TrainerDex](https://www.github.com/TrainerDex) and [StreetComplete](https://github.com/streetcomplete/StreetComplete).
+🔭 I’m currently working on [TrainerDex](https://www.github.com/TrainerDex) and [StreetComplete](https://github.com/streetcomplete/StreetComplete).
 
 ![TurnrDev's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TurnrDev&hide_border=true&title_color=1fa6aa&text_color=233247)
 <br>
