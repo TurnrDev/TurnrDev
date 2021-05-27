@@ -7,9 +7,9 @@
 [![TurnrDev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TurnrDev)](https://wakatime.com/@TurnrDev)
 <br>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2922](https://github.com/streetcomplete/StreetComplete/issues/2922) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-2. 💪 Opened PR [#1151](https://github.com/osmlab/editor-layer-index/pull/1151) in [osmlab/editor-layer-index](https://github.com/osmlab/editor-layer-index)
-3. 🗣 Commented on [#1057](https://github.com/osmlab/editor-layer-index/issues/1057) in [osmlab/editor-layer-index](https://github.com/osmlab/editor-layer-index)
-4. 🗣 Commented on [#35](https://github.com/crowdin/github-action/issues/35) in [crowdin/github-action](https://github.com/crowdin/github-action)
-5. 🎉 Merged PR [#378](https://github.com/TrainerDex/Website/pull/378) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+1. 🗣 Commented on [#155](https://github.com/openstreetmap/id-tagging-schema/issues/155) in [openstreetmap/id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema)
+2. 🗣 Commented on [#134](https://github.com/openstreetmap/id-tagging-schema/issues/134) in [openstreetmap/id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema)
+3. 🗣 Commented on [#11](https://github.com/matkoniecz/illegal-use-of-OpenStreetMap/issues/11) in [matkoniecz/illegal-use-of-OpenStreetMap](https://github.com/matkoniecz/illegal-use-of-OpenStreetMap)
+4. 🗣 Commented on [#2922](https://github.com/streetcomplete/StreetComplete/issues/2922) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+5. 🗣 Commented on [#2922](https://github.com/streetcomplete/StreetComplete/issues/2922) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
 <!--END_SECTION:activity-->
