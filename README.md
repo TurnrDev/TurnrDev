@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on [TrainerDex](https://www.github.com/TrainerDex) and [StreetComplete](https://github.com/streetcomplete/StreetComplete).
 
-## :zap: Recent Activity
+#### :zap: Recent Activity
 
 [![TurnrDev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TurnrDev)](https://wakatime.com/@TurnrDev)
 <br>
