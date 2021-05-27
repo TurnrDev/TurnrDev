@@ -6,7 +6,7 @@
 <br>
 ![TurnrDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TurnrDev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&icon_color=1fa6aa&title_color=1fa6aa&text_color=233247)
 <br>
-![TurnrDev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TurnrDev)
+[![TurnrDev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TurnrDev)](https://wakatime.com/@TurnrDev)
 <br>
 
 ## :zap: Recent Activity
