@@ -7,9 +7,9 @@
 [![TurnrDev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TurnrDev)](https://wakatime.com/@TurnrDev)
 <br>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/matkoniecz/illegal-use-of-OpenStreetMap/issues/11) in [matkoniecz/illegal-use-of-OpenStreetMap](https://github.com/matkoniecz/illegal-use-of-OpenStreetMap)
-2. 🎉 Merged PR [#379](https://github.com/TrainerDex/Website/pull/379) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-3. 🗣 Commented on [#379](https://github.com/TrainerDex/Website/issues/379) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-4. 🗣 Commented on [#11](https://github.com/matkoniecz/illegal-use-of-OpenStreetMap/issues/11) in [matkoniecz/illegal-use-of-OpenStreetMap](https://github.com/matkoniecz/illegal-use-of-OpenStreetMap)
-5. 🗣 Commented on [#134](https://github.com/openstreetmap/id-tagging-schema/issues/134) in [openstreetmap/id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema)
+1. 🗣 Commented on [#1151](https://github.com/osmlab/editor-layer-index/issues/1151) in [osmlab/editor-layer-index](https://github.com/osmlab/editor-layer-index)
+2. 🗣 Commented on [#11](https://github.com/matkoniecz/illegal-use-of-OpenStreetMap/issues/11) in [matkoniecz/illegal-use-of-OpenStreetMap](https://github.com/matkoniecz/illegal-use-of-OpenStreetMap)
+3. 🎉 Merged PR [#379](https://github.com/TrainerDex/Website/pull/379) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+4. 🗣 Commented on [#379](https://github.com/TrainerDex/Website/issues/379) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+5. 🗣 Commented on [#11](https://github.com/matkoniecz/illegal-use-of-OpenStreetMap/issues/11) in [matkoniecz/illegal-use-of-OpenStreetMap](https://github.com/matkoniecz/illegal-use-of-OpenStreetMap)
 <!--END_SECTION:activity-->
