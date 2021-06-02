@@ -9,7 +9,7 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2940](https://github.com/streetcomplete/StreetComplete/issues/2940) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
 2. 🗣 Commented on [#2940](https://github.com/streetcomplete/StreetComplete/issues/2940) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-3. 💪 Opened PR [#2940](https://github.com/streetcomplete/StreetComplete/pull/2940) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-4. 🗣 Commented on [#377](https://github.com/TrainerDex/Website/issues/377) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-5. 🗣 Commented on [#1151](https://github.com/osmlab/editor-layer-index/issues/1151) in [osmlab/editor-layer-index](https://github.com/osmlab/editor-layer-index)
+3. 🗣 Commented on [#2940](https://github.com/streetcomplete/StreetComplete/issues/2940) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+4. 💪 Opened PR [#2940](https://github.com/streetcomplete/StreetComplete/pull/2940) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+5. 🗣 Commented on [#377](https://github.com/TrainerDex/Website/issues/377) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
 <!--END_SECTION:activity-->
