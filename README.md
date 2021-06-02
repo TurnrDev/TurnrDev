@@ -10,6 +10,6 @@
 1. 🗣 Commented on [#2940](https://github.com/streetcomplete/StreetComplete/issues/2940) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
 2. 🗣 Commented on [#2940](https://github.com/streetcomplete/StreetComplete/issues/2940) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
 3. 🗣 Commented on [#2940](https://github.com/streetcomplete/StreetComplete/issues/2940) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-4. 💪 Opened PR [#2940](https://github.com/streetcomplete/StreetComplete/pull/2940) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-5. 🗣 Commented on [#377](https://github.com/TrainerDex/Website/issues/377) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+4. 🗣 Commented on [#2940](https://github.com/streetcomplete/StreetComplete/issues/2940) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+5. 🗣 Commented on [#2940](https://github.com/streetcomplete/StreetComplete/issues/2940) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
 <!--END_SECTION:activity-->
