@@ -10,6 +10,6 @@
 1. 🗣 Commented on [#3045](https://github.com/streetcomplete/StreetComplete/issues/3045) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
 2. 🗣 Commented on [#3045](https://github.com/streetcomplete/StreetComplete/issues/3045) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
 3. 🗣 Commented on [#3045](https://github.com/streetcomplete/StreetComplete/issues/3045) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-4. 🎉 Merged PR [#2](https://github.com/TurnrDev/PaintTheTownRed/pull/2) in [TurnrDev/PaintTheTownRed](https://github.com/TurnrDev/PaintTheTownRed)
-5. ❌ Closed PR [#3046](https://github.com/streetcomplete/StreetComplete/pull/3046) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+4. 🗣 Commented on [#3045](https://github.com/streetcomplete/StreetComplete/issues/3045) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+5. 🎉 Merged PR [#2](https://github.com/TurnrDev/PaintTheTownRed/pull/2) in [TurnrDev/PaintTheTownRed](https://github.com/TurnrDev/PaintTheTownRed)
 <!--END_SECTION:activity-->
