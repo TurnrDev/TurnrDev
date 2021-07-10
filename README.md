@@ -7,9 +7,9 @@
 [![TurnrDev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TurnrDev)](https://wakatime.com/@TurnrDev)
 <br>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/TurnrDev/PaintTheTownRed/pull/2) in [TurnrDev/PaintTheTownRed](https://github.com/TurnrDev/PaintTheTownRed)
-2. ❌ Closed PR [#3046](https://github.com/streetcomplete/StreetComplete/pull/3046) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-3. 🗣 Commented on [#3046](https://github.com/streetcomplete/StreetComplete/issues/3046) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-4. 💪 Opened PR [#3046](https://github.com/streetcomplete/StreetComplete/pull/3046) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-5. 💪 Opened PR [#2](https://github.com/TurnrDev/PaintTheTownRed/pull/2) in [TurnrDev/PaintTheTownRed](https://github.com/TurnrDev/PaintTheTownRed)
+1. 🗣 Commented on [#3045](https://github.com/streetcomplete/StreetComplete/issues/3045) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+2. 🎉 Merged PR [#2](https://github.com/TurnrDev/PaintTheTownRed/pull/2) in [TurnrDev/PaintTheTownRed](https://github.com/TurnrDev/PaintTheTownRed)
+3. ❌ Closed PR [#3046](https://github.com/streetcomplete/StreetComplete/pull/3046) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+4. 🗣 Commented on [#3046](https://github.com/streetcomplete/StreetComplete/issues/3046) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+5. 💪 Opened PR [#3046](https://github.com/streetcomplete/StreetComplete/pull/3046) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
 <!--END_SECTION:activity-->
