@@ -9,7 +9,7 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3045](https://github.com/streetcomplete/StreetComplete/issues/3045) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
 2. 🗣 Commented on [#3045](https://github.com/streetcomplete/StreetComplete/issues/3045) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-3. ❗️ Opened issue [#3076](https://github.com/streetcomplete/StreetComplete/issues/3076) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-4. 🗣 Commented on [#2872](https://github.com/streetcomplete/StreetComplete/issues/2872) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-5. 🗣 Commented on [#119](https://github.com/django-oscar/django-oscar-accounts/issues/119) in [django-oscar/django-oscar-accounts](https://github.com/django-oscar/django-oscar-accounts)
+3. 🗣 Commented on [#3045](https://github.com/streetcomplete/StreetComplete/issues/3045) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+4. ❗️ Opened issue [#3076](https://github.com/streetcomplete/StreetComplete/issues/3076) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+5. 🗣 Commented on [#2872](https://github.com/streetcomplete/StreetComplete/issues/2872) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
 <!--END_SECTION:activity-->
