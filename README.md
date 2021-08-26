@@ -8,8 +8,8 @@
 <br>
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2867](https://github.com/streetcomplete/StreetComplete/issues/2867) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-2. 🗣 Commented on [#3205](https://github.com/streetcomplete/StreetComplete/issues/3205) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+2. 🗣 Commented on [#2867](https://github.com/streetcomplete/StreetComplete/issues/2867) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
 3. 🗣 Commented on [#3205](https://github.com/streetcomplete/StreetComplete/issues/3205) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-4. 🗣 Commented on [#2867](https://github.com/streetcomplete/StreetComplete/issues/2867) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-5. 🗣 Commented on [#3205](https://github.com/streetcomplete/StreetComplete/issues/3205) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+4. 🗣 Commented on [#3205](https://github.com/streetcomplete/StreetComplete/issues/3205) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+5. 🗣 Commented on [#2867](https://github.com/streetcomplete/StreetComplete/issues/2867) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
 <!--END_SECTION:activity-->
