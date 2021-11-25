@@ -4,7 +4,7 @@
 
 #### :zap: Recent Activity
 
-[![TurnrDev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TurnrDev&layout=compact&custom_title=Last 7 Days Language Breakdown)](https://wakatime.com/@TurnrDev)
+[<img src="https://github-readme-stats.vercel.app/api/wakatime?username=TurnrDev&layout=compact&custom_title=Last 7 Days Language Breakdown" />](https://wakatime.com/@TurnrDev)
 <br>
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#103](https://github.com/TrainerDex/DiscordBot/pull/103) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
@@ -13,7 +13,3 @@
 4. ❗️ Closed issue [#101](https://github.com/TrainerDex/DiscordBot/issues/101) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
 5. 🗣 Commented on [#101](https://github.com/TrainerDex/DiscordBot/issues/101) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
 <!--END_SECTION:activity-->
-
-#### :zap: Longer Term
-[![TurnrDev's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TurnrDev&layout=compact&range=last_year&custom_title=This Year's Language Breakdown)](https://wakatime.com/@TurnrDev)
-<br>
