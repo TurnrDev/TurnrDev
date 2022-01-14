@@ -7,9 +7,9 @@
 [<img src="https://github-readme-stats.vercel.app/api/wakatime?username=TurnrDev&layout=compact&custom_title=Last 7 Days Language Breakdown" />](https://wakatime.com/@TurnrDev)
 <br>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3248](https://github.com/streetcomplete/StreetComplete/issues/3248) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-2. 🎉 Merged PR [#429](https://github.com/TrainerDex/Website/pull/429) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-3. 🎉 Merged PR [#428](https://github.com/TrainerDex/Website/pull/428) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-4. 💪 Opened PR [#426](https://github.com/TrainerDex/Website/pull/426) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-5. ❗️ Opened issue [#554](https://github.com/facebook/pyre-check/issues/554) in [facebook/pyre-check](https://github.com/facebook/pyre-check)
+1. 🗣 Commented on [#113](https://github.com/TrainerDex/DiscordBot/issues/113) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+2. ❌ Closed PR [#113](https://github.com/TrainerDex/DiscordBot/pull/113) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+3. 🗣 Commented on [#3248](https://github.com/streetcomplete/StreetComplete/issues/3248) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+4. 🎉 Merged PR [#429](https://github.com/TrainerDex/Website/pull/429) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+5. 🎉 Merged PR [#428](https://github.com/TrainerDex/Website/pull/428) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
 <!--END_SECTION:activity-->
