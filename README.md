@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Jay!
 
-🏢 I work for [Kayenta](https://kayenta.io/).  
 🔭 In my spare time, I am currently working on [TrainerDex](https://www.github.com/TrainerDex) and [StreetComplete](https://github.com/streetcomplete/StreetComplete).
 
 #### :zap: Recent Activity
