@@ -7,9 +7,9 @@
 [<img src="https://github-readme-stats.vercel.app/api/wakatime?username=TurnrDev&layout=compact&custom_title=Last 7 Days Language Breakdown" />](https://wakatime.com/@TurnrDev)
 <br>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#438](https://github.com/TrainerDex/Website/issues/438) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-2. 🗣 Commented on [#436](https://github.com/TrainerDex/Website/issues/436) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-3. 🎉 Merged PR [#431](https://github.com/TrainerDex/Website/pull/431) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-4. 🗣 Commented on [#490](https://github.com/patzly/grocy-android/issues/490) in [patzly/grocy-android](https://github.com/patzly/grocy-android)
-5. ❗️ Opened issue [#490](https://github.com/patzly/grocy-android/issues/490) in [patzly/grocy-android](https://github.com/patzly/grocy-android)
+1. 🎉 Merged PR [#116](https://github.com/TrainerDex/DiscordBot/pull/116) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+2. 🗣 Commented on [#115](https://github.com/TrainerDex/DiscordBot/issues/115) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+3. 🎉 Merged PR [#114](https://github.com/TrainerDex/DiscordBot/pull/114) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+4. 🗣 Commented on [#438](https://github.com/TrainerDex/Website/issues/438) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+5. 🗣 Commented on [#436](https://github.com/TrainerDex/Website/issues/436) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
 <!--END_SECTION:activity-->
