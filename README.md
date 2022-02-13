@@ -7,9 +7,9 @@
 [<img src="https://github-readme-stats.vercel.app/api/wakatime?username=TurnrDev&layout=compact&custom_title=Last 7 Days Language Breakdown" />](https://wakatime.com/@TurnrDev)
 <br>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#118](https://github.com/TrainerDex/DiscordBot/pull/118) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-2. 💪 Opened PR [#118](https://github.com/TrainerDex/DiscordBot/pull/118) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-3. ❗️ Opened issue [#117](https://github.com/TrainerDex/DiscordBot/issues/117) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-4. 💪 Opened PR [#4](https://github.com/Fireblend/squirdle/pull/4) in [Fireblend/squirdle](https://github.com/Fireblend/squirdle)
-5. 🎉 Merged PR [#115](https://github.com/TrainerDex/DiscordBot/pull/115) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+1. 🎉 Merged PR [#20](https://github.com/TrainerDex/PogoOCR/pull/20) in [TrainerDex/PogoOCR](https://github.com/TrainerDex/PogoOCR)
+2. 💪 Opened PR [#20](https://github.com/TrainerDex/PogoOCR/pull/20) in [TrainerDex/PogoOCR](https://github.com/TrainerDex/PogoOCR)
+3. 🎉 Merged PR [#118](https://github.com/TrainerDex/DiscordBot/pull/118) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+4. 💪 Opened PR [#118](https://github.com/TrainerDex/DiscordBot/pull/118) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+5. ❗️ Opened issue [#117](https://github.com/TrainerDex/DiscordBot/issues/117) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
 <!--END_SECTION:activity-->
