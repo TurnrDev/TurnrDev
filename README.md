@@ -7,9 +7,9 @@
 [<img src="https://github-readme-stats.vercel.app/api/wakatime?username=TurnrDev&layout=compact&custom_title=Last 7 Days Language Breakdown" />](https://wakatime.com/@TurnrDev)
 <br>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com/TrainerDex/PogoOCR/pull/21) in [TrainerDex/PogoOCR](https://github.com/TrainerDex/PogoOCR)
-2. 🗣 Commented on [#660](https://github.com/wakatime/wakatime-cli/issues/660) in [wakatime/wakatime-cli](https://github.com/wakatime/wakatime-cli)
-3. 💪 Opened PR [#2](https://github.com/chinnichaitanya/python-slack-logger/pull/2) in [chinnichaitanya/python-slack-logger](https://github.com/chinnichaitanya/python-slack-logger)
-4. 🗣 Commented on [#660](https://github.com/wakatime/wakatime-cli/issues/660) in [wakatime/wakatime-cli](https://github.com/wakatime/wakatime-cli)
-5. 🗣 Commented on [#660](https://github.com/wakatime/wakatime-cli/issues/660) in [wakatime/wakatime-cli](https://github.com/wakatime/wakatime-cli)
+1. 🗣 Commented on [#1](https://github.com/TrainerDex/AndroidApp/issues/1) in [TrainerDex/AndroidApp](https://github.com/TrainerDex/AndroidApp)
+2. ❗️ Opened issue [#448](https://github.com/TrainerDex/Website/issues/448) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+3. ❗️ Opened issue [#130](https://github.com/TrainerDex/DiscordBot/issues/130) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+4. ❗️ Opened issue [#447](https://github.com/TrainerDex/Website/issues/447) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+5. ❗️ Opened issue [#7](https://github.com/TrainerDex/TrainerDex/issues/7) in [TrainerDex/TrainerDex](https://github.com/TrainerDex/TrainerDex)
 <!--END_SECTION:activity-->
