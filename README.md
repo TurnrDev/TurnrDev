@@ -7,9 +7,9 @@
 [<img src="https://github-readme-stats.vercel.app/api/wakatime?username=TurnrDev&layout=compact&custom_title=Last 7 Days Language Breakdown" />](https://wakatime.com/@TurnrDev)
 <br>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/TrainerDex/AndroidApp/issues/1) in [TrainerDex/AndroidApp](https://github.com/TrainerDex/AndroidApp)
-2. 🗣 Commented on [#1](https://github.com/TrainerDex/AndroidApp/issues/1) in [TrainerDex/AndroidApp](https://github.com/TrainerDex/AndroidApp)
-3. ❗️ Opened issue [#448](https://github.com/TrainerDex/Website/issues/448) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-4. ❗️ Opened issue [#130](https://github.com/TrainerDex/DiscordBot/issues/130) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-5. ❗️ Opened issue [#447](https://github.com/TrainerDex/Website/issues/447) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+1. ❌ Closed PR [#445](https://github.com/TrainerDex/Website/pull/445) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+2. ❌ Closed PR [#446](https://github.com/TrainerDex/Website/pull/446) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+3. ❌ Closed PR [#450](https://github.com/TrainerDex/Website/pull/450) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+4. ❌ Closed PR [#439](https://github.com/TrainerDex/Website/pull/439) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+5. ❌ Closed PR [#440](https://github.com/TrainerDex/Website/pull/440) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
 <!--END_SECTION:activity-->
