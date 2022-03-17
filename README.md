@@ -7,9 +7,9 @@
 [<img src="https://github-readme-stats.vercel.app/api/wakatime?username=TurnrDev&layout=compact&custom_title=Last 7 Days Language Breakdown" />](https://wakatime.com/@TurnrDev)
 <br>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1652](https://github.com/anuraghazra/github-readme-stats/pull/1652) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-2. 🗣 Commented on [#424](https://github.com/TrainerDex/Website/issues/424) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-3. ❌ Closed PR [#445](https://github.com/TrainerDex/Website/pull/445) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-4. ❌ Closed PR [#446](https://github.com/TrainerDex/Website/pull/446) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-5. ❌ Closed PR [#450](https://github.com/TrainerDex/Website/pull/450) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+1. 🗣 Commented on [#451](https://github.com/TrainerDex/Website/issues/451) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+2. 🗣 Commented on [#24](https://github.com/TrainerDex/PogoOCR/issues/24) in [TrainerDex/PogoOCR](https://github.com/TrainerDex/PogoOCR)
+3. 🗣 Commented on [#24](https://github.com/TrainerDex/PogoOCR/issues/24) in [TrainerDex/PogoOCR](https://github.com/TrainerDex/PogoOCR)
+4. 🎉 Merged PR [#21](https://github.com/TrainerDex/PogoOCR/pull/21) in [TrainerDex/PogoOCR](https://github.com/TrainerDex/PogoOCR)
+5. ❗️ Closed issue [#23](https://github.com/TrainerDex/PogoOCR/issues/23) in [TrainerDex/PogoOCR](https://github.com/TrainerDex/PogoOCR)
 <!--END_SECTION:activity-->
