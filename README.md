@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Jay!
-
-🔭 In my spare time, I am currently working on [TrainerDex](https://www.github.com/TrainerDex) and [StreetComplete](https://github.com/streetcomplete/StreetComplete).
+* I work full time at a London-based FinTech startup!
+* In my spare time, I am currently working on [TrainerDex](https://www.github.com/TrainerDex) and [StreetComplete](https://github.com/streetcomplete/StreetComplete).
 
 #### :zap: Recent Activity
 
