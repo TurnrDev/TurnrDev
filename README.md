@@ -6,9 +6,9 @@
 
 #### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/TrainerDex/TrainerDex.py/pull/35) in [TrainerDex/TrainerDex.py](https://github.com/TrainerDex/TrainerDex.py)
-2. 💪 Opened PR [#35](https://github.com/TrainerDex/TrainerDex.py/pull/35) in [TrainerDex/TrainerDex.py](https://github.com/TrainerDex/TrainerDex.py)
-3. 🎉 Merged PR [#33](https://github.com/TrainerDex/TrainerDex.py/pull/33) in [TrainerDex/TrainerDex.py](https://github.com/TrainerDex/TrainerDex.py)
-4. 🎉 Merged PR [#34](https://github.com/TrainerDex/TrainerDex.py/pull/34) in [TrainerDex/TrainerDex.py](https://github.com/TrainerDex/TrainerDex.py)
-5. ❌ Closed PR [#24](https://github.com/TrainerDex/PogoOCR/pull/24) in [TrainerDex/PogoOCR](https://github.com/TrainerDex/PogoOCR)
+1. 🎉 Merged PR [#38](https://github.com/TrainerDex/TrainerDex.py/pull/38) in [TrainerDex/TrainerDex.py](https://github.com/TrainerDex/TrainerDex.py)
+2. 💪 Opened PR [#38](https://github.com/TrainerDex/TrainerDex.py/pull/38) in [TrainerDex/TrainerDex.py](https://github.com/TrainerDex/TrainerDex.py)
+3. 🎉 Merged PR [#36](https://github.com/TrainerDex/TrainerDex.py/pull/36) in [TrainerDex/TrainerDex.py](https://github.com/TrainerDex/TrainerDex.py)
+4. 🎉 Merged PR [#37](https://github.com/TrainerDex/TrainerDex.py/pull/37) in [TrainerDex/TrainerDex.py](https://github.com/TrainerDex/TrainerDex.py)
+5. 🎉 Merged PR [#35](https://github.com/TrainerDex/TrainerDex.py/pull/35) in [TrainerDex/TrainerDex.py](https://github.com/TrainerDex/TrainerDex.py)
 <!--END_SECTION:activity-->
