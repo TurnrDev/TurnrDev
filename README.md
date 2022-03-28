@@ -6,9 +6,9 @@
 
 #### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#456](https://github.com/TrainerDex/Website/pull/456) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-2. ❌ Closed PR [#451](https://github.com/TrainerDex/Website/pull/451) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-3. 🎉 Merged PR [#38](https://github.com/TrainerDex/TrainerDex.py/pull/38) in [TrainerDex/TrainerDex.py](https://github.com/TrainerDex/TrainerDex.py)
-4. 💪 Opened PR [#38](https://github.com/TrainerDex/TrainerDex.py/pull/38) in [TrainerDex/TrainerDex.py](https://github.com/TrainerDex/TrainerDex.py)
-5. 🎉 Merged PR [#36](https://github.com/TrainerDex/TrainerDex.py/pull/36) in [TrainerDex/TrainerDex.py](https://github.com/TrainerDex/TrainerDex.py)
+1. 🎉 Merged PR [#458](https://github.com/TrainerDex/Website/pull/458) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+2. 💪 Opened PR [#458](https://github.com/TrainerDex/Website/pull/458) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+3. 🎉 Merged PR [#456](https://github.com/TrainerDex/Website/pull/456) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+4. ❌ Closed PR [#451](https://github.com/TrainerDex/Website/pull/451) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+5. 🎉 Merged PR [#38](https://github.com/TrainerDex/TrainerDex.py/pull/38) in [TrainerDex/TrainerDex.py](https://github.com/TrainerDex/TrainerDex.py)
 <!--END_SECTION:activity-->
