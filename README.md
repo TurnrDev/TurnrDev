@@ -7,9 +7,9 @@
 
 #### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#81](https://github.com/tfoxy/graphene-django-optimizer/issues/81) in [tfoxy/graphene-django-optimizer](https://github.com/tfoxy/graphene-django-optimizer)
-2. 💪 Opened PR [#467](https://github.com/TrainerDex/Website/pull/467) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-3. ❗️ Closed issue [#129](https://github.com/TrainerDex/DiscordBot/issues/129) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-4. ❗️ Closed issue [#117](https://github.com/TrainerDex/DiscordBot/issues/117) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-5. 🎉 Merged PR [#465](https://github.com/TrainerDex/Website/pull/465) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+1. 🎉 Merged PR [#472](https://github.com/TrainerDex/Website/pull/472) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+2. ❗️ Opened issue [#81](https://github.com/tfoxy/graphene-django-optimizer/issues/81) in [tfoxy/graphene-django-optimizer](https://github.com/tfoxy/graphene-django-optimizer)
+3. 💪 Opened PR [#467](https://github.com/TrainerDex/Website/pull/467) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+4. ❗️ Closed issue [#129](https://github.com/TrainerDex/DiscordBot/issues/129) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+5. ❗️ Closed issue [#117](https://github.com/TrainerDex/DiscordBot/issues/117) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
 <!--END_SECTION:activity-->
