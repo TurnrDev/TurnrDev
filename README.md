@@ -7,9 +7,9 @@
 
 #### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#81](https://github.com/tfoxy/graphene-django-optimizer/issues/81) in [tfoxy/graphene-django-optimizer](https://github.com/tfoxy/graphene-django-optimizer)
-2. 🗣 Commented on [#3](https://github.com/TrainerDex/AndroidApp/issues/3) in [TrainerDex/AndroidApp](https://github.com/TrainerDex/AndroidApp)
+1. ❌ Closed PR [#475](https://github.com/TrainerDex/Website/pull/475) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+2. 🗣 Commented on [#81](https://github.com/tfoxy/graphene-django-optimizer/issues/81) in [tfoxy/graphene-django-optimizer](https://github.com/tfoxy/graphene-django-optimizer)
 3. 🗣 Commented on [#3](https://github.com/TrainerDex/AndroidApp/issues/3) in [TrainerDex/AndroidApp](https://github.com/TrainerDex/AndroidApp)
-4. ❌ Closed PR [#204](https://github.com/talkiq/gcloud-aio/pull/204) in [talkiq/gcloud-aio](https://github.com/talkiq/gcloud-aio)
-5. 🗣 Commented on [#204](https://github.com/talkiq/gcloud-aio/issues/204) in [talkiq/gcloud-aio](https://github.com/talkiq/gcloud-aio)
+4. 🗣 Commented on [#3](https://github.com/TrainerDex/AndroidApp/issues/3) in [TrainerDex/AndroidApp](https://github.com/TrainerDex/AndroidApp)
+5. ❌ Closed PR [#204](https://github.com/talkiq/gcloud-aio/pull/204) in [talkiq/gcloud-aio](https://github.com/talkiq/gcloud-aio)
 <!--END_SECTION:activity-->
