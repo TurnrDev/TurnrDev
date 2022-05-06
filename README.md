@@ -7,9 +7,9 @@
 
 #### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1324](https://github.com/Pycord-Development/pycord/issues/1324) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
-2. 💪 Opened PR [#1324](https://github.com/Pycord-Development/pycord/pull/1324) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
-3. ❌ Closed PR [#475](https://github.com/TrainerDex/Website/pull/475) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-4. 🗣 Commented on [#81](https://github.com/tfoxy/graphene-django-optimizer/issues/81) in [tfoxy/graphene-django-optimizer](https://github.com/tfoxy/graphene-django-optimizer)
-5. 🗣 Commented on [#3](https://github.com/TrainerDex/AndroidApp/issues/3) in [TrainerDex/AndroidApp](https://github.com/TrainerDex/AndroidApp)
+1. ❗️ Opened issue [#477](https://github.com/TrainerDex/Website/issues/477) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+2. 🗣 Commented on [#1324](https://github.com/Pycord-Development/pycord/issues/1324) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
+3. 💪 Opened PR [#1324](https://github.com/Pycord-Development/pycord/pull/1324) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
+4. ❌ Closed PR [#475](https://github.com/TrainerDex/Website/pull/475) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+5. 🗣 Commented on [#81](https://github.com/tfoxy/graphene-django-optimizer/issues/81) in [tfoxy/graphene-django-optimizer](https://github.com/tfoxy/graphene-django-optimizer)
 <!--END_SECTION:activity-->
