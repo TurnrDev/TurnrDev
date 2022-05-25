@@ -7,9 +7,9 @@
 
 #### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#480](https://github.com/TrainerDex/Website/issues/480) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-2. ❗️ Closed issue [#479](https://github.com/TrainerDex/Website/issues/479) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-3. 🗣 Commented on [#479](https://github.com/TrainerDex/Website/issues/479) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+1. 🎉 Merged PR [#480](https://github.com/TrainerDex/Website/pull/480) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+2. 🗣 Commented on [#480](https://github.com/TrainerDex/Website/issues/480) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+3. ❗️ Closed issue [#479](https://github.com/TrainerDex/Website/issues/479) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
 4. 🗣 Commented on [#479](https://github.com/TrainerDex/Website/issues/479) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-5. 🗣 Commented on [#490](https://github.com/patzly/grocy-android/issues/490) in [patzly/grocy-android](https://github.com/patzly/grocy-android)
+5. 🗣 Commented on [#479](https://github.com/TrainerDex/Website/issues/479) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
 <!--END_SECTION:activity-->
