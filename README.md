@@ -7,9 +7,9 @@
 
 #### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#481](https://github.com/TrainerDex/Website/pull/481) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-2. 💪 Opened PR [#1](https://github.com/jonasbohmann/django4-docs/pull/1) in [jonasbohmann/django4-docs](https://github.com/jonasbohmann/django4-docs)
-3. 🎉 Merged PR [#480](https://github.com/TrainerDex/Website/pull/480) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-4. 🗣 Commented on [#480](https://github.com/TrainerDex/Website/issues/480) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-5. ❗️ Closed issue [#479](https://github.com/TrainerDex/Website/issues/479) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+1. 🎉 Merged PR [#482](https://github.com/TrainerDex/Website/pull/482) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+2. 💪 Opened PR [#482](https://github.com/TrainerDex/Website/pull/482) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+3. ❗️ Closed issue [#423](https://github.com/TrainerDex/Website/issues/423) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+4. ❌ Closed PR [#424](https://github.com/TrainerDex/Website/pull/424) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+5. 🎉 Merged PR [#473](https://github.com/TrainerDex/Website/pull/473) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
 <!--END_SECTION:activity-->
