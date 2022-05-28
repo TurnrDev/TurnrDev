@@ -8,8 +8,8 @@
 #### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3](https://github.com/TrainerDex/AndroidApp/issues/3) in [TrainerDex/AndroidApp](https://github.com/TrainerDex/AndroidApp)
-2. 🎉 Merged PR [#483](https://github.com/TrainerDex/Website/pull/483) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-3. 💪 Opened PR [#483](https://github.com/TrainerDex/Website/pull/483) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-4. 🎉 Merged PR [#482](https://github.com/TrainerDex/Website/pull/482) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-5. 💪 Opened PR [#482](https://github.com/TrainerDex/Website/pull/482) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+2. 🗣 Commented on [#3](https://github.com/TrainerDex/AndroidApp/issues/3) in [TrainerDex/AndroidApp](https://github.com/TrainerDex/AndroidApp)
+3. 🎉 Merged PR [#483](https://github.com/TrainerDex/Website/pull/483) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+4. 💪 Opened PR [#483](https://github.com/TrainerDex/Website/pull/483) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+5. 🎉 Merged PR [#482](https://github.com/TrainerDex/Website/pull/482) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
 <!--END_SECTION:activity-->
