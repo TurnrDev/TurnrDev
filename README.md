@@ -7,9 +7,9 @@
 
 #### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#136](https://github.com/TrainerDex/DiscordBot/issues/136) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-2. 🗣 Commented on [#135](https://github.com/TrainerDex/DiscordBot/issues/135) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-3. 🗣 Commented on [#134](https://github.com/TrainerDex/DiscordBot/issues/134) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-4. 🗣 Commented on [#3](https://github.com/TrainerDex/AndroidApp/issues/3) in [TrainerDex/AndroidApp](https://github.com/TrainerDex/AndroidApp)
-5. 🗣 Commented on [#3](https://github.com/TrainerDex/AndroidApp/issues/3) in [TrainerDex/AndroidApp](https://github.com/TrainerDex/AndroidApp)
+1. 🎉 Merged PR [#135](https://github.com/TrainerDex/DiscordBot/pull/135) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+2. 🎉 Merged PR [#136](https://github.com/TrainerDex/DiscordBot/pull/136) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+3. 🎉 Merged PR [#131](https://github.com/TrainerDex/DiscordBot/pull/131) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+4. 🎉 Merged PR [#134](https://github.com/TrainerDex/DiscordBot/pull/134) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+5. 🗣 Commented on [#131](https://github.com/TrainerDex/DiscordBot/issues/131) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
 <!--END_SECTION:activity-->
