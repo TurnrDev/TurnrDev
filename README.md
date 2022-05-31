@@ -7,9 +7,9 @@
 
 #### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/TrainerDex/AndroidApp/issues/3) in [TrainerDex/AndroidApp](https://github.com/TrainerDex/AndroidApp)
-2. 🗣 Commented on [#3](https://github.com/TrainerDex/AndroidApp/issues/3) in [TrainerDex/AndroidApp](https://github.com/TrainerDex/AndroidApp)
-3. 🗣 Commented on [#3](https://github.com/TrainerDex/AndroidApp/issues/3) in [TrainerDex/AndroidApp](https://github.com/TrainerDex/AndroidApp)
-4. 🎉 Merged PR [#483](https://github.com/TrainerDex/Website/pull/483) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-5. 💪 Opened PR [#483](https://github.com/TrainerDex/Website/pull/483) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+1. 🗣 Commented on [#136](https://github.com/TrainerDex/DiscordBot/issues/136) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+2. 🗣 Commented on [#135](https://github.com/TrainerDex/DiscordBot/issues/135) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+3. 🗣 Commented on [#134](https://github.com/TrainerDex/DiscordBot/issues/134) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+4. 🗣 Commented on [#3](https://github.com/TrainerDex/AndroidApp/issues/3) in [TrainerDex/AndroidApp](https://github.com/TrainerDex/AndroidApp)
+5. 🗣 Commented on [#3](https://github.com/TrainerDex/AndroidApp/issues/3) in [TrainerDex/AndroidApp](https://github.com/TrainerDex/AndroidApp)
 <!--END_SECTION:activity-->
