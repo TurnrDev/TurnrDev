@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Jay!
-* I work full time at a London-based FinTech startup!
+* I work full time at a London-based FinTech startup! Unfortunately, that's not open source. :(
 * In my spare time, I am currently working on [TrainerDex](https://www.github.com/TrainerDex).
 * I love all things music and the environment.
 
