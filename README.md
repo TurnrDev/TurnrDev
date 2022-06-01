@@ -7,9 +7,9 @@
 
 #### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#137](https://github.com/TrainerDex/DiscordBot/pull/137) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-2. 🗣 Commented on [#137](https://github.com/TrainerDex/DiscordBot/issues/137) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-3. 🗣 Commented on [#137](https://github.com/TrainerDex/DiscordBot/issues/137) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-4. ❗️ Opened issue [#39](https://github.com/TrainerDex/TrainerDex.py/issues/39) in [TrainerDex/TrainerDex.py](https://github.com/TrainerDex/TrainerDex.py)
-5. ❌ Closed PR [#1](https://github.com/ChiSigma/chi-sigma-homepage/pull/1) in [ChiSigma/chi-sigma-homepage](https://github.com/ChiSigma/chi-sigma-homepage)
+1. 🎉 Merged PR [#485](https://github.com/TrainerDex/Website/pull/485) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+2. 💪 Opened PR [#485](https://github.com/TrainerDex/Website/pull/485) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+3. 🎉 Merged PR [#484](https://github.com/TrainerDex/Website/pull/484) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+4. 🎉 Merged PR [#137](https://github.com/TrainerDex/DiscordBot/pull/137) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+5. 🗣 Commented on [#137](https://github.com/TrainerDex/DiscordBot/issues/137) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
 <!--END_SECTION:activity-->
