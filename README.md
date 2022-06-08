@@ -7,9 +7,9 @@
 
 #### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/LaravelDaily/Laravel-Datatables-Dates-Chart/issues/5) in [LaravelDaily/Laravel-Datatables-Dates-Chart](https://github.com/LaravelDaily/Laravel-Datatables-Dates-Chart)
-2. 🎉 Merged PR [#140](https://github.com/TrainerDex/DiscordBot/pull/140) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-3. 🎉 Merged PR [#141](https://github.com/TrainerDex/DiscordBot/pull/141) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-4. 💪 Opened PR [#141](https://github.com/TrainerDex/DiscordBot/pull/141) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-5. 💪 Opened PR [#140](https://github.com/TrainerDex/DiscordBot/pull/140) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+1. 🗣 Commented on [#5](https://github.com/LaravelDaily/Laravel-Datatables-Dates-Chart/issues/5) in [LaravelDaily/Laravel-Datatables-Dates-Chart](https://github.com/LaravelDaily/Laravel-Datatables-Dates-Chart)
+2. ❗️ Opened issue [#5](https://github.com/LaravelDaily/Laravel-Datatables-Dates-Chart/issues/5) in [LaravelDaily/Laravel-Datatables-Dates-Chart](https://github.com/LaravelDaily/Laravel-Datatables-Dates-Chart)
+3. 🎉 Merged PR [#140](https://github.com/TrainerDex/DiscordBot/pull/140) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+4. 🎉 Merged PR [#141](https://github.com/TrainerDex/DiscordBot/pull/141) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+5. 💪 Opened PR [#141](https://github.com/TrainerDex/DiscordBot/pull/141) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
 <!--END_SECTION:activity-->
