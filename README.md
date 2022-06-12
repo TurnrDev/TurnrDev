@@ -7,9 +7,9 @@
 
 #### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1173](https://github.com/jazzband/django-oauth-toolkit/issues/1173) in [jazzband/django-oauth-toolkit](https://github.com/jazzband/django-oauth-toolkit)
-2. 💪 Opened PR [#1173](https://github.com/jazzband/django-oauth-toolkit/pull/1173) in [jazzband/django-oauth-toolkit](https://github.com/jazzband/django-oauth-toolkit)
-3. 🗣 Commented on [#5](https://github.com/LaravelDaily/Laravel-Datatables-Dates-Chart/issues/5) in [LaravelDaily/Laravel-Datatables-Dates-Chart](https://github.com/LaravelDaily/Laravel-Datatables-Dates-Chart)
-4. ❗️ Opened issue [#5](https://github.com/LaravelDaily/Laravel-Datatables-Dates-Chart/issues/5) in [LaravelDaily/Laravel-Datatables-Dates-Chart](https://github.com/LaravelDaily/Laravel-Datatables-Dates-Chart)
-5. 🎉 Merged PR [#140](https://github.com/TrainerDex/DiscordBot/pull/140) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+1. ❌ Closed PR [#1173](https://github.com/jazzband/django-oauth-toolkit/pull/1173) in [jazzband/django-oauth-toolkit](https://github.com/jazzband/django-oauth-toolkit)
+2. 🗣 Commented on [#1173](https://github.com/jazzband/django-oauth-toolkit/issues/1173) in [jazzband/django-oauth-toolkit](https://github.com/jazzband/django-oauth-toolkit)
+3. 🗣 Commented on [#1173](https://github.com/jazzband/django-oauth-toolkit/issues/1173) in [jazzband/django-oauth-toolkit](https://github.com/jazzband/django-oauth-toolkit)
+4. 💪 Opened PR [#1173](https://github.com/jazzband/django-oauth-toolkit/pull/1173) in [jazzband/django-oauth-toolkit](https://github.com/jazzband/django-oauth-toolkit)
+5. 🗣 Commented on [#5](https://github.com/LaravelDaily/Laravel-Datatables-Dates-Chart/issues/5) in [LaravelDaily/Laravel-Datatables-Dates-Chart](https://github.com/LaravelDaily/Laravel-Datatables-Dates-Chart)
 <!--END_SECTION:activity-->
