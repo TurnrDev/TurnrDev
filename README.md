@@ -8,8 +8,8 @@
 #### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#664](https://github.com/wakatime/wakatime-cli/issues/664) in [wakatime/wakatime-cli](https://github.com/wakatime/wakatime-cli)
-2. 🎉 Merged PR [#488](https://github.com/TrainerDex/Website/pull/488) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-3. 🗣 Commented on [#489](https://github.com/TrainerDex/Website/issues/489) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+2. 🗣 Commented on [#664](https://github.com/wakatime/wakatime-cli/issues/664) in [wakatime/wakatime-cli](https://github.com/wakatime/wakatime-cli)
+3. 🎉 Merged PR [#488](https://github.com/TrainerDex/Website/pull/488) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
 4. 🗣 Commented on [#489](https://github.com/TrainerDex/Website/issues/489) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-5. 🎉 Merged PR [#490](https://github.com/TrainerDex/Website/pull/490) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+5. 🗣 Commented on [#489](https://github.com/TrainerDex/Website/issues/489) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
 <!--END_SECTION:activity-->
