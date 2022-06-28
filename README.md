@@ -5,9 +5,9 @@ I work full time at a London-based FinTech startup! In my spare time, I am curre
 
 #### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/TrainerDex/SvelteTest/pull/1) in [TrainerDex/SvelteTest](https://github.com/TrainerDex/SvelteTest)
-2. 🗣 Commented on [#1](https://github.com/TrainerDex/SvelteTest/issues/1) in [TrainerDex/SvelteTest](https://github.com/TrainerDex/SvelteTest)
-3. 🎉 Merged PR [#492](https://github.com/TrainerDex/Website/pull/492) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-4. 🎉 Merged PR [#144](https://github.com/TrainerDex/DiscordBot/pull/144) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-5. 🎉 Merged PR [#491](https://github.com/TrainerDex/Website/pull/491) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+1. 🎉 Merged PR [#3](https://github.com/TrainerDex/SvelteTest/pull/3) in [TrainerDex/SvelteTest](https://github.com/TrainerDex/SvelteTest)
+2. 🎉 Merged PR [#2](https://github.com/TrainerDex/SvelteTest/pull/2) in [TrainerDex/SvelteTest](https://github.com/TrainerDex/SvelteTest)
+3. 🎉 Merged PR [#145](https://github.com/TrainerDex/DiscordBot/pull/145) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+4. 🎉 Merged PR [#1](https://github.com/TrainerDex/SvelteTest/pull/1) in [TrainerDex/SvelteTest](https://github.com/TrainerDex/SvelteTest)
+5. 🗣 Commented on [#1](https://github.com/TrainerDex/SvelteTest/issues/1) in [TrainerDex/SvelteTest](https://github.com/TrainerDex/SvelteTest)
 <!--END_SECTION:activity-->
