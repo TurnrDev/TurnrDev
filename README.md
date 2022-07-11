@@ -5,9 +5,9 @@ I work full time at a London-based FinTech startup! In my spare time, I am curre
 
 #### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#501](https://github.com/TrainerDex/Website/pull/501) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-2. ❌ Closed PR [#499](https://github.com/TrainerDex/Website/pull/499) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-3. 🗣 Commented on [#499](https://github.com/TrainerDex/Website/issues/499) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-4. 🎉 Merged PR [#503](https://github.com/TrainerDex/Website/pull/503) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-5. 🗣 Commented on [#4179](https://github.com/streetcomplete/StreetComplete/issues/4179) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+1. 🎉 Merged PR [#7](https://github.com/TrainerDex/SvelteTest/pull/7) in [TrainerDex/SvelteTest](https://github.com/TrainerDex/SvelteTest)
+2. 🗣 Commented on [#15839](https://github.com/django/django/issues/15839) in [django/django](https://github.com/django/django)
+3. 🎉 Merged PR [#501](https://github.com/TrainerDex/Website/pull/501) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+4. ❌ Closed PR [#499](https://github.com/TrainerDex/Website/pull/499) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+5. 🗣 Commented on [#499](https://github.com/TrainerDex/Website/issues/499) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
 <!--END_SECTION:activity-->
