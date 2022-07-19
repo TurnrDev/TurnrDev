@@ -5,9 +5,9 @@ I work full time at a London-based FinTech startup! In my spare time, I am curre
 
 #### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#508](https://github.com/TrainerDex/Website/pull/508) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-2. 🎉 Merged PR [#505](https://github.com/TrainerDex/Website/pull/505) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-3. 🎉 Merged PR [#504](https://github.com/TrainerDex/Website/pull/504) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-4. 🎉 Merged PR [#500](https://github.com/TrainerDex/Website/pull/500) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-5. 🎉 Merged PR [#496](https://github.com/TrainerDex/Website/pull/496) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+1. ❌ Closed PR [#25](https://github.com/TrainerDex/PogoOCR/pull/25) in [TrainerDex/PogoOCR](https://github.com/TrainerDex/PogoOCR)
+2. 💪 Opened PR [#508](https://github.com/TrainerDex/Website/pull/508) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+3. 🎉 Merged PR [#505](https://github.com/TrainerDex/Website/pull/505) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+4. 🎉 Merged PR [#504](https://github.com/TrainerDex/Website/pull/504) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+5. 🎉 Merged PR [#500](https://github.com/TrainerDex/Website/pull/500) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
 <!--END_SECTION:activity-->
