@@ -5,9 +5,9 @@ I work full time at a London-based FinTech startup! In my spare time, I am curre
 
 #### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/zealotjin/wsgi_app/pull/1) in [zealotjin/wsgi_app](https://github.com/zealotjin/wsgi_app)
-2. ❌ Closed PR [#25](https://github.com/TrainerDex/PogoOCR/pull/25) in [TrainerDex/PogoOCR](https://github.com/TrainerDex/PogoOCR)
-3. 💪 Opened PR [#508](https://github.com/TrainerDex/Website/pull/508) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-4. 🎉 Merged PR [#505](https://github.com/TrainerDex/Website/pull/505) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-5. 🎉 Merged PR [#504](https://github.com/TrainerDex/Website/pull/504) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+1. ❗️ Opened issue [#151](https://github.com/TrainerDex/DiscordBot/issues/151) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+2. ❗️ Closed issue [#7](https://github.com/TrainerDex/DiscordBot/issues/7) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+3. ❗️ Closed issue [#33](https://github.com/TrainerDex/DiscordBot/issues/33) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+4. ❗️ Closed issue [#47](https://github.com/TrainerDex/DiscordBot/issues/47) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+5. ❗️ Closed issue [#64](https://github.com/TrainerDex/DiscordBot/issues/64) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
 <!--END_SECTION:activity-->
