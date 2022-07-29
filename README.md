@@ -5,9 +5,9 @@ I work full time at a London-based FinTech startup! In my spare time, I am curre
 
 #### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#151](https://github.com/TrainerDex/DiscordBot/issues/151) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-2. ❗️ Opened issue [#151](https://github.com/TrainerDex/DiscordBot/issues/151) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-3. ❗️ Closed issue [#7](https://github.com/TrainerDex/DiscordBot/issues/7) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-4. ❗️ Closed issue [#33](https://github.com/TrainerDex/DiscordBot/issues/33) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-5. ❗️ Closed issue [#47](https://github.com/TrainerDex/DiscordBot/issues/47) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+1. ❗️ Closed issue [#477](https://github.com/TrainerDex/Website/issues/477) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+2. ❗️ Closed issue [#151](https://github.com/TrainerDex/DiscordBot/issues/151) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+3. ❗️ Opened issue [#151](https://github.com/TrainerDex/DiscordBot/issues/151) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+4. ❗️ Closed issue [#7](https://github.com/TrainerDex/DiscordBot/issues/7) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+5. ❗️ Closed issue [#33](https://github.com/TrainerDex/DiscordBot/issues/33) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
 <!--END_SECTION:activity-->
