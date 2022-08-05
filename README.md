@@ -5,9 +5,9 @@ I work full time at a London-based FinTech startup! In my spare time, I am curre
 
 #### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#477](https://github.com/TrainerDex/Website/issues/477) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-2. ❗️ Closed issue [#151](https://github.com/TrainerDex/DiscordBot/issues/151) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-3. ❗️ Opened issue [#151](https://github.com/TrainerDex/DiscordBot/issues/151) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-4. ❗️ Closed issue [#7](https://github.com/TrainerDex/DiscordBot/issues/7) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-5. ❗️ Closed issue [#33](https://github.com/TrainerDex/DiscordBot/issues/33) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+1. 🎉 Merged PR [#510](https://github.com/TrainerDex/Website/pull/510) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+2. ❌ Closed PR [#467](https://github.com/TrainerDex/Website/pull/467) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+3. 🎉 Merged PR [#512](https://github.com/TrainerDex/Website/pull/512) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+4. ❗️ Closed issue [#477](https://github.com/TrainerDex/Website/issues/477) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+5. ❗️ Closed issue [#151](https://github.com/TrainerDex/DiscordBot/issues/151) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
 <!--END_SECTION:activity-->
