@@ -5,9 +5,9 @@ I work full time at a London-based FinTech startup! In my spare time, I am curre
 
 #### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4518](https://github.com/streetcomplete/StreetComplete/issues/4518) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-2. ❗️ Closed issue [#4518](https://github.com/streetcomplete/StreetComplete/issues/4518) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-3. 🗣 Commented on [#4518](https://github.com/streetcomplete/StreetComplete/issues/4518) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+1. ❌ Closed PR [#2](https://github.com/TrainerDex/AndroidApp/pull/2) in [TrainerDex/AndroidApp](https://github.com/TrainerDex/AndroidApp)
+2. 🗣 Commented on [#4518](https://github.com/streetcomplete/StreetComplete/issues/4518) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+3. ❗️ Closed issue [#4518](https://github.com/streetcomplete/StreetComplete/issues/4518) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
 4. 🗣 Commented on [#4518](https://github.com/streetcomplete/StreetComplete/issues/4518) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-5. 🗣 Commented on [#4517](https://github.com/streetcomplete/StreetComplete/issues/4517) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+5. 🗣 Commented on [#4518](https://github.com/streetcomplete/StreetComplete/issues/4518) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
 <!--END_SECTION:activity-->
