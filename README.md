@@ -5,9 +5,9 @@ I work full time at a London-based FinTech startup! In my spare time, I am curre
 
 #### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#447](https://github.com/TrainerDex/Website/issues/447) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-2. ❗️ Opened issue [#534](https://github.com/TrainerDex/Website/issues/534) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-3. ❗️ Opened issue [#533](https://github.com/TrainerDex/Website/issues/533) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-4. ❌ Closed PR [#2](https://github.com/TrainerDex/AndroidApp/pull/2) in [TrainerDex/AndroidApp](https://github.com/TrainerDex/AndroidApp)
-5. 🗣 Commented on [#4518](https://github.com/streetcomplete/StreetComplete/issues/4518) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+1. 💪 Opened PR [#167](https://github.com/TrainerDex/DiscordBot/pull/167) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+2. 🎉 Merged PR [#166](https://github.com/TrainerDex/DiscordBot/pull/166) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+3. 🗣 Commented on [#1681](https://github.com/Pycord-Development/pycord/issues/1681) in [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord)
+4. ❗️ Closed issue [#447](https://github.com/TrainerDex/Website/issues/447) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+5. ❗️ Opened issue [#534](https://github.com/TrainerDex/Website/issues/534) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
 <!--END_SECTION:activity-->
