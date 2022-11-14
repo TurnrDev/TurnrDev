@@ -3,11 +3,11 @@ I work full time at a London-based FinTech startup! In my spare time, I am curre
 
 #### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/benlee1284/advanced-dtypes/pull/2) in [benlee1284/advanced-dtypes](https://github.com/benlee1284/advanced-dtypes)
-2. ❌ Closed PR [#535](https://github.com/TrainerDex/Website/pull/535) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-3. ❗️ Opened issue [#169](https://github.com/TrainerDex/DiscordBot/issues/169) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-4. 🎉 Merged PR [#531](https://github.com/TrainerDex/Website/pull/531) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-5. 🎉 Merged PR [#532](https://github.com/TrainerDex/Website/pull/532) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+1. ❌ Closed PR [#2](https://github.com/chinnichaitanya/python-slack-logger/pull/2) in [chinnichaitanya/python-slack-logger](https://github.com/chinnichaitanya/python-slack-logger)
+2. 🗣 Commented on [#2](https://github.com/chinnichaitanya/python-slack-logger/issues/2) in [chinnichaitanya/python-slack-logger](https://github.com/chinnichaitanya/python-slack-logger)
+3. ❌ Closed PR [#1](https://github.com/virusvn/awesome-django-graphene/pull/1) in [virusvn/awesome-django-graphene](https://github.com/virusvn/awesome-django-graphene)
+4. 💪 Opened PR [#2](https://github.com/benlee1284/advanced-dtypes/pull/2) in [benlee1284/advanced-dtypes](https://github.com/benlee1284/advanced-dtypes)
+5. ❌ Closed PR [#535](https://github.com/TrainerDex/Website/pull/535) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
 <!--END_SECTION:activity-->
 
 
