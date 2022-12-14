@@ -3,11 +3,11 @@ I work full time at a London-based FinTech startup! In my spare time, I am curre
 
 #### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#695](https://github.com/django-helpdesk/django-helpdesk/issues/695) in [django-helpdesk/django-helpdesk](https://github.com/django-helpdesk/django-helpdesk)
-2. ❗️ Closed issue [#28](https://github.com/TrainerDex/TrainerDex.py/issues/28) in [TrainerDex/TrainerDex.py](https://github.com/TrainerDex/TrainerDex.py)
-3. 🎉 Merged PR [#536](https://github.com/TrainerDex/Website/pull/536) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-4. 💪 Opened PR [#536](https://github.com/TrainerDex/Website/pull/536) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-5. ❌ Closed PR [#5](https://github.com/TurnrDev/better-slack-logger/pull/5) in [TurnrDev/better-slack-logger](https://github.com/TurnrDev/better-slack-logger)
+1. 🎉 Merged PR [#174](https://github.com/TrainerDex/DiscordBot/pull/174) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+2. 🎉 Merged PR [#541](https://github.com/TrainerDex/Website/pull/541) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+3. 🗣 Commented on [#695](https://github.com/django-helpdesk/django-helpdesk/issues/695) in [django-helpdesk/django-helpdesk](https://github.com/django-helpdesk/django-helpdesk)
+4. ❗️ Closed issue [#28](https://github.com/TrainerDex/TrainerDex.py/issues/28) in [TrainerDex/TrainerDex.py](https://github.com/TrainerDex/TrainerDex.py)
+5. 🎉 Merged PR [#536](https://github.com/TrainerDex/Website/pull/536) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
 <!--END_SECTION:activity-->
 
 
