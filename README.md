@@ -3,11 +3,11 @@ I work full time at a London-based FinTech startup! In my spare time, I am curre
 
 #### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#540](https://github.com/TrainerDex/Website/pull/540) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-2. 🎉 Merged PR [#174](https://github.com/TrainerDex/DiscordBot/pull/174) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-3. 🎉 Merged PR [#541](https://github.com/TrainerDex/Website/pull/541) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-4. 🗣 Commented on [#695](https://github.com/django-helpdesk/django-helpdesk/issues/695) in [django-helpdesk/django-helpdesk](https://github.com/django-helpdesk/django-helpdesk)
-5. ❗️ Closed issue [#28](https://github.com/TrainerDex/TrainerDex.py/issues/28) in [TrainerDex/TrainerDex.py](https://github.com/TrainerDex/TrainerDex.py)
+1. 🎉 Merged PR [#537](https://github.com/TrainerDex/Website/pull/537) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+2. 🎉 Merged PR [#539](https://github.com/TrainerDex/Website/pull/539) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+3. 🎉 Merged PR [#538](https://github.com/TrainerDex/Website/pull/538) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+4. 🎉 Merged PR [#173](https://github.com/TrainerDex/DiscordBot/pull/173) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+5. 🎉 Merged PR [#540](https://github.com/TrainerDex/Website/pull/540) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
 <!--END_SECTION:activity-->
 
 
