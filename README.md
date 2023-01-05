@@ -3,11 +3,11 @@ I work full time at a London-based FinTech startup! In my spare time, I am curre
 
 #### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#609](https://github.com/wtforms/wtforms/issues/609) in [wtforms/wtforms](https://github.com/wtforms/wtforms)
-2. 🗣 Commented on [#549](https://github.com/wtforms/wtforms/issues/549) in [wtforms/wtforms](https://github.com/wtforms/wtforms)
-3. 🎉 Merged PR [#537](https://github.com/TrainerDex/Website/pull/537) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-4. 🎉 Merged PR [#539](https://github.com/TrainerDex/Website/pull/539) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-5. 🎉 Merged PR [#538](https://github.com/TrainerDex/Website/pull/538) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+1. 🎉 Merged PR [#543](https://github.com/TrainerDex/Website/pull/543) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+2. 🗣 Commented on [#609](https://github.com/wtforms/wtforms/issues/609) in [wtforms/wtforms](https://github.com/wtforms/wtforms)
+3. 🗣 Commented on [#549](https://github.com/wtforms/wtforms/issues/549) in [wtforms/wtforms](https://github.com/wtforms/wtforms)
+4. 🎉 Merged PR [#537](https://github.com/TrainerDex/Website/pull/537) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+5. 🎉 Merged PR [#539](https://github.com/TrainerDex/Website/pull/539) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
 <!--END_SECTION:activity-->
 
 
