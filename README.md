@@ -3,11 +3,11 @@ I work full time at a London-based FinTech startup! In my spare time, I am curre
 
 #### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#769](https://github.com/wtforms/wtforms/issues/769) in [wtforms/wtforms](https://github.com/wtforms/wtforms)
-2. 🗣 Commented on [#769](https://github.com/wtforms/wtforms/issues/769) in [wtforms/wtforms](https://github.com/wtforms/wtforms)
-3. 💪 Opened PR [#769](https://github.com/wtforms/wtforms/pull/769) in [wtforms/wtforms](https://github.com/wtforms/wtforms)
-4. 🗣 Commented on [#71](https://github.com/wharton/drf-excel/issues/71) in [wharton/drf-excel](https://github.com/wharton/drf-excel)
-5. 🎉 Merged PR [#547](https://github.com/TrainerDex/Website/pull/547) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+1. ❌ Closed PR [#4](https://github.com/pkmngots/iitc-plugins/pull/4) in [pkmngots/iitc-plugins](https://github.com/pkmngots/iitc-plugins)
+2. ❌ Closed PR [#5](https://github.com/pkmngots/iitc-plugins/pull/5) in [pkmngots/iitc-plugins](https://github.com/pkmngots/iitc-plugins)
+3. 🗣 Commented on [#769](https://github.com/wtforms/wtforms/issues/769) in [wtforms/wtforms](https://github.com/wtforms/wtforms)
+4. 🗣 Commented on [#769](https://github.com/wtforms/wtforms/issues/769) in [wtforms/wtforms](https://github.com/wtforms/wtforms)
+5. 💪 Opened PR [#769](https://github.com/wtforms/wtforms/pull/769) in [wtforms/wtforms](https://github.com/wtforms/wtforms)
 <!--END_SECTION:activity-->
 
 
