@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Jay!
-I work full time at a London-based FinTech startup! In my spare time, I am currently working on [TrainerDex](https://www.github.com/TrainerDex). I love all things music, maps, public transport, infrastructure and the environment.
+I work full time at a London-based FinTech startup!
+I love all things music, maps, public transport, infrastructure and the environment.
 
 #### :zap: Recent Activity
 <!--START_SECTION:activity-->
