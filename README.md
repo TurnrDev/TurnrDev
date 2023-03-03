@@ -4,11 +4,11 @@ I love all things music, maps, public transport, infrastructure and the environm
 
 #### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#448](https://github.com/TrainerDex/Website/issues/448) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-2. ❗️ Closed issue [#533](https://github.com/TrainerDex/Website/issues/533) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-3. ❗️ Closed issue [#534](https://github.com/TrainerDex/Website/issues/534) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-4. ❗️ Reopened issue [#534](https://github.com/TrainerDex/Website/issues/534) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-5. ❗️ Closed issue [#534](https://github.com/TrainerDex/Website/issues/534) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+1. ❗️ Closed issue [#28](https://github.com/TrainerDex/DiscordBot/issues/28) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+2. ❗️ Closed issue [#36](https://github.com/TrainerDex/DiscordBot/issues/36) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+3. ❗️ Closed issue [#62](https://github.com/TrainerDex/DiscordBot/issues/62) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+4. ❗️ Closed issue [#65](https://github.com/TrainerDex/DiscordBot/issues/65) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+5. ❗️ Closed issue [#169](https://github.com/TrainerDex/DiscordBot/issues/169) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
 <!--END_SECTION:activity-->
 
 
