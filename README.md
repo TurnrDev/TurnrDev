@@ -3,11 +3,11 @@ I work full time at a London-based FinTech startup! In my spare time, I am curre
 
 #### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4634](https://github.com/organicmaps/organicmaps/issues/4634) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
-2. 💪 Opened PR [#4634](https://github.com/organicmaps/organicmaps/pull/4634) in [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
-3. 💪 Opened PR [#9](https://github.com/islam-kamel/django-start/pull/9) in [islam-kamel/django-start](https://github.com/islam-kamel/django-start)
-4. ❌ Closed PR [#4](https://github.com/pkmngots/iitc-plugins/pull/4) in [pkmngots/iitc-plugins](https://github.com/pkmngots/iitc-plugins)
-5. ❌ Closed PR [#5](https://github.com/pkmngots/iitc-plugins/pull/5) in [pkmngots/iitc-plugins](https://github.com/pkmngots/iitc-plugins)
+1. ❗️ Closed issue [#448](https://github.com/TrainerDex/Website/issues/448) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+2. ❗️ Closed issue [#533](https://github.com/TrainerDex/Website/issues/533) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+3. ❗️ Closed issue [#534](https://github.com/TrainerDex/Website/issues/534) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+4. ❗️ Reopened issue [#534](https://github.com/TrainerDex/Website/issues/534) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+5. ❗️ Closed issue [#534](https://github.com/TrainerDex/Website/issues/534) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
 <!--END_SECTION:activity-->
 
 
