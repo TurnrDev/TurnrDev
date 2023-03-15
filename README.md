@@ -4,11 +4,11 @@ I love all things music, maps, public transport, infrastructure and the environm
 
 #### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#179](https://github.com/TrainerDex/DiscordBot/pull/179) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-2. 💪 Opened PR [#179](https://github.com/TrainerDex/DiscordBot/pull/179) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-3. ❗️ Closed issue [#28](https://github.com/TrainerDex/DiscordBot/issues/28) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-4. ❗️ Closed issue [#36](https://github.com/TrainerDex/DiscordBot/issues/36) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-5. ❗️ Closed issue [#62](https://github.com/TrainerDex/DiscordBot/issues/62) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+1. 🎉 Merged PR [#180](https://github.com/TrainerDex/DiscordBot/pull/180) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+2. 💪 Opened PR [#180](https://github.com/TrainerDex/DiscordBot/pull/180) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+3. 🎉 Merged PR [#179](https://github.com/TrainerDex/DiscordBot/pull/179) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+4. 💪 Opened PR [#179](https://github.com/TrainerDex/DiscordBot/pull/179) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+5. ❗️ Closed issue [#28](https://github.com/TrainerDex/DiscordBot/issues/28) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
 <!--END_SECTION:activity-->
 
 
