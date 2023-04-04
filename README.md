@@ -3,11 +3,11 @@ I work full time at a London-based FinTech startup! I made [TrainerDex](https://
 
 #### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5367](https://github.com/pypa/pipenv/issues/5367) in [pypa/pipenv](https://github.com/pypa/pipenv)
-2. 🗣 Commented on [#5367](https://github.com/pypa/pipenv/issues/5367) in [pypa/pipenv](https://github.com/pypa/pipenv)
-3. 💪 Opened PR [#535](https://github.com/psycopg/psycopg/pull/535) in [psycopg/psycopg](https://github.com/psycopg/psycopg)
+1. 🎉 Merged PR [#550](https://github.com/TrainerDex/Website/pull/550) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+2. 🎉 Merged PR [#549](https://github.com/TrainerDex/Website/pull/549) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+3. 🗣 Commented on [#5367](https://github.com/pypa/pipenv/issues/5367) in [pypa/pipenv](https://github.com/pypa/pipenv)
 4. 🗣 Commented on [#5367](https://github.com/pypa/pipenv/issues/5367) in [pypa/pipenv](https://github.com/pypa/pipenv)
-5. 🗣 Commented on [#760](https://github.com/sqlalchemy/alembic/issues/760) in [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic)
+5. 💪 Opened PR [#535](https://github.com/psycopg/psycopg/pull/535) in [psycopg/psycopg](https://github.com/psycopg/psycopg)
 <!--END_SECTION:activity-->
 
 
