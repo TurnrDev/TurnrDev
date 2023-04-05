@@ -3,11 +3,11 @@ I work full time at a London-based FinTech startup! I made [TrainerDex](https://
 
 #### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#181](https://github.com/TrainerDex/DiscordBot/pull/181) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-2. 💪 Opened PR [#181](https://github.com/TrainerDex/DiscordBot/pull/181) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-3. 🎉 Merged PR [#554](https://github.com/TrainerDex/Website/pull/554) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-4. 🗣 Commented on [#553](https://github.com/TrainerDex/Website/issues/553) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-5. 🎉 Merged PR [#552](https://github.com/TrainerDex/Website/pull/552) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+1. 🎉 Merged PR [#556](https://github.com/TrainerDex/Website/pull/556) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+2. 💪 Opened PR [#556](https://github.com/TrainerDex/Website/pull/556) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+3. 🎉 Merged PR [#181](https://github.com/TrainerDex/DiscordBot/pull/181) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+4. 💪 Opened PR [#181](https://github.com/TrainerDex/DiscordBot/pull/181) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+5. 🎉 Merged PR [#554](https://github.com/TrainerDex/Website/pull/554) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
 <!--END_SECTION:activity-->
 
 
