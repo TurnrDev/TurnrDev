@@ -10,6 +10,8 @@ I work full time at a London-based FinTech startup! I made [TrainerDex](https://
 5. 💪 Opened PR [#556](https://github.com/TrainerDex/Website/pull/556) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
 <!--END_SECTION:activity-->
 
+[<img src="https://wakatime.com/share/@TurnrDev/4142a9ac-7325-4d2f-a2bb-ec199b5c798c.svg" width="80%" />](https://wakatime.com/@TurnrDev)  
+
 
 ### All-time Activity
-[<img src="https://wakatime.com/share/@TurnrDev/4142a9ac-7325-4d2f-a2bb-ec199b5c798c.svg" width="80%" />](https://wakatime.com/@TurnrDev)  
+[<img src="https://github-readme-stats.vercel.app/api/wakatime?username=TurnrDev&layout=compact" />](https://wakatime.com/@TurnrDev)
