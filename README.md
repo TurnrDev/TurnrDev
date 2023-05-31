@@ -6,7 +6,7 @@ I work full time at a London-based FinTech startup! I made [TrainerDex](https://
 1. ❌ Closed PR [#1](https://github.com/Kayenta/better-slack-logger/pull/1) in [Kayenta/better-slack-logger](https://github.com/Kayenta/better-slack-logger)
 2. 🎉 Merged PR [#6](https://github.com/Kayenta/better-slack-logger/pull/6) in [Kayenta/better-slack-logger](https://github.com/Kayenta/better-slack-logger)
 3. 💪 Opened PR [#6](https://github.com/TurnrDev/better-slack-logger/pull/6) in [TurnrDev/better-slack-logger](https://github.com/TurnrDev/better-slack-logger)
-4. ❗️ Opened issue [#3312](https://github.com/pennersr/django-allauth/issues/3312) in [pennersr/django-allauth](https://github.com/pennersr/django-allauth)
+4. ❗ Opened issue [#3312](https://github.com/pennersr/django-allauth/issues/3312) in [pennersr/django-allauth](https://github.com/pennersr/django-allauth)
 5. 🗣 Commented on [#3305](https://github.com/pennersr/django-allauth/issues/3305) in [pennersr/django-allauth](https://github.com/pennersr/django-allauth)
 <!--END_SECTION:activity-->
 
