@@ -3,11 +3,11 @@ I work full time at a London-based FinTech startup! I made [TrainerDex](https://
 
 #### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#182](https://github.com/TrainerDex/DiscordBot/pull/182) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-2. 💪 Opened PR [#182](https://github.com/TrainerDex/DiscordBot/pull/182) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
-3. 🗣 Commented on [#7824](https://github.com/mekanism/Mekanism/pull/7824#issuecomment-1644797857) in [mekanism/Mekanism](https://github.com/mekanism/Mekanism)
-4. 💪 Opened PR [#7825](https://github.com/mekanism/Mekanism/pull/7825) in [mekanism/Mekanism](https://github.com/mekanism/Mekanism)
-5. 🗣 Commented on [#7824](https://github.com/mekanism/Mekanism/pull/7824#issuecomment-1644512792) in [mekanism/Mekanism](https://github.com/mekanism/Mekanism)
+1. 🗣 Commented on [#7825](https://github.com/mekanism/Mekanism/pull/7825#issuecomment-1657903616) in [mekanism/Mekanism](https://github.com/mekanism/Mekanism)
+2. 🗣 Commented on [#7824](https://github.com/mekanism/Mekanism/pull/7824#issuecomment-1657903006) in [mekanism/Mekanism](https://github.com/mekanism/Mekanism)
+3. 🎉 Merged PR [#182](https://github.com/TrainerDex/DiscordBot/pull/182) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+4. 💪 Opened PR [#182](https://github.com/TrainerDex/DiscordBot/pull/182) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+5. 🗣 Commented on [#7824](https://github.com/mekanism/Mekanism/pull/7824#issuecomment-1644797857) in [mekanism/Mekanism](https://github.com/mekanism/Mekanism)
 <!--END_SECTION:activity-->
 
 [<img src="https://wakatime.com/share/@TurnrDev/4142a9ac-7325-4d2f-a2bb-ec199b5c798c.svg" width="80%" />](https://wakatime.com/@TurnrDev)  
