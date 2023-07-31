@@ -3,11 +3,11 @@ I work full time at a London-based FinTech startup! I made [TrainerDex](https://
 
 #### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2286](https://github.com/grocy/grocy/issues/2286#issuecomment-1658962342) in [grocy/grocy](https://github.com/grocy/grocy)
-2. ❗ Opened issue [#2286](https://github.com/grocy/grocy/issues/2286) in [grocy/grocy](https://github.com/grocy/grocy)
-3. 🗣 Commented on [#7825](https://github.com/mekanism/Mekanism/pull/7825#issuecomment-1657903616) in [mekanism/Mekanism](https://github.com/mekanism/Mekanism)
-4. 🗣 Commented on [#7824](https://github.com/mekanism/Mekanism/pull/7824#issuecomment-1657903006) in [mekanism/Mekanism](https://github.com/mekanism/Mekanism)
-5. 🎉 Merged PR [#182](https://github.com/TrainerDex/DiscordBot/pull/182) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+1. 🗣 Commented on [#2286](https://github.com/grocy/grocy/issues/2286#issuecomment-1659308621) in [grocy/grocy](https://github.com/grocy/grocy)
+2. 🗣 Commented on [#2286](https://github.com/grocy/grocy/issues/2286#issuecomment-1658962342) in [grocy/grocy](https://github.com/grocy/grocy)
+3. ❗ Opened issue [#2286](https://github.com/grocy/grocy/issues/2286) in [grocy/grocy](https://github.com/grocy/grocy)
+4. 🗣 Commented on [#7825](https://github.com/mekanism/Mekanism/pull/7825#issuecomment-1657903616) in [mekanism/Mekanism](https://github.com/mekanism/Mekanism)
+5. 🗣 Commented on [#7824](https://github.com/mekanism/Mekanism/pull/7824#issuecomment-1657903006) in [mekanism/Mekanism](https://github.com/mekanism/Mekanism)
 <!--END_SECTION:activity-->
 
 [<img src="https://wakatime.com/share/@TurnrDev/4142a9ac-7325-4d2f-a2bb-ec199b5c798c.svg" width="80%" />](https://wakatime.com/@TurnrDev)  
