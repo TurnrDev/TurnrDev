@@ -3,11 +3,11 @@ I work full time at a London-based FinTech startup! I made [TrainerDex](https://
 
 #### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#568](https://github.com/TrainerDex/Website/issues/568) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-2. 🗣 Commented on [#568](https://github.com/TrainerDex/Website/issues/568#issuecomment-1667872481) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-3. 🗣 Commented on [#2297](https://github.com/grocy/grocy/issues/2297#issuecomment-1666975849) in [grocy/grocy](https://github.com/grocy/grocy)
-4. 🗣 Commented on [#2297](https://github.com/grocy/grocy/issues/2297#issuecomment-1666968898) in [grocy/grocy](https://github.com/grocy/grocy)
-5. ❗ Opened issue [#2293](https://github.com/grocy/grocy/issues/2293) in [grocy/grocy](https://github.com/grocy/grocy)
+1. 🗣 Commented on [#569](https://github.com/TrainerDex/Website/issues/569#issuecomment-1669615319) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+2. 🔒 Closed issue [#569](https://github.com/TrainerDex/Website/issues/569) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+3. 🗣 Commented on [#569](https://github.com/TrainerDex/Website/issues/569#issuecomment-1669573617) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+4. 🔒 Closed issue [#568](https://github.com/TrainerDex/Website/issues/568) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+5. 🗣 Commented on [#568](https://github.com/TrainerDex/Website/issues/568#issuecomment-1667872481) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
 <!--END_SECTION:activity-->
 
 [<img src="https://wakatime.com/share/@TurnrDev/4142a9ac-7325-4d2f-a2bb-ec199b5c798c.svg" width="80%" />](https://wakatime.com/@TurnrDev)  
