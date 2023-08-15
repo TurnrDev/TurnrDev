@@ -4,11 +4,11 @@ I work full time at a London-based FinTech startup! I made [TrainerDex](https://
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2308](https://github.com/grocy/grocy/issues/2308#issuecomment-1677695787) in [grocy/grocy](https://github.com/grocy/grocy)
-2. ❗ Opened issue [#2308](https://github.com/grocy/grocy/issues/2308) in [grocy/grocy](https://github.com/grocy/grocy)
-3. 🗣 Commented on [#751](https://github.com/patzly/grocy-android/issues/751#issuecomment-1673599284) in [patzly/grocy-android](https://github.com/patzly/grocy-android)
-4. ❗ Opened issue [#751](https://github.com/patzly/grocy-android/issues/751) in [patzly/grocy-android](https://github.com/patzly/grocy-android)
-5. 🗣 Commented on [#569](https://github.com/TrainerDex/Website/issues/569#issuecomment-1669615319) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+1. 🎉 Merged PR [#1](https://github.com/TurnrDev/bangers_and_mash/pull/1) in [TurnrDev/bangers_and_mash](https://github.com/TurnrDev/bangers_and_mash)
+2. 💪 Opened PR [#1](https://github.com/TurnrDev/bangers_and_mash/pull/1) in [TurnrDev/bangers_and_mash](https://github.com/TurnrDev/bangers_and_mash)
+3. 🗣 Commented on [#2308](https://github.com/grocy/grocy/issues/2308#issuecomment-1677695787) in [grocy/grocy](https://github.com/grocy/grocy)
+4. ❗ Opened issue [#2308](https://github.com/grocy/grocy/issues/2308) in [grocy/grocy](https://github.com/grocy/grocy)
+5. 🗣 Commented on [#751](https://github.com/patzly/grocy-android/issues/751#issuecomment-1673599284) in [patzly/grocy-android](https://github.com/patzly/grocy-android)
 <!--END_SECTION:activity-->
 
 <details>
