@@ -4,11 +4,11 @@ I work full time at a London-based FinTech startup! I made [TrainerDex](https://
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#570](https://github.com/TrainerDex/Website/pull/570#issuecomment-1692300966) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-2. 🎉 Merged PR [#571](https://github.com/TrainerDex/Website/pull/571) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-3. 💪 Opened PR [#571](https://github.com/TrainerDex/Website/pull/571) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-4. 🗣 Commented on [#5099](https://github.com/Creators-of-Create/Create/pull/5099#issuecomment-1688721167) in [Creators-of-Create/Create](https://github.com/Creators-of-Create/Create)
-5. 🗣 Commented on [#5099](https://github.com/Creators-of-Create/Create/pull/5099#issuecomment-1685125056) in [Creators-of-Create/Create](https://github.com/Creators-of-Create/Create)
+1. 🔒 Closed issue [#1995](https://github.com/pennersr/django-allauth/issues/1995) in [pennersr/django-allauth](https://github.com/pennersr/django-allauth)
+2. 🗣 Commented on [#1995](https://github.com/pennersr/django-allauth/issues/1995#issuecomment-1694664548) in [pennersr/django-allauth](https://github.com/pennersr/django-allauth)
+3. 🗣 Commented on [#570](https://github.com/TrainerDex/Website/pull/570#issuecomment-1692300966) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+4. 🎉 Merged PR [#571](https://github.com/TrainerDex/Website/pull/571) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+5. 💪 Opened PR [#571](https://github.com/TrainerDex/Website/pull/571) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
 <!--END_SECTION:activity-->
 
 <details>
