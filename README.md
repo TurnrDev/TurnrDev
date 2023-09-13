@@ -4,11 +4,11 @@ I work full time at a London-based FinTech startup! I made [TrainerDex](https://
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#655](https://github.com/TwelveIterationMods/CookingForBlockheads/pull/655) in [TwelveIterationMods/CookingForBlockheads](https://github.com/TwelveIterationMods/CookingForBlockheads)
-2. 💪 Opened PR [#63](https://github.com/tterrag1098/Registrate/pull/63) in [tterrag1098/Registrate](https://github.com/tterrag1098/Registrate)
-3. 💪 Opened PR [#62](https://github.com/tterrag1098/Registrate/pull/62) in [tterrag1098/Registrate](https://github.com/tterrag1098/Registrate)
-4. 🔒 Closed issue [#1995](https://github.com/pennersr/django-allauth/issues/1995) in [pennersr/django-allauth](https://github.com/pennersr/django-allauth)
-5. 🗣 Commented on [#1995](https://github.com/pennersr/django-allauth/issues/1995#issuecomment-1694664548) in [pennersr/django-allauth](https://github.com/pennersr/django-allauth)
+1. 💪 Opened PR [#2380](https://github.com/flask-admin/flask-admin/pull/2380) in [flask-admin/flask-admin](https://github.com/flask-admin/flask-admin)
+2. ❌ Closed PR [#655](https://github.com/TwelveIterationMods/CookingForBlockheads/pull/655) in [TwelveIterationMods/CookingForBlockheads](https://github.com/TwelveIterationMods/CookingForBlockheads)
+3. 💪 Opened PR [#63](https://github.com/tterrag1098/Registrate/pull/63) in [tterrag1098/Registrate](https://github.com/tterrag1098/Registrate)
+4. 💪 Opened PR [#62](https://github.com/tterrag1098/Registrate/pull/62) in [tterrag1098/Registrate](https://github.com/tterrag1098/Registrate)
+5. 🔒 Closed issue [#1995](https://github.com/pennersr/django-allauth/issues/1995) in [pennersr/django-allauth](https://github.com/pennersr/django-allauth)
 <!--END_SECTION:activity-->
 
 <details>
