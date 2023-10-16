@@ -4,11 +4,11 @@ I work full time at a London-based FinTech startup! I made [TrainerDex](https://
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#551](https://github.com/TrainerDex/Website/issues/551) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-2. 🗣 Commented on [#769](https://github.com/wtforms/wtforms/pull/769#issuecomment-1753343232) in [wtforms/wtforms](https://github.com/wtforms/wtforms)
-3. 💪 Opened PR [#18](https://github.com/peterjgrainger/action-all-checks-passed/pull/18) in [peterjgrainger/action-all-checks-passed](https://github.com/peterjgrainger/action-all-checks-passed)
-4. 🗣 Commented on [#578](https://github.com/TrainerDex/Website/pull/578#issuecomment-1733741659) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-5. 🗣 Commented on [#263](https://github.com/dorny/test-reporter/pull/263#issuecomment-1731931444) in [dorny/test-reporter](https://github.com/dorny/test-reporter)
+1. 💪 Opened PR [#183](https://github.com/TrainerDex/DiscordBot/pull/183) in [TrainerDex/DiscordBot](https://github.com/TrainerDex/DiscordBot)
+2. 🔒 Closed issue [#551](https://github.com/TrainerDex/Website/issues/551) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+3. 🗣 Commented on [#769](https://github.com/wtforms/wtforms/pull/769#issuecomment-1753343232) in [wtforms/wtforms](https://github.com/wtforms/wtforms)
+4. 💪 Opened PR [#18](https://github.com/peterjgrainger/action-all-checks-passed/pull/18) in [peterjgrainger/action-all-checks-passed](https://github.com/peterjgrainger/action-all-checks-passed)
+5. 🗣 Commented on [#578](https://github.com/TrainerDex/Website/pull/578#issuecomment-1733741659) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
 <!--END_SECTION:activity-->
 
 <details>
