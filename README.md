@@ -4,11 +4,11 @@ I work full time at a London-based FinTech startup! I made [TrainerDex](https://
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47](https://github.com/tox-dev/pipdeptree/issues/47#issuecomment-1798568891) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-2. 🗣 Commented on [#47](https://github.com/tox-dev/pipdeptree/issues/47#issuecomment-1798565960) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-3. 🗣 Commented on [#47](https://github.com/tox-dev/pipdeptree/issues/47#issuecomment-1798560242) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-4. 🗣 Commented on [#47](https://github.com/tox-dev/pipdeptree/issues/47#issuecomment-1798548877) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-5. 🗣 Commented on [#3147](https://github.com/docker/docker-py/pull/3147#issuecomment-1798151061) in [docker/docker-py](https://github.com/docker/docker-py)
+1. 💪 Opened PR [#6](https://github.com/tylerbakke/MarkupPy/pull/6) in [tylerbakke/MarkupPy](https://github.com/tylerbakke/MarkupPy)
+2. ❗ Opened issue [#132](https://github.com/eea/odfpy/issues/132) in [eea/odfpy](https://github.com/eea/odfpy)
+3. 🗣 Commented on [#47](https://github.com/tox-dev/pipdeptree/issues/47#issuecomment-1798568891) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+4. 🗣 Commented on [#47](https://github.com/tox-dev/pipdeptree/issues/47#issuecomment-1798565960) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+5. 🗣 Commented on [#47](https://github.com/tox-dev/pipdeptree/issues/47#issuecomment-1798560242) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
 <!--END_SECTION:activity-->
 
 <details>
