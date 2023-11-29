@@ -4,11 +4,11 @@ I work full time at a London-based FinTech startup! I made [TrainerDex](https://
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/TurnrDev/TurnrDev/pull/3) in [TurnrDev/TurnrDev](https://github.com/TurnrDev/TurnrDev)
-2. 💪 Opened PR [#532](https://github.com/EnricoMi/publish-unit-test-result-action/pull/532) in [EnricoMi/publish-unit-test-result-action](https://github.com/EnricoMi/publish-unit-test-result-action)
-3. 🗣 Commented on [#47](https://github.com/tox-dev/pipdeptree/issues/47#issuecomment-1800372682) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
-4. 💪 Opened PR [#6](https://github.com/tylerbakke/MarkupPy/pull/6) in [tylerbakke/MarkupPy](https://github.com/tylerbakke/MarkupPy)
-5. ❗ Opened issue [#132](https://github.com/eea/odfpy/issues/132) in [eea/odfpy](https://github.com/eea/odfpy)
+1. 🗣 Commented on [#1](https://github.com/walidsa3d/gmaps-url-parser/pull/1#issuecomment-1831945236) in [walidsa3d/gmaps-url-parser](https://github.com/walidsa3d/gmaps-url-parser)
+2. ❌ Closed PR [#1](https://github.com/walidsa3d/gmaps-url-parser/pull/1) in [walidsa3d/gmaps-url-parser](https://github.com/walidsa3d/gmaps-url-parser)
+3. 🎉 Merged PR [#3](https://github.com/TurnrDev/TurnrDev/pull/3) in [TurnrDev/TurnrDev](https://github.com/TurnrDev/TurnrDev)
+4. 💪 Opened PR [#532](https://github.com/EnricoMi/publish-unit-test-result-action/pull/532) in [EnricoMi/publish-unit-test-result-action](https://github.com/EnricoMi/publish-unit-test-result-action)
+5. 🗣 Commented on [#47](https://github.com/tox-dev/pipdeptree/issues/47#issuecomment-1800372682) in [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
 <!--END_SECTION:activity-->
 
 <details>
