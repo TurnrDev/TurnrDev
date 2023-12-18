@@ -4,11 +4,11 @@ I work full time at a London-based FinTech startup! I made [TrainerDex](https://
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#583](https://github.com/TrainerDex/Website/pull/583) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-2. 💪 Opened PR [#583](https://github.com/TrainerDex/Website/pull/583) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-3. 🗣 Commented on [#491](https://github.com/EnricoMi/publish-unit-test-result-action/issues/491#issuecomment-1851648707) in [EnricoMi/publish-unit-test-result-action](https://github.com/EnricoMi/publish-unit-test-result-action)
-4. 🗣 Commented on [#1](https://github.com/walidsa3d/gmaps-url-parser/pull/1#issuecomment-1831945236) in [walidsa3d/gmaps-url-parser](https://github.com/walidsa3d/gmaps-url-parser)
-5. ❌ Closed PR [#1](https://github.com/walidsa3d/gmaps-url-parser/pull/1) in [walidsa3d/gmaps-url-parser](https://github.com/walidsa3d/gmaps-url-parser)
+1. 🗣 Commented on [#532](https://github.com/EnricoMi/publish-unit-test-result-action/pull/532#issuecomment-1861569117) in [EnricoMi/publish-unit-test-result-action](https://github.com/EnricoMi/publish-unit-test-result-action)
+2. 🎉 Merged PR [#583](https://github.com/TrainerDex/Website/pull/583) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+3. 💪 Opened PR [#583](https://github.com/TrainerDex/Website/pull/583) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+4. 🗣 Commented on [#491](https://github.com/EnricoMi/publish-unit-test-result-action/issues/491#issuecomment-1851648707) in [EnricoMi/publish-unit-test-result-action](https://github.com/EnricoMi/publish-unit-test-result-action)
+5. 🗣 Commented on [#1](https://github.com/walidsa3d/gmaps-url-parser/pull/1#issuecomment-1831945236) in [walidsa3d/gmaps-url-parser](https://github.com/walidsa3d/gmaps-url-parser)
 <!--END_SECTION:activity-->
 
 <details>
