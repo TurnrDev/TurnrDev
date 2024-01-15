@@ -4,11 +4,11 @@ I work full time at a London-based FinTech startup! I made [TrainerDex](https://
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#532](https://github.com/EnricoMi/publish-unit-test-result-action/pull/532#issuecomment-1862973086) in [EnricoMi/publish-unit-test-result-action](https://github.com/EnricoMi/publish-unit-test-result-action)
-2. 🗣 Commented on [#532](https://github.com/EnricoMi/publish-unit-test-result-action/pull/532#issuecomment-1861569117) in [EnricoMi/publish-unit-test-result-action](https://github.com/EnricoMi/publish-unit-test-result-action)
-3. 🎉 Merged PR [#583](https://github.com/TrainerDex/Website/pull/583) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-4. 💪 Opened PR [#583](https://github.com/TrainerDex/Website/pull/583) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-5. 🗣 Commented on [#491](https://github.com/EnricoMi/publish-unit-test-result-action/issues/491#issuecomment-1851648707) in [EnricoMi/publish-unit-test-result-action](https://github.com/EnricoMi/publish-unit-test-result-action)
+1. 🔒 Closed issue [#5](https://github.com/TrainerDex/.github/issues/5) in [TrainerDex/.github](https://github.com/TrainerDex/.github)
+2. 🔓 Reopened issue [#5](https://github.com/TrainerDex/.github/issues/5) in [TrainerDex/.github](https://github.com/TrainerDex/.github)
+3. 🔒 Closed issue [#5](https://github.com/TrainerDex/.github/issues/5) in [TrainerDex/.github](https://github.com/TrainerDex/.github)
+4. 🗣 Commented on [#532](https://github.com/EnricoMi/publish-unit-test-result-action/pull/532#issuecomment-1862973086) in [EnricoMi/publish-unit-test-result-action](https://github.com/EnricoMi/publish-unit-test-result-action)
+5. 🗣 Commented on [#532](https://github.com/EnricoMi/publish-unit-test-result-action/pull/532#issuecomment-1861569117) in [EnricoMi/publish-unit-test-result-action](https://github.com/EnricoMi/publish-unit-test-result-action)
 <!--END_SECTION:activity-->
 
 <details>
