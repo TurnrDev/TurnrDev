@@ -1,5 +1,8 @@
 ## Hi there 👋 I'm Jay!
-I work full time at a London-based FinTech startup! I made [TrainerDex](https://www.github.com/TrainerDex), but have since handed it over to other developers. I love all things music, maps, public transport, infrastructure and the environment. Recently I've taken an interest in games... development and modding. I'm just messing around with some things at the moment, so don't take any of those projects seriously.
+- Full-time Cloud Engineer 
+- Made [TrainerDex](https://www.github.com/TrainerDex), sunsetted end of 2023.
+- love all things music, maps, public transport, infrastructure and the environment
+- Recently I've taken an interest in games... development and modding. I'm just messing around with some things at the moment, so don't take any of those projects seriously.
 
 ### :zap: Recent Activity
 
