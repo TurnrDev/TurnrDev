@@ -7,11 +7,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/TurnrDev/BrassburgDatapack/pull/1) in [TurnrDev/BrassburgDatapack](https://github.com/TurnrDev/BrassburgDatapack)
-2. 🗣 Commented on [#726](https://github.com/mrh0/createaddition/issues/726#issuecomment-1929300697) in [mrh0/createaddition](https://github.com/mrh0/createaddition)
-3. 💪 Opened PR [#727](https://github.com/mrh0/createaddition/pull/727) in [mrh0/createaddition](https://github.com/mrh0/createaddition)
-4. 🗣 Commented on [#726](https://github.com/mrh0/createaddition/issues/726#issuecomment-1928056991) in [mrh0/createaddition](https://github.com/mrh0/createaddition)
-5. ❗ Opened issue [#726](https://github.com/mrh0/createaddition/issues/726) in [mrh0/createaddition](https://github.com/mrh0/createaddition)
+1. 🗣 Commented on [#726](https://github.com/mrh0/createaddition/issues/726#issuecomment-1930562872) in [mrh0/createaddition](https://github.com/mrh0/createaddition)
+2. 💪 Opened PR [#1](https://github.com/TurnrDev/BrassburgDatapack/pull/1) in [TurnrDev/BrassburgDatapack](https://github.com/TurnrDev/BrassburgDatapack)
+3. 🗣 Commented on [#726](https://github.com/mrh0/createaddition/issues/726#issuecomment-1929300697) in [mrh0/createaddition](https://github.com/mrh0/createaddition)
+4. 💪 Opened PR [#727](https://github.com/mrh0/createaddition/pull/727) in [mrh0/createaddition](https://github.com/mrh0/createaddition)
+5. 🗣 Commented on [#726](https://github.com/mrh0/createaddition/issues/726#issuecomment-1928056991) in [mrh0/createaddition](https://github.com/mrh0/createaddition)
 <!--END_SECTION:activity-->
 
 <details>
