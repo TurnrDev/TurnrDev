@@ -8,11 +8,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#731](https://github.com/mrh0/createaddition/pull/731) in [mrh0/createaddition](https://github.com/mrh0/createaddition)
-2. 🎉 Merged PR [#1](https://github.com/TurnrDev/BrassburgDatapack/pull/1) in [TurnrDev/BrassburgDatapack](https://github.com/TurnrDev/BrassburgDatapack)
-3. 🎉 Merged PR [#2](https://github.com/TurnrDev/BrassburgDatapack/pull/2) in [TurnrDev/BrassburgDatapack](https://github.com/TurnrDev/BrassburgDatapack)
-4. 💪 Opened PR [#2](https://github.com/TurnrDev/BrassburgDatapack/pull/2) in [TurnrDev/BrassburgDatapack](https://github.com/TurnrDev/BrassburgDatapack)
-5. 🗣 Commented on [#726](https://github.com/mrh0/createaddition/issues/726#issuecomment-1930630465) in [mrh0/createaddition](https://github.com/mrh0/createaddition)
+1. 💪 Opened PR [#732](https://github.com/mrh0/createaddition/pull/732) in [mrh0/createaddition](https://github.com/mrh0/createaddition)
+2. 💪 Opened PR [#731](https://github.com/mrh0/createaddition/pull/731) in [mrh0/createaddition](https://github.com/mrh0/createaddition)
+3. 🎉 Merged PR [#1](https://github.com/TurnrDev/BrassburgDatapack/pull/1) in [TurnrDev/BrassburgDatapack](https://github.com/TurnrDev/BrassburgDatapack)
+4. 🎉 Merged PR [#2](https://github.com/TurnrDev/BrassburgDatapack/pull/2) in [TurnrDev/BrassburgDatapack](https://github.com/TurnrDev/BrassburgDatapack)
+5. 💪 Opened PR [#2](https://github.com/TurnrDev/BrassburgDatapack/pull/2) in [TurnrDev/BrassburgDatapack](https://github.com/TurnrDev/BrassburgDatapack)
 <!--END_SECTION:activity-->
 
 <details>
