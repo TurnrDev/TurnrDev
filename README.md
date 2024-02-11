@@ -7,11 +7,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7605](https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7605) in [AppliedEnergistics/Applied-Energistics-2](https://github.com/AppliedEnergistics/Applied-Energistics-2)
-2. 🔒 Closed issue [#726](https://github.com/mrh0/createaddition/issues/726) in [mrh0/createaddition](https://github.com/mrh0/createaddition)
-3. 💪 Opened PR [#732](https://github.com/mrh0/createaddition/pull/732) in [mrh0/createaddition](https://github.com/mrh0/createaddition)
-4. 💪 Opened PR [#731](https://github.com/mrh0/createaddition/pull/731) in [mrh0/createaddition](https://github.com/mrh0/createaddition)
-5. 🎉 Merged PR [#1](https://github.com/TurnrDev/BrassburgDatapack/pull/1) in [TurnrDev/BrassburgDatapack](https://github.com/TurnrDev/BrassburgDatapack)
+1. 🗣 Commented on [#7606](https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7606#issuecomment-1937726816) in [AppliedEnergistics/Applied-Energistics-2](https://github.com/AppliedEnergistics/Applied-Energistics-2)
+2. 💪 Opened PR [#7607](https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7607) in [AppliedEnergistics/Applied-Energistics-2](https://github.com/AppliedEnergistics/Applied-Energistics-2)
+3. 🗣 Commented on [#7606](https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7606#issuecomment-1937715622) in [AppliedEnergistics/Applied-Energistics-2](https://github.com/AppliedEnergistics/Applied-Energistics-2)
+4. 💪 Opened PR [#7606](https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7606) in [AppliedEnergistics/Applied-Energistics-2](https://github.com/AppliedEnergistics/Applied-Energistics-2)
+5. 🗣 Commented on [#7605](https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7605#issuecomment-1937705774) in [AppliedEnergistics/Applied-Energistics-2](https://github.com/AppliedEnergistics/Applied-Energistics-2)
 <!--END_SECTION:activity-->
 
 <details>
