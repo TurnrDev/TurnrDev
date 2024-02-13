@@ -7,11 +7,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#7606](https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7606) in [AppliedEnergistics/Applied-Energistics-2](https://github.com/AppliedEnergistics/Applied-Energistics-2)
-2. 🎉 Merged PR [#3](https://github.com/TurnrDev/BrassburgDatapack/pull/3) in [TurnrDev/BrassburgDatapack](https://github.com/TurnrDev/BrassburgDatapack)
-3. 💪 Opened PR [#930](https://github.com/MehVahdJukaar/Supplementaries/pull/930) in [MehVahdJukaar/Supplementaries](https://github.com/MehVahdJukaar/Supplementaries)
-4. 💪 Opened PR [#3](https://github.com/TurnrDev/BrassburgDatapack/pull/3) in [TurnrDev/BrassburgDatapack](https://github.com/TurnrDev/BrassburgDatapack)
-5. 🗣 Commented on [#7607](https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7607#issuecomment-1937763770) in [AppliedEnergistics/Applied-Energistics-2](https://github.com/AppliedEnergistics/Applied-Energistics-2)
+1. 🚀 Published release [3.0.0](https://github.com/TurnrDev/EMICompat-Brassburg/releases/tag/3.0.0) in [TurnrDev/EMICompat-Brassburg](https://github.com/TurnrDev/EMICompat-Brassburg)
+2. ❌ Closed PR [#7606](https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7606) in [AppliedEnergistics/Applied-Energistics-2](https://github.com/AppliedEnergistics/Applied-Energistics-2)
+3. 🎉 Merged PR [#3](https://github.com/TurnrDev/BrassburgDatapack/pull/3) in [TurnrDev/BrassburgDatapack](https://github.com/TurnrDev/BrassburgDatapack)
+4. 💪 Opened PR [#930](https://github.com/MehVahdJukaar/Supplementaries/pull/930) in [MehVahdJukaar/Supplementaries](https://github.com/MehVahdJukaar/Supplementaries)
+5. 💪 Opened PR [#3](https://github.com/TurnrDev/BrassburgDatapack/pull/3) in [TurnrDev/BrassburgDatapack](https://github.com/TurnrDev/BrassburgDatapack)
 <!--END_SECTION:activity-->
 
 <details>
