@@ -7,11 +7,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1348](https://github.com/Fabricators-of-Create/Create/pull/1348#issuecomment-1969551438) in [Fabricators-of-Create/Create](https://github.com/Fabricators-of-Create/Create)
-2. 🗣 Commented on [#1348](https://github.com/Fabricators-of-Create/Create/pull/1348#issuecomment-1969546142) in [Fabricators-of-Create/Create](https://github.com/Fabricators-of-Create/Create)
-3. 💪 Opened PR [#1348](https://github.com/Fabricators-of-Create/Create/pull/1348) in [Fabricators-of-Create/Create](https://github.com/Fabricators-of-Create/Create)
-4. 🚀 Published release [3.0.0](https://github.com/TurnrDev/EMICompat-Brassburg/releases/tag/3.0.0) in [TurnrDev/EMICompat-Brassburg](https://github.com/TurnrDev/EMICompat-Brassburg)
-5. ❌ Closed PR [#7606](https://github.com/AppliedEnergistics/Applied-Energistics-2/pull/7606) in [AppliedEnergistics/Applied-Energistics-2](https://github.com/AppliedEnergistics/Applied-Energistics-2)
+1. 💪 Opened PR [#6224](https://github.com/Creators-of-Create/Create/pull/6224) in [Creators-of-Create/Create](https://github.com/Creators-of-Create/Create)
+2. 🗣 Commented on [#1348](https://github.com/Fabricators-of-Create/Create/pull/1348#issuecomment-1969551438) in [Fabricators-of-Create/Create](https://github.com/Fabricators-of-Create/Create)
+3. 🗣 Commented on [#1348](https://github.com/Fabricators-of-Create/Create/pull/1348#issuecomment-1969546142) in [Fabricators-of-Create/Create](https://github.com/Fabricators-of-Create/Create)
+4. 💪 Opened PR [#1348](https://github.com/Fabricators-of-Create/Create/pull/1348) in [Fabricators-of-Create/Create](https://github.com/Fabricators-of-Create/Create)
+5. 🚀 Published release [3.0.0](https://github.com/TurnrDev/EMICompat-Brassburg/releases/tag/3.0.0) in [TurnrDev/EMICompat-Brassburg](https://github.com/TurnrDev/EMICompat-Brassburg)
 <!--END_SECTION:activity-->
 
 <details>
