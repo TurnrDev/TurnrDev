@@ -7,11 +7,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#35](https://github.com/Kryeit/Missions/issues/35) in [Kryeit/Missions](https://github.com/Kryeit/Missions)
-2. 💪 Opened PR [#18](https://github.com/N1nn1/twigs/pull/18) in [N1nn1/twigs](https://github.com/N1nn1/twigs)
-3. 🗣 Commented on [#29](https://github.com/Kryeit/Missions/issues/29#issuecomment-2064532797) in [Kryeit/Missions](https://github.com/Kryeit/Missions)
-4. 🗣 Commented on [#32](https://github.com/Layers-of-Railways/CreateNumismatics/issues/32#issuecomment-2064081924) in [Layers-of-Railways/CreateNumismatics](https://github.com/Layers-of-Railways/CreateNumismatics)
-5. 🗣 Commented on [#32](https://github.com/Kryeit/Missions/issues/32#issuecomment-2063472680) in [Kryeit/Missions](https://github.com/Kryeit/Missions)
+1. 🗣 Commented on [#125](https://github.com/talrey/CreateDeco/pull/125#issuecomment-2078919038) in [talrey/CreateDeco](https://github.com/talrey/CreateDeco)
+2. ❗ Opened issue [#35](https://github.com/Kryeit/Missions/issues/35) in [Kryeit/Missions](https://github.com/Kryeit/Missions)
+3. 💪 Opened PR [#18](https://github.com/N1nn1/twigs/pull/18) in [N1nn1/twigs](https://github.com/N1nn1/twigs)
+4. 🗣 Commented on [#29](https://github.com/Kryeit/Missions/issues/29#issuecomment-2064532797) in [Kryeit/Missions](https://github.com/Kryeit/Missions)
+5. 🗣 Commented on [#32](https://github.com/Layers-of-Railways/CreateNumismatics/issues/32#issuecomment-2064081924) in [Layers-of-Railways/CreateNumismatics](https://github.com/Layers-of-Railways/CreateNumismatics)
 <!--END_SECTION:activity-->
 
 <details>
