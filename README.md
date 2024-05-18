@@ -7,11 +7,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#38](https://github.com/Kryeit/Missions/pull/38) in [Kryeit/Missions](https://github.com/Kryeit/Missions)
-2. 🗣 Commented on [#35](https://github.com/Kryeit/Missions/issues/35#issuecomment-2092798218) in [Kryeit/Missions](https://github.com/Kryeit/Missions)
-3. 🗣 Commented on [#125](https://github.com/talrey/CreateDeco/pull/125#issuecomment-2078919038) in [talrey/CreateDeco](https://github.com/talrey/CreateDeco)
-4. ❗ Opened issue [#35](https://github.com/Kryeit/Missions/issues/35) in [Kryeit/Missions](https://github.com/Kryeit/Missions)
-5. 💪 Opened PR [#18](https://github.com/N1nn1/twigs/pull/18) in [N1nn1/twigs](https://github.com/N1nn1/twigs)
+1. 🗣 Commented on [#45](https://github.com/Kryeit/Missions/pull/45#issuecomment-2118730469) in [Kryeit/Missions](https://github.com/Kryeit/Missions)
+2. 💪 Opened PR [#45](https://github.com/Kryeit/Missions/pull/45) in [Kryeit/Missions](https://github.com/Kryeit/Missions)
+3. 💪 Opened PR [#38](https://github.com/Kryeit/Missions/pull/38) in [Kryeit/Missions](https://github.com/Kryeit/Missions)
+4. 🗣 Commented on [#35](https://github.com/Kryeit/Missions/issues/35#issuecomment-2092798218) in [Kryeit/Missions](https://github.com/Kryeit/Missions)
+5. 🗣 Commented on [#125](https://github.com/talrey/CreateDeco/pull/125#issuecomment-2078919038) in [talrey/CreateDeco](https://github.com/talrey/CreateDeco)
 <!--END_SECTION:activity-->
 
 <details>
