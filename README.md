@@ -7,11 +7,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20895](https://github.com/home-assistant/frontend/pull/20895) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-2. 🗣 Commented on [#45](https://github.com/Kryeit/Missions/pull/45#issuecomment-2118730469) in [Kryeit/Missions](https://github.com/Kryeit/Missions)
-3. 💪 Opened PR [#45](https://github.com/Kryeit/Missions/pull/45) in [Kryeit/Missions](https://github.com/Kryeit/Missions)
-4. 💪 Opened PR [#38](https://github.com/Kryeit/Missions/pull/38) in [Kryeit/Missions](https://github.com/Kryeit/Missions)
-5. 🗣 Commented on [#35](https://github.com/Kryeit/Missions/issues/35#issuecomment-2092798218) in [Kryeit/Missions](https://github.com/Kryeit/Missions)
+1. 🗣 Commented on [#20896](https://github.com/home-assistant/frontend/pull/20896#issuecomment-2137172376) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+2. 🎉 Merged PR [#4](https://github.com/Brassburg/Datapack/pull/4) in [Brassburg/Datapack](https://github.com/Brassburg/Datapack)
+3. 🗣 Commented on [#4](https://github.com/Brassburg/Datapack/pull/4#issuecomment-2137164367) in [Brassburg/Datapack](https://github.com/Brassburg/Datapack)
+4. 💪 Opened PR [#4](https://github.com/Brassburg/Datapack/pull/4) in [Brassburg/Datapack](https://github.com/Brassburg/Datapack)
+5. 🗣 Commented on [#20896](https://github.com/home-assistant/frontend/pull/20896#issuecomment-2137162371) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
 <!--END_SECTION:activity-->
 
 <details>
