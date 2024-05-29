@@ -7,11 +7,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45](https://github.com/Kryeit/Missions/pull/45#issuecomment-2118730469) in [Kryeit/Missions](https://github.com/Kryeit/Missions)
-2. 💪 Opened PR [#45](https://github.com/Kryeit/Missions/pull/45) in [Kryeit/Missions](https://github.com/Kryeit/Missions)
-3. 💪 Opened PR [#38](https://github.com/Kryeit/Missions/pull/38) in [Kryeit/Missions](https://github.com/Kryeit/Missions)
-4. 🗣 Commented on [#35](https://github.com/Kryeit/Missions/issues/35#issuecomment-2092798218) in [Kryeit/Missions](https://github.com/Kryeit/Missions)
-5. 🗣 Commented on [#125](https://github.com/talrey/CreateDeco/pull/125#issuecomment-2078919038) in [talrey/CreateDeco](https://github.com/talrey/CreateDeco)
+1. 💪 Opened PR [#20895](https://github.com/home-assistant/frontend/pull/20895) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
+2. 🗣 Commented on [#45](https://github.com/Kryeit/Missions/pull/45#issuecomment-2118730469) in [Kryeit/Missions](https://github.com/Kryeit/Missions)
+3. 💪 Opened PR [#45](https://github.com/Kryeit/Missions/pull/45) in [Kryeit/Missions](https://github.com/Kryeit/Missions)
+4. 💪 Opened PR [#38](https://github.com/Kryeit/Missions/pull/38) in [Kryeit/Missions](https://github.com/Kryeit/Missions)
+5. 🗣 Commented on [#35](https://github.com/Kryeit/Missions/issues/35#issuecomment-2092798218) in [Kryeit/Missions](https://github.com/Kryeit/Missions)
 <!--END_SECTION:activity-->
 
 <details>
