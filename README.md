@@ -2,7 +2,8 @@
 - Full-time Cloud Engineer
 - Dev/tech guy helper on the [Brassburg SMP](https://www.minecraftiplist.com/server/BrassburgACreateModServer1.19.2-26937), managing a [datapack](https://github.com/TurnrDev/BrassburgDatapack) and patching broken mods
 - Made [TrainerDex](https://www.github.com/TrainerDex), sunsetted end of 2023.
-- love all things music, maps, public transport, infrastructure and the environment
+- love all things open source, [maps](https://www.openstreetmap.org/user/JayTurnr), public transport and the environment
+- uses [closed source maps](https://www.waze.com/) when I drive my car and polute the environment, I'm a hypocrite.
 
 ### :zap: Recent Activity
 
