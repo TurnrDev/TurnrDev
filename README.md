@@ -8,11 +8,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20896](https://github.com/home-assistant/frontend/pull/20896#issuecomment-2181159981) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-2. 🗣 Commented on [#20896](https://github.com/home-assistant/frontend/pull/20896#issuecomment-2181156347) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-3. 🗣 Commented on [#12](https://github.com/RussellJuma/PySuiteCRM/pull/12#issuecomment-2165321289) in [RussellJuma/PySuiteCRM](https://github.com/RussellJuma/PySuiteCRM)
-4. 🗣 Commented on [#20896](https://github.com/home-assistant/frontend/pull/20896#issuecomment-2137172376) in [home-assistant/frontend](https://github.com/home-assistant/frontend)
-5. 🎉 Merged PR [#4](https://github.com/Brassburg/Datapack/pull/4) in [Brassburg/Datapack](https://github.com/Brassburg/Datapack)
+1. 💪 Opened PR [#9671](https://github.com/osmlab/name-suggestion-index/pull/9671) in [osmlab/name-suggestion-index](https://github.com/osmlab/name-suggestion-index)
+2. ❌ Closed PR [#51](https://github.com/TurnrDev/name-suggestion-index/pull/51) in [TurnrDev/name-suggestion-index](https://github.com/TurnrDev/name-suggestion-index)
+3. ❌ Closed PR [#42](https://github.com/TurnrDev/name-suggestion-index/pull/42) in [TurnrDev/name-suggestion-index](https://github.com/TurnrDev/name-suggestion-index)
+4. ❌ Closed PR [#43](https://github.com/TurnrDev/name-suggestion-index/pull/43) in [TurnrDev/name-suggestion-index](https://github.com/TurnrDev/name-suggestion-index)
+5. ❌ Closed PR [#45](https://github.com/TurnrDev/name-suggestion-index/pull/45) in [TurnrDev/name-suggestion-index](https://github.com/TurnrDev/name-suggestion-index)
 <!--END_SECTION:activity-->
 
 <details>
