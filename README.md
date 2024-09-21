@@ -8,11 +8,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/junalmeida/homeassistant-torque/issues/28#issuecomment-2350910102) in [junalmeida/homeassistant-torque](https://github.com/junalmeida/homeassistant-torque)
-2. 🗣 Commented on [#28](https://github.com/junalmeida/homeassistant-torque/issues/28#issuecomment-2289410964) in [junalmeida/homeassistant-torque](https://github.com/junalmeida/homeassistant-torque)
-3. 🗣 Commented on [#28](https://github.com/junalmeida/homeassistant-torque/issues/28#issuecomment-2288260706) in [junalmeida/homeassistant-torque](https://github.com/junalmeida/homeassistant-torque)
-4. 🗣 Commented on [#134](https://github.com/openstreetmap/id-tagging-schema/pull/134#issuecomment-2276150836) in [openstreetmap/id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema)
-5. 💪 Opened PR [#9671](https://github.com/osmlab/name-suggestion-index/pull/9671) in [osmlab/name-suggestion-index](https://github.com/osmlab/name-suggestion-index)
+1. 🗣 Commented on [#28](https://github.com/junalmeida/homeassistant-torque/issues/28#issuecomment-2365255154) in [junalmeida/homeassistant-torque](https://github.com/junalmeida/homeassistant-torque)
+2. 🗣 Commented on [#28](https://github.com/junalmeida/homeassistant-torque/issues/28#issuecomment-2350910102) in [junalmeida/homeassistant-torque](https://github.com/junalmeida/homeassistant-torque)
+3. 🗣 Commented on [#28](https://github.com/junalmeida/homeassistant-torque/issues/28#issuecomment-2289410964) in [junalmeida/homeassistant-torque](https://github.com/junalmeida/homeassistant-torque)
+4. 🗣 Commented on [#28](https://github.com/junalmeida/homeassistant-torque/issues/28#issuecomment-2288260706) in [junalmeida/homeassistant-torque](https://github.com/junalmeida/homeassistant-torque)
+5. 🗣 Commented on [#134](https://github.com/openstreetmap/id-tagging-schema/pull/134#issuecomment-2276150836) in [openstreetmap/id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema)
 <!--END_SECTION:activity-->
 <details>
 <summary>Language breakdown over time</summary>
