@@ -8,11 +8,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20550](https://github.com/Koenkk/zigbee2mqtt/issues/20550#issuecomment-2385517164) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
-2. 🗣 Commented on [#28](https://github.com/junalmeida/homeassistant-torque/issues/28#issuecomment-2365255154) in [junalmeida/homeassistant-torque](https://github.com/junalmeida/homeassistant-torque)
-3. 🗣 Commented on [#28](https://github.com/junalmeida/homeassistant-torque/issues/28#issuecomment-2350910102) in [junalmeida/homeassistant-torque](https://github.com/junalmeida/homeassistant-torque)
-4. 🗣 Commented on [#28](https://github.com/junalmeida/homeassistant-torque/issues/28#issuecomment-2289410964) in [junalmeida/homeassistant-torque](https://github.com/junalmeida/homeassistant-torque)
-5. 🗣 Commented on [#28](https://github.com/junalmeida/homeassistant-torque/issues/28#issuecomment-2288260706) in [junalmeida/homeassistant-torque](https://github.com/junalmeida/homeassistant-torque)
+1. 💪 Opened PR [#6272](https://github.com/pypa/pipenv/pull/6272) in [pypa/pipenv](https://github.com/pypa/pipenv)
+2. ❗ Opened issue [#6271](https://github.com/pypa/pipenv/issues/6271) in [pypa/pipenv](https://github.com/pypa/pipenv)
+3. 🗣 Commented on [#20550](https://github.com/Koenkk/zigbee2mqtt/issues/20550#issuecomment-2385517164) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+4. 🗣 Commented on [#28](https://github.com/junalmeida/homeassistant-torque/issues/28#issuecomment-2365255154) in [junalmeida/homeassistant-torque](https://github.com/junalmeida/homeassistant-torque)
+5. 🗣 Commented on [#28](https://github.com/junalmeida/homeassistant-torque/issues/28#issuecomment-2350910102) in [junalmeida/homeassistant-torque](https://github.com/junalmeida/homeassistant-torque)
 <!--END_SECTION:activity-->
 <details>
 <summary>Language breakdown over time</summary>
