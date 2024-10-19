@@ -8,11 +8,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6272](https://github.com/pypa/pipenv/pull/6272#issuecomment-2409136112) in [pypa/pipenv](https://github.com/pypa/pipenv)
-2. 🗣 Commented on [#6271](https://github.com/pypa/pipenv/issues/6271#issuecomment-2396543718) in [pypa/pipenv](https://github.com/pypa/pipenv)
-3. 💪 Opened PR [#6272](https://github.com/pypa/pipenv/pull/6272) in [pypa/pipenv](https://github.com/pypa/pipenv)
-4. ❗ Opened issue [#6271](https://github.com/pypa/pipenv/issues/6271) in [pypa/pipenv](https://github.com/pypa/pipenv)
-5. 🗣 Commented on [#20550](https://github.com/Koenkk/zigbee2mqtt/issues/20550#issuecomment-2385517164) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+1. ❗ Opened issue [#12](https://github.com/AstralOrdana/molten-metals/issues/12) in [AstralOrdana/molten-metals](https://github.com/AstralOrdana/molten-metals)
+2. 🗣 Commented on [#6272](https://github.com/pypa/pipenv/pull/6272#issuecomment-2409136112) in [pypa/pipenv](https://github.com/pypa/pipenv)
+3. 🗣 Commented on [#6271](https://github.com/pypa/pipenv/issues/6271#issuecomment-2396543718) in [pypa/pipenv](https://github.com/pypa/pipenv)
+4. 💪 Opened PR [#6272](https://github.com/pypa/pipenv/pull/6272) in [pypa/pipenv](https://github.com/pypa/pipenv)
+5. ❗ Opened issue [#6271](https://github.com/pypa/pipenv/issues/6271) in [pypa/pipenv](https://github.com/pypa/pipenv)
 <!--END_SECTION:activity-->
 <details>
 <summary>Language breakdown over time</summary>
