@@ -8,11 +8,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#12](https://github.com/AstralOrdana/molten-metals/issues/12) in [AstralOrdana/molten-metals](https://github.com/AstralOrdana/molten-metals)
-2. 🗣 Commented on [#6272](https://github.com/pypa/pipenv/pull/6272#issuecomment-2409136112) in [pypa/pipenv](https://github.com/pypa/pipenv)
-3. 🗣 Commented on [#6271](https://github.com/pypa/pipenv/issues/6271#issuecomment-2396543718) in [pypa/pipenv](https://github.com/pypa/pipenv)
-4. 💪 Opened PR [#6272](https://github.com/pypa/pipenv/pull/6272) in [pypa/pipenv](https://github.com/pypa/pipenv)
-5. ❗ Opened issue [#6271](https://github.com/pypa/pipenv/issues/6271) in [pypa/pipenv](https://github.com/pypa/pipenv)
+1. 💪 Opened PR [#237](https://github.com/authomatic/authomatic/pull/237) in [authomatic/authomatic](https://github.com/authomatic/authomatic)
+2. ❗ Opened issue [#12](https://github.com/AstralOrdana/molten-metals/issues/12) in [AstralOrdana/molten-metals](https://github.com/AstralOrdana/molten-metals)
+3. 🗣 Commented on [#6272](https://github.com/pypa/pipenv/pull/6272#issuecomment-2409136112) in [pypa/pipenv](https://github.com/pypa/pipenv)
+4. 🗣 Commented on [#6271](https://github.com/pypa/pipenv/issues/6271#issuecomment-2396543718) in [pypa/pipenv](https://github.com/pypa/pipenv)
+5. 💪 Opened PR [#6272](https://github.com/pypa/pipenv/pull/6272) in [pypa/pipenv](https://github.com/pypa/pipenv)
 <!--END_SECTION:activity-->
 <details>
 <summary>Language breakdown over time</summary>
