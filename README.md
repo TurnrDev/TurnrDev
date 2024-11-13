@@ -8,11 +8,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#35733](https://github.com/home-assistant/home-assistant.io/pull/35733) in [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)
-2. 🗣 Commented on [#113](https://github.com/linuxserver/docker-homeassistant/issues/113#issuecomment-2462084479) in [linuxserver/docker-homeassistant](https://github.com/linuxserver/docker-homeassistant)
-3. 💪 Opened PR [#1064](https://github.com/BottlecapDave/HomeAssistant-OctopusEnergy/pull/1064) in [BottlecapDave/HomeAssistant-OctopusEnergy](https://github.com/BottlecapDave/HomeAssistant-OctopusEnergy)
-4. 💪 Opened PR [#2980](https://github.com/mampfes/hacs_waste_collection_schedule/pull/2980) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)
-5. 💪 Opened PR [#237](https://github.com/authomatic/authomatic/pull/237) in [authomatic/authomatic](https://github.com/authomatic/authomatic)
+1. 🗣 Commented on [#35733](https://github.com/home-assistant/home-assistant.io/pull/35733#issuecomment-2471834424) in [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)
+2. 💪 Opened PR [#35733](https://github.com/home-assistant/home-assistant.io/pull/35733) in [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)
+3. 🗣 Commented on [#113](https://github.com/linuxserver/docker-homeassistant/issues/113#issuecomment-2462084479) in [linuxserver/docker-homeassistant](https://github.com/linuxserver/docker-homeassistant)
+4. 💪 Opened PR [#1064](https://github.com/BottlecapDave/HomeAssistant-OctopusEnergy/pull/1064) in [BottlecapDave/HomeAssistant-OctopusEnergy](https://github.com/BottlecapDave/HomeAssistant-OctopusEnergy)
+5. 💪 Opened PR [#2980](https://github.com/mampfes/hacs_waste_collection_schedule/pull/2980) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)
 <!--END_SECTION:activity-->
 <details>
 <summary>Language breakdown over time</summary>
