@@ -7,11 +7,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5324](https://github.com/openstreetmap/openstreetmap-website/issues/5324#issuecomment-2480141327) in [openstreetmap/openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website)
-2. 🗣 Commented on [#5324](https://github.com/openstreetmap/openstreetmap-website/issues/5324#issuecomment-2477298494) in [openstreetmap/openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website)
-3. 🗣 Commented on [#35733](https://github.com/home-assistant/home-assistant.io/pull/35733#issuecomment-2471834424) in [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)
-4. 💪 Opened PR [#35733](https://github.com/home-assistant/home-assistant.io/pull/35733) in [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)
-5. 🗣 Commented on [#113](https://github.com/linuxserver/docker-homeassistant/issues/113#issuecomment-2462084479) in [linuxserver/docker-homeassistant](https://github.com/linuxserver/docker-homeassistant)
+1. 💪 Opened PR [#72](https://github.com/IATkachenko/HA-SleepAsAndroid/pull/72) in [IATkachenko/HA-SleepAsAndroid](https://github.com/IATkachenko/HA-SleepAsAndroid)
+2. 💪 Opened PR [#130864](https://github.com/home-assistant/core/pull/130864) in [home-assistant/core](https://github.com/home-assistant/core)
+3. 🗣 Commented on [#5324](https://github.com/openstreetmap/openstreetmap-website/issues/5324#issuecomment-2480141327) in [openstreetmap/openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website)
+4. 🗣 Commented on [#5324](https://github.com/openstreetmap/openstreetmap-website/issues/5324#issuecomment-2477298494) in [openstreetmap/openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website)
+5. 🗣 Commented on [#35733](https://github.com/home-assistant/home-assistant.io/pull/35733#issuecomment-2471834424) in [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)
 <!--END_SECTION:activity-->
 <details>
 <summary>Language breakdown over time</summary>
