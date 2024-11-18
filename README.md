@@ -2,8 +2,7 @@
 - Full-time Python Backend Engineer
 - Dev/tech guy helper on the [Brassburg SMP](https://www.minecraftiplist.com/server/BrassburgACreateModServer1.19.2-26937), managing a [datapack](https://github.com/TurnrDev/BrassburgDatapack) and patching broken mods
 - Made [TrainerDex](https://www.github.com/TrainerDex), sunsetted end of 2023.
-- love all things open source, [maps](https://www.openstreetmap.org/user/JayTurnr), public transport and the environment
-- uses [closed source maps](https://www.waze.com/) when I drive my car and pollute the environment, I'm a hypocrite.
+- love all things open source, [maps](https://www.openstreetmap.org/user/JayTurnr), public transport etc bit of a nerd
 
 ### :zap: Recent Activity
 
