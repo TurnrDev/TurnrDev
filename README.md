@@ -7,11 +7,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#72](https://github.com/IATkachenko/HA-SleepAsAndroid/pull/72) in [IATkachenko/HA-SleepAsAndroid](https://github.com/IATkachenko/HA-SleepAsAndroid)
-2. 💪 Opened PR [#130864](https://github.com/home-assistant/core/pull/130864) in [home-assistant/core](https://github.com/home-assistant/core)
-3. 🗣 Commented on [#5324](https://github.com/openstreetmap/openstreetmap-website/issues/5324#issuecomment-2480141327) in [openstreetmap/openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website)
-4. 🗣 Commented on [#5324](https://github.com/openstreetmap/openstreetmap-website/issues/5324#issuecomment-2477298494) in [openstreetmap/openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website)
-5. 🗣 Commented on [#35733](https://github.com/home-assistant/home-assistant.io/pull/35733#issuecomment-2471834424) in [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)
+1. 🗣 Commented on [#130864](https://github.com/home-assistant/core/pull/130864#issuecomment-2482812500) in [home-assistant/core](https://github.com/home-assistant/core)
+2. 🗣 Commented on [#130864](https://github.com/home-assistant/core/pull/130864#issuecomment-2482799009) in [home-assistant/core](https://github.com/home-assistant/core)
+3. 🗣 Commented on [#130864](https://github.com/home-assistant/core/pull/130864#issuecomment-2482777524) in [home-assistant/core](https://github.com/home-assistant/core)
+4. 💪 Opened PR [#72](https://github.com/IATkachenko/HA-SleepAsAndroid/pull/72) in [IATkachenko/HA-SleepAsAndroid](https://github.com/IATkachenko/HA-SleepAsAndroid)
+5. 💪 Opened PR [#130864](https://github.com/home-assistant/core/pull/130864) in [home-assistant/core](https://github.com/home-assistant/core)
 <!--END_SECTION:activity-->
 <details>
 <summary>Language breakdown over time</summary>
