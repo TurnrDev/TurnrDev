@@ -7,11 +7,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#262](https://github.com/vigonotion/hass-simpleicons/pull/262) in [vigonotion/hass-simpleicons](https://github.com/vigonotion/hass-simpleicons)
-2. 🗣 Commented on [#130864](https://github.com/home-assistant/core/pull/130864#issuecomment-2482857271) in [home-assistant/core](https://github.com/home-assistant/core)
-3. ❌ Closed PR [#130864](https://github.com/home-assistant/core/pull/130864) in [home-assistant/core](https://github.com/home-assistant/core)
-4. 🗣 Commented on [#130864](https://github.com/home-assistant/core/pull/130864#issuecomment-2482812500) in [home-assistant/core](https://github.com/home-assistant/core)
-5. 🗣 Commented on [#130864](https://github.com/home-assistant/core/pull/130864#issuecomment-2482799009) in [home-assistant/core](https://github.com/home-assistant/core)
+1. 🗣 Commented on [#2980](https://github.com/mampfes/hacs_waste_collection_schedule/pull/2980#issuecomment-2487928987) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)
+2. 💪 Opened PR [#262](https://github.com/vigonotion/hass-simpleicons/pull/262) in [vigonotion/hass-simpleicons](https://github.com/vigonotion/hass-simpleicons)
+3. 🗣 Commented on [#130864](https://github.com/home-assistant/core/pull/130864#issuecomment-2482857271) in [home-assistant/core](https://github.com/home-assistant/core)
+4. ❌ Closed PR [#130864](https://github.com/home-assistant/core/pull/130864) in [home-assistant/core](https://github.com/home-assistant/core)
+5. 🗣 Commented on [#130864](https://github.com/home-assistant/core/pull/130864#issuecomment-2482812500) in [home-assistant/core](https://github.com/home-assistant/core)
 <!--END_SECTION:activity-->
 <details>
 <summary>Language breakdown over time</summary>
