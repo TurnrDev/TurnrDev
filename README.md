@@ -7,11 +7,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#134](https://github.com/openstreetmap/id-tagging-schema/pull/134#issuecomment-2513923666) in [openstreetmap/id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema)
-2. 🗣 Commented on [#2980](https://github.com/mampfes/hacs_waste_collection_schedule/pull/2980#issuecomment-2491723983) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)
-3. 💪 Opened PR [#159](https://github.com/dummylabs/thewatchman/pull/159) in [dummylabs/thewatchman](https://github.com/dummylabs/thewatchman)
-4. 🗣 Commented on [#2980](https://github.com/mampfes/hacs_waste_collection_schedule/pull/2980#issuecomment-2487928987) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)
-5. 💪 Opened PR [#262](https://github.com/vigonotion/hass-simpleicons/pull/262) in [vigonotion/hass-simpleicons](https://github.com/vigonotion/hass-simpleicons)
+1. 💪 Opened PR [#5681](https://github.com/aws-powertools/powertools-lambda-python/pull/5681) in [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python)
+2. 🗣 Commented on [#134](https://github.com/openstreetmap/id-tagging-schema/pull/134#issuecomment-2513923666) in [openstreetmap/id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema)
+3. 🗣 Commented on [#2980](https://github.com/mampfes/hacs_waste_collection_schedule/pull/2980#issuecomment-2491723983) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)
+4. 💪 Opened PR [#159](https://github.com/dummylabs/thewatchman/pull/159) in [dummylabs/thewatchman](https://github.com/dummylabs/thewatchman)
+5. 🗣 Commented on [#2980](https://github.com/mampfes/hacs_waste_collection_schedule/pull/2980#issuecomment-2487928987) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)
 <!--END_SECTION:activity-->
 <details>
 <summary>Language breakdown over time</summary>
