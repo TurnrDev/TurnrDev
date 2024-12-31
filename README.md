@@ -7,11 +7,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5324](https://github.com/openstreetmap/openstreetmap-website/issues/5324#issuecomment-2539292029) in [openstreetmap/openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website)
-2. 🗣 Commented on [#2954](https://github.com/mampfes/hacs_waste_collection_schedule/pull/2954#issuecomment-2517347650) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)
-3. 🗣 Commented on [#167](https://github.com/bddicken/languages/pull/167#issuecomment-2516572929) in [bddicken/languages](https://github.com/bddicken/languages)
-4. 💪 Opened PR [#5681](https://github.com/aws-powertools/powertools-lambda-python/pull/5681) in [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python)
-5. 🗣 Commented on [#134](https://github.com/openstreetmap/id-tagging-schema/pull/134#issuecomment-2513923666) in [openstreetmap/id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema)
+1. 💪 Opened PR [#3353](https://github.com/mampfes/hacs_waste_collection_schedule/pull/3353) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)
+2. 🗣 Commented on [#5324](https://github.com/openstreetmap/openstreetmap-website/issues/5324#issuecomment-2539292029) in [openstreetmap/openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website)
+3. 🗣 Commented on [#2954](https://github.com/mampfes/hacs_waste_collection_schedule/pull/2954#issuecomment-2517347650) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)
+4. 🗣 Commented on [#167](https://github.com/bddicken/languages/pull/167#issuecomment-2516572929) in [bddicken/languages](https://github.com/bddicken/languages)
+5. 💪 Opened PR [#5681](https://github.com/aws-powertools/powertools-lambda-python/pull/5681) in [aws-powertools/powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python)
 <!--END_SECTION:activity-->
 <details>
 <summary>Language breakdown over time</summary>
