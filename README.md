@@ -7,11 +7,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6084](https://github.com/streetcomplete/StreetComplete/issues/6084#issuecomment-2573295864) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-2. 🗣 Commented on [#3353](https://github.com/mampfes/hacs_waste_collection_schedule/pull/3353#issuecomment-2572810233) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)
-3. 🗣 Commented on [#65](https://github.com/PolyMC/PolyMC/issues/65#issuecomment-2571549704) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
-4. 💪 Opened PR [#171](https://github.com/ualex73/monitor_docker/pull/171) in [ualex73/monitor_docker](https://github.com/ualex73/monitor_docker)
-5. 🗣 Commented on [#5](https://github.com/apavlinovic/pokemon-go-imagery/issues/5#issuecomment-2569088828) in [apavlinovic/pokemon-go-imagery](https://github.com/apavlinovic/pokemon-go-imagery)
+1. 🗣 Commented on [#6084](https://github.com/streetcomplete/StreetComplete/issues/6084#issuecomment-2574985275) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+2. 🗣 Commented on [#6084](https://github.com/streetcomplete/StreetComplete/issues/6084#issuecomment-2573295864) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+3. 🗣 Commented on [#3353](https://github.com/mampfes/hacs_waste_collection_schedule/pull/3353#issuecomment-2572810233) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)
+4. 🗣 Commented on [#65](https://github.com/PolyMC/PolyMC/issues/65#issuecomment-2571549704) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+5. 💪 Opened PR [#171](https://github.com/ualex73/monitor_docker/pull/171) in [ualex73/monitor_docker](https://github.com/ualex73/monitor_docker)
 <!--END_SECTION:activity-->
 <details>
 <summary>Language breakdown over time</summary>
