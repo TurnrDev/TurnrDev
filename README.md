@@ -7,11 +7,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3353](https://github.com/mampfes/hacs_waste_collection_schedule/pull/3353#issuecomment-2575221723) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)
-2. 🗣 Commented on [#6084](https://github.com/streetcomplete/StreetComplete/issues/6084#issuecomment-2574985275) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-3. 🗣 Commented on [#6084](https://github.com/streetcomplete/StreetComplete/issues/6084#issuecomment-2573295864) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-4. 🗣 Commented on [#3353](https://github.com/mampfes/hacs_waste_collection_schedule/pull/3353#issuecomment-2572810233) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)
-5. 🗣 Commented on [#65](https://github.com/PolyMC/PolyMC/issues/65#issuecomment-2571549704) in [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC)
+1. 💪 Opened PR [#3516](https://github.com/mampfes/hacs_waste_collection_schedule/pull/3516) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)
+2. 🗣 Commented on [#3353](https://github.com/mampfes/hacs_waste_collection_schedule/pull/3353#issuecomment-2575221723) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)
+3. 🗣 Commented on [#6084](https://github.com/streetcomplete/StreetComplete/issues/6084#issuecomment-2574985275) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+4. 🗣 Commented on [#6084](https://github.com/streetcomplete/StreetComplete/issues/6084#issuecomment-2573295864) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+5. 🗣 Commented on [#3353](https://github.com/mampfes/hacs_waste_collection_schedule/pull/3353#issuecomment-2572810233) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)
 <!--END_SECTION:activity-->
 <details>
 <summary>Language breakdown over time</summary>
