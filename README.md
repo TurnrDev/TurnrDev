@@ -7,11 +7,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25772](https://github.com/Koenkk/zigbee2mqtt/issues/25772#issuecomment-2593880038) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
-2. 🗣 Commented on [#72](https://github.com/IATkachenko/HA-SleepAsAndroid/pull/72#issuecomment-2582606930) in [IATkachenko/HA-SleepAsAndroid](https://github.com/IATkachenko/HA-SleepAsAndroid)
-3. 🗣 Commented on [#2839](https://github.com/streetcomplete/StreetComplete/issues/2839#issuecomment-2580045553) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-4. 🔓 Reopened issue [#2839](https://github.com/streetcomplete/StreetComplete/issues/2839) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
-5. 💪 Opened PR [#3516](https://github.com/mampfes/hacs_waste_collection_schedule/pull/3516) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)
+1. ❗ Opened issue [#1046](https://github.com/alecthomas/chroma/issues/1046) in [alecthomas/chroma](https://github.com/alecthomas/chroma)
+2. 🗣 Commented on [#25772](https://github.com/Koenkk/zigbee2mqtt/issues/25772#issuecomment-2593880038) in [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
+3. 🗣 Commented on [#72](https://github.com/IATkachenko/HA-SleepAsAndroid/pull/72#issuecomment-2582606930) in [IATkachenko/HA-SleepAsAndroid](https://github.com/IATkachenko/HA-SleepAsAndroid)
+4. 🗣 Commented on [#2839](https://github.com/streetcomplete/StreetComplete/issues/2839#issuecomment-2580045553) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+5. 🔓 Reopened issue [#2839](https://github.com/streetcomplete/StreetComplete/issues/2839) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
 <!--END_SECTION:activity-->
 <details>
 <summary>Language breakdown over time</summary>
