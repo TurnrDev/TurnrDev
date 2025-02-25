@@ -13,12 +13,8 @@
 4. 🗣 Commented on [#2839](https://github.com/streetcomplete/StreetComplete/issues/2839#issuecomment-2580045553) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
 5. 🔓 Reopened issue [#2839](https://github.com/streetcomplete/StreetComplete/issues/2839) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
 <!--END_SECTION:activity-->
-<details>
-<summary>Language breakdown over time</summary>
-<b>last 30 days</b>
 
-[<img src="https://wakatime.com/share/@TurnrDev/4142a9ac-7325-4d2f-a2bb-ec199b5c798c.svg" alt="A graph showing a rundown of my languages used in the past 30 days. Unforunately, I am unable to autogen alt headers for this at the moment."/>](https://wakatime.com/@TurnrDev)
-<b>last year</b>
+### Language breakdown over time
 
-[<img src="https://github-readme-stats.vercel.app/api/wakatime?username=TurnrDev&layout=compact" alt="A graph showing a rundown of my languages used in the past year. Unforunately, I am unable to autogen alt headers for this at the moment." />](https://wakatime.com/@TurnrDev)
-</details>
+[<img src="https://github-readme-stats.vercel.app/api/wakatime?username=TurnrDev&layout=compact" alt="A graph showing a rundown of my languages used in the past year. Unfortunately, I cannot autogen alt headers for this now." />](https://wakatime.com/@TurnrDev)
+
