@@ -7,11 +7,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9511](https://github.com/hyprwm/Hyprland/issues/9511) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
-2. 🗣 Commented on [#527](https://github.com/pytest-dev/pytest-django/issues/527#issuecomment-2685095005) in [pytest-dev/pytest-django](https://github.com/pytest-dev/pytest-django)
-3. 💪 Opened PR [#1](https://github.com/Azelphur/mqttdevice/pull/1) in [Azelphur/mqttdevice](https://github.com/Azelphur/mqttdevice)
-4. ❗ Opened issue [#1046](https://github.com/alecthomas/chroma/issues/1046) in [alecthomas/chroma](https://github.com/alecthomas/chroma)
-5. 🔓 Reopened issue [#2839](https://github.com/streetcomplete/StreetComplete/issues/2839) in [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete)
+1. 🗣 Commented on [#3910](https://github.com/mampfes/hacs_waste_collection_schedule/issues/3910#issuecomment-2724282034) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)
+2. ❗ Opened issue [#3910](https://github.com/mampfes/hacs_waste_collection_schedule/issues/3910) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)
+3. ❗ Opened issue [#9511](https://github.com/hyprwm/Hyprland/issues/9511) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+4. 🗣 Commented on [#527](https://github.com/pytest-dev/pytest-django/issues/527#issuecomment-2685095005) in [pytest-dev/pytest-django](https://github.com/pytest-dev/pytest-django)
+5. 💪 Opened PR [#1](https://github.com/Azelphur/mqttdevice/pull/1) in [Azelphur/mqttdevice](https://github.com/Azelphur/mqttdevice)
 <!--END_SECTION:activity-->
 
 ### Language breakdown over time
