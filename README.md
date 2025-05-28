@@ -7,9 +7,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1397](https://github.com/piitaya/lovelace-mushroom/pull/1397#issuecomment-2890452850) in [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom)
-2. 🗣 Commented on [#1189](https://github.com/piitaya/lovelace-mushroom/issues/1189#issuecomment-2890441968) in [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom)
-3. 🗣 Commented on [#3910](https://github.com/mampfes/hacs_waste_collection_schedule/issues/3910#issuecomment-2724282034) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)
+1. ❗ Opened issue [#37](https://github.com/xBourner/status-card/issues/37) in [xBourner/status-card](https://github.com/xBourner/status-card)
+2. 🗣 Commented on [#1397](https://github.com/piitaya/lovelace-mushroom/pull/1397#issuecomment-2890452850) in [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom)
+3. 🗣 Commented on [#1189](https://github.com/piitaya/lovelace-mushroom/issues/1189#issuecomment-2890441968) in [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom)
 4. ❗ Opened issue [#3910](https://github.com/mampfes/hacs_waste_collection_schedule/issues/3910) in [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule)
 5. 💪 Opened PR [#1](https://github.com/Azelphur/mqttdevice/pull/1) in [Azelphur/mqttdevice](https://github.com/Azelphur/mqttdevice)
 <!--END_SECTION:activity-->
