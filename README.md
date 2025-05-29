@@ -7,11 +7,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/xBourner/status-card/issues/37#issuecomment-2916507577) in [xBourner/status-card](https://github.com/xBourner/status-card)
-2. ❗ Opened issue [#37](https://github.com/xBourner/status-card/issues/37) in [xBourner/status-card](https://github.com/xBourner/status-card)
-3. 🗣 Commented on [#1397](https://github.com/piitaya/lovelace-mushroom/pull/1397#issuecomment-2890452850) in [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom)
-4. 🗣 Commented on [#1189](https://github.com/piitaya/lovelace-mushroom/issues/1189#issuecomment-2890441968) in [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom)
-5. 💪 Opened PR [#1](https://github.com/Azelphur/mqttdevice/pull/1) in [Azelphur/mqttdevice](https://github.com/Azelphur/mqttdevice)
+1. 🗣 Commented on [#37](https://github.com/xBourner/status-card/issues/37#issuecomment-2916721263) in [xBourner/status-card](https://github.com/xBourner/status-card)
+2. 🗣 Commented on [#37](https://github.com/xBourner/status-card/issues/37#issuecomment-2916711180) in [xBourner/status-card](https://github.com/xBourner/status-card)
+3. 🗣 Commented on [#37](https://github.com/xBourner/status-card/issues/37#issuecomment-2916507577) in [xBourner/status-card](https://github.com/xBourner/status-card)
+4. ❗ Opened issue [#37](https://github.com/xBourner/status-card/issues/37) in [xBourner/status-card](https://github.com/xBourner/status-card)
+5. 🗣 Commented on [#1397](https://github.com/piitaya/lovelace-mushroom/pull/1397#issuecomment-2890452850) in [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom)
 <!--END_SECTION:activity-->
 
 ### Language breakdown over time
