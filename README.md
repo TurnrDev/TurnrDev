@@ -7,11 +7,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1208](https://github.com/basnijholt/adaptive-lighting/issues/1208#issuecomment-2972557403) in [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting)
-2. 🗣 Commented on [#1469](https://github.com/robbrad/UKBinCollectionData/issues/1469#issuecomment-2948472974) in [robbrad/UKBinCollectionData](https://github.com/robbrad/UKBinCollectionData)
-3. ❗ Opened issue [#1469](https://github.com/robbrad/UKBinCollectionData/issues/1469) in [robbrad/UKBinCollectionData](https://github.com/robbrad/UKBinCollectionData)
-4. 🗣 Commented on [#37](https://github.com/xBourner/status-card/issues/37#issuecomment-2916721263) in [xBourner/status-card](https://github.com/xBourner/status-card)
-5. 🗣 Commented on [#37](https://github.com/xBourner/status-card/issues/37#issuecomment-2916711180) in [xBourner/status-card](https://github.com/xBourner/status-card)
+1. ❗ Opened issue [#18792](https://github.com/blakeblackshear/frigate/issues/18792) in [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
+2. 🗣 Commented on [#1208](https://github.com/basnijholt/adaptive-lighting/issues/1208#issuecomment-2972557403) in [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting)
+3. 🗣 Commented on [#1469](https://github.com/robbrad/UKBinCollectionData/issues/1469#issuecomment-2948472974) in [robbrad/UKBinCollectionData](https://github.com/robbrad/UKBinCollectionData)
+4. ❗ Opened issue [#1469](https://github.com/robbrad/UKBinCollectionData/issues/1469) in [robbrad/UKBinCollectionData](https://github.com/robbrad/UKBinCollectionData)
+5. 🗣 Commented on [#37](https://github.com/xBourner/status-card/issues/37#issuecomment-2916721263) in [xBourner/status-card](https://github.com/xBourner/status-card)
 <!--END_SECTION:activity-->
 
 ### Language breakdown over time
