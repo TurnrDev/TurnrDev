@@ -7,11 +7,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#11](https://github.com/andrew-codechimp/HA-Label-State/issues/11) in [andrew-codechimp/HA-Label-State](https://github.com/andrew-codechimp/HA-Label-State)
-2. ❗ Opened issue [#18792](https://github.com/blakeblackshear/frigate/issues/18792) in [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
-3. 🗣 Commented on [#1208](https://github.com/basnijholt/adaptive-lighting/issues/1208#issuecomment-2972557403) in [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting)
-4. 🗣 Commented on [#1469](https://github.com/robbrad/UKBinCollectionData/issues/1469#issuecomment-2948472974) in [robbrad/UKBinCollectionData](https://github.com/robbrad/UKBinCollectionData)
-5. ❗ Opened issue [#1469](https://github.com/robbrad/UKBinCollectionData/issues/1469) in [robbrad/UKBinCollectionData](https://github.com/robbrad/UKBinCollectionData)
+1. 🗣 Commented on [#11](https://github.com/andrew-codechimp/HA-Label-State/issues/11#issuecomment-2997172775) in [andrew-codechimp/HA-Label-State](https://github.com/andrew-codechimp/HA-Label-State)
+2. ❗ Opened issue [#11](https://github.com/andrew-codechimp/HA-Label-State/issues/11) in [andrew-codechimp/HA-Label-State](https://github.com/andrew-codechimp/HA-Label-State)
+3. ❗ Opened issue [#18792](https://github.com/blakeblackshear/frigate/issues/18792) in [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
+4. 🗣 Commented on [#1208](https://github.com/basnijholt/adaptive-lighting/issues/1208#issuecomment-2972557403) in [basnijholt/adaptive-lighting](https://github.com/basnijholt/adaptive-lighting)
+5. 🗣 Commented on [#1469](https://github.com/robbrad/UKBinCollectionData/issues/1469#issuecomment-2948472974) in [robbrad/UKBinCollectionData](https://github.com/robbrad/UKBinCollectionData)
 <!--END_SECTION:activity-->
 
 ### Language breakdown over time
