@@ -7,7 +7,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#1780](https://github.com/robbrad/UKBinCollectionData/issues/1780) in [robbrad/UKBinCollectionData](https://github.com/robbrad/UKBinCollectionData)
+1. ℹ️ Labeled issue [#1780](https://github.com/robbrad/UKBinCollectionData/issues/1780) in [robbrad/UKBinCollectionData](https://github.com/robbrad/UKBinCollectionData)
 2. ❗ Opened issue [#1780](https://github.com/robbrad/UKBinCollectionData/issues/1780) in [robbrad/UKBinCollectionData](https://github.com/robbrad/UKBinCollectionData)
 3. 💪 Opened PR [#1662](undefined) in [robbrad/UKBinCollectionData](https://github.com/robbrad/UKBinCollectionData)
 4. 🗣 Commented on [#132](https://github.com/openstreetmap/id-tagging-schema/pull/132#issuecomment-3401262670) in [openstreetmap/id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema)
