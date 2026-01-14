@@ -13,8 +13,3 @@
 4. ❗ Opened issue [#1780](https://github.com/robbrad/UKBinCollectionData/issues/1780) in [robbrad/UKBinCollectionData](https://github.com/robbrad/UKBinCollectionData)
 5. 🗣 Commented on [#11](https://github.com/andrew-codechimp/HA-Label-State/issues/11#issuecomment-2997172775) in [andrew-codechimp/HA-Label-State](https://github.com/andrew-codechimp/HA-Label-State)
 <!--END_SECTION:activity-->
-
-### Language breakdown over time
-
-[<img src="https://github-readme-stats.vercel.app/api/wakatime?username=TurnrDev&layout=compact" alt="A graph showing a rundown of my languages used in the past year. Unfortunately, I cannot autogen alt headers for this now." />](https://wakatime.com/@TurnrDev)
-
