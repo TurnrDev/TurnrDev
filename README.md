@@ -7,9 +7,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/sam159/brotherql_grocylabels/issues/4#issuecomment-3804212323) in [sam159/brotherql_grocylabels](https://github.com/sam159/brotherql_grocylabels)
-2. ℹ️ Labeled issue [#2914](https://github.com/end-4/dots-hyprland/issues/2914) in [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland)
-3. ❗ Opened issue [#2914](https://github.com/end-4/dots-hyprland/issues/2914) in [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland)
-4. 🗣 Commented on [#1780](https://github.com/robbrad/UKBinCollectionData/issues/1780#issuecomment-3743213275) in [robbrad/UKBinCollectionData](https://github.com/robbrad/UKBinCollectionData)
-5. 🗣 Commented on [#21](https://github.com/andreynovikov/django-daterangefilter/pull/21#issuecomment-3709480494) in [andreynovikov/django-daterangefilter](https://github.com/andreynovikov/django-daterangefilter)
+1. 🗣 Commented on [#1780](https://github.com/robbrad/UKBinCollectionData/issues/1780#issuecomment-3833648941) in [robbrad/UKBinCollectionData](https://github.com/robbrad/UKBinCollectionData)
+2. 🗣 Commented on [#4](https://github.com/sam159/brotherql_grocylabels/issues/4#issuecomment-3804212323) in [sam159/brotherql_grocylabels](https://github.com/sam159/brotherql_grocylabels)
+3. ℹ️ Labeled issue [#2914](https://github.com/end-4/dots-hyprland/issues/2914) in [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland)
+4. ❗ Opened issue [#2914](https://github.com/end-4/dots-hyprland/issues/2914) in [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland)
+5. 🗣 Commented on [#1780](https://github.com/robbrad/UKBinCollectionData/issues/1780#issuecomment-3743213275) in [robbrad/UKBinCollectionData](https://github.com/robbrad/UKBinCollectionData)
 <!--END_SECTION:activity-->
