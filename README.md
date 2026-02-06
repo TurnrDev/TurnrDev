@@ -7,9 +7,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2870](https://github.com/grocy/grocy/pull/2870) in [grocy/grocy](https://github.com/grocy/grocy)
-2. 💪 Opened PR [#2870](https://github.com/grocy/grocy/pull/2870) in [grocy/grocy](https://github.com/grocy/grocy)
-3. 🗣 Commented on [#1780](https://github.com/robbrad/UKBinCollectionData/issues/1780#issuecomment-3833977123) in [robbrad/UKBinCollectionData](https://github.com/robbrad/UKBinCollectionData)
-4. 🗣 Commented on [#1780](https://github.com/robbrad/UKBinCollectionData/issues/1780#issuecomment-3833648941) in [robbrad/UKBinCollectionData](https://github.com/robbrad/UKBinCollectionData)
-5. 🗣 Commented on [#4](https://github.com/sam159/brotherql_grocylabels/issues/4#issuecomment-3804212323) in [sam159/brotherql_grocylabels](https://github.com/sam159/brotherql_grocylabels)
+1. 🎉 Merged PR [#1](https://github.com/Azelphur/mqttdevice/pull/1) in [Azelphur/mqttdevice](https://github.com/Azelphur/mqttdevice)
+2. 🎉 Merged PR [#2870](https://github.com/grocy/grocy/pull/2870) in [grocy/grocy](https://github.com/grocy/grocy)
+3. 💪 Opened PR [#2870](https://github.com/grocy/grocy/pull/2870) in [grocy/grocy](https://github.com/grocy/grocy)
+4. 🗣 Commented on [#1780](https://github.com/robbrad/UKBinCollectionData/issues/1780#issuecomment-3833977123) in [robbrad/UKBinCollectionData](https://github.com/robbrad/UKBinCollectionData)
+5. 🗣 Commented on [#1780](https://github.com/robbrad/UKBinCollectionData/issues/1780#issuecomment-3833648941) in [robbrad/UKBinCollectionData](https://github.com/robbrad/UKBinCollectionData)
 <!--END_SECTION:activity-->
