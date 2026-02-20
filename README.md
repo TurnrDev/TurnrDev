@@ -7,9 +7,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#215](https://github.com/TaterTotterson/microWakeWords/issues/215#issuecomment-3908176233) in [TaterTotterson/microWakeWords](https://github.com/TaterTotterson/microWakeWords)
-2. ❗ Opened issue [#215](https://github.com/TaterTotterson/microWakeWords/issues/215) in [TaterTotterson/microWakeWords](https://github.com/TaterTotterson/microWakeWords)
-3. 🎉 Merged PR [#1](https://github.com/Azelphur/mqttdevice/pull/1) in [Azelphur/mqttdevice](https://github.com/Azelphur/mqttdevice)
-4. 🎉 Merged PR [#2870](https://github.com/grocy/grocy/pull/2870) in [grocy/grocy](https://github.com/grocy/grocy)
-5. 💪 Opened PR [#2870](https://github.com/grocy/grocy/pull/2870) in [grocy/grocy](https://github.com/grocy/grocy)
+1. 💪 Opened PR [#1](https://github.com/Azelphur/nixfiles/pull/1) in [Azelphur/nixfiles](https://github.com/Azelphur/nixfiles)
+2. 🗣 Commented on [#215](https://github.com/TaterTotterson/microWakeWords/issues/215#issuecomment-3908176233) in [TaterTotterson/microWakeWords](https://github.com/TaterTotterson/microWakeWords)
+3. ❗ Opened issue [#215](https://github.com/TaterTotterson/microWakeWords/issues/215) in [TaterTotterson/microWakeWords](https://github.com/TaterTotterson/microWakeWords)
+4. 🎉 Merged PR [#1](https://github.com/Azelphur/mqttdevice/pull/1) in [Azelphur/mqttdevice](https://github.com/Azelphur/mqttdevice)
+5. 🎉 Merged PR [#2870](https://github.com/grocy/grocy/pull/2870) in [grocy/grocy](https://github.com/grocy/grocy)
 <!--END_SECTION:activity-->
