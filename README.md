@@ -7,9 +7,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3047](https://github.com/end-4/dots-hyprland/pull/3047) in [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland)
-2. 💪 Opened PR [#3047](https://github.com/end-4/dots-hyprland/pull/3047) in [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland)
-3. 🗣 Commented on [#447](https://github.com/actions/upload-artifact/issues/447#issuecomment-3945886307) in [actions/upload-artifact](https://github.com/actions/upload-artifact)
-4. 🗣 Commented on [#1](https://github.com/Azelphur/nixfiles/pull/1#issuecomment-3939387992) in [Azelphur/nixfiles](https://github.com/Azelphur/nixfiles)
-5. 💪 Opened PR [#1](https://github.com/Azelphur/nixfiles/pull/1) in [Azelphur/nixfiles](https://github.com/Azelphur/nixfiles)
+1. 🗣 Commented on [#2245](https://github.com/end-4/dots-hyprland/pull/2245#issuecomment-3983039849) in [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland)
+2. 🎉 Merged PR [#3047](https://github.com/end-4/dots-hyprland/pull/3047) in [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland)
+3. 💪 Opened PR [#3047](https://github.com/end-4/dots-hyprland/pull/3047) in [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland)
+4. 🗣 Commented on [#447](https://github.com/actions/upload-artifact/issues/447#issuecomment-3945886307) in [actions/upload-artifact](https://github.com/actions/upload-artifact)
+5. 🗣 Commented on [#1](https://github.com/Azelphur/nixfiles/pull/1#issuecomment-3939387992) in [Azelphur/nixfiles](https://github.com/Azelphur/nixfiles)
 <!--END_SECTION:activity-->
