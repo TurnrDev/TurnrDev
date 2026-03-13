@@ -7,9 +7,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#584](https://github.com/TrainerDex/Website/pull/584) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-2. 🎉 Merged PR [#584](https://github.com/TrainerDex/Website/pull/584) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
-3. 🗣 Commented on [#2817](https://github.com/end-4/dots-hyprland/issues/2817#issuecomment-4012057940) in [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland)
-4. 🗣 Commented on [#2817](https://github.com/end-4/dots-hyprland/issues/2817#issuecomment-4012034468) in [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland)
-5. 🗣 Commented on [#134](https://github.com/openstreetmap/id-tagging-schema/pull/134#issuecomment-3997811727) in [openstreetmap/id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema)
+1. 🗣 Commented on [#103](https://github.com/HarvsG/ha-glinet4-integration/issues/103#issuecomment-4053988230) in [HarvsG/ha-glinet4-integration](https://github.com/HarvsG/ha-glinet4-integration)
+2. 💪 Opened PR [#584](https://github.com/TrainerDex/Website/pull/584) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+3. 🎉 Merged PR [#584](https://github.com/TrainerDex/Website/pull/584) in [TrainerDex/Website](https://github.com/TrainerDex/Website)
+4. 🗣 Commented on [#2817](https://github.com/end-4/dots-hyprland/issues/2817#issuecomment-4012057940) in [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland)
+5. 🗣 Commented on [#2817](https://github.com/end-4/dots-hyprland/issues/2817#issuecomment-4012034468) in [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland)
 <!--END_SECTION:activity-->
