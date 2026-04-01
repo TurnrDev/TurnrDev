@@ -7,9 +7,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/TurnrDev/nixfiles/pull/1) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
-2. 💪 Opened PR [#1](https://github.com/TurnrDev/nixfiles/pull/1) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
-3. ℹ️ Assigned PR [#1](https://github.com/TurnrDev/nixfiles/pull/1) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
-4. ❗ Opened issue [#82](https://github.com/CollotsSpot/Ensemble/issues/82) in [CollotsSpot/Ensemble](https://github.com/CollotsSpot/Ensemble)
-5. 🗣 Commented on [#103](https://github.com/HarvsG/ha-glinet4-integration/issues/103#issuecomment-4053988230) in [HarvsG/ha-glinet4-integration](https://github.com/HarvsG/ha-glinet4-integration)
+1. 🗣 Commented on [#1](https://github.com/TurnrDev/nixfiles/pull/1#issuecomment-4170397904) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
+2. 🎉 Merged PR [#1](https://github.com/TurnrDev/nixfiles/pull/1) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
+3. 💪 Opened PR [#1](https://github.com/TurnrDev/nixfiles/pull/1) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
+4. ℹ️ Assigned PR [#1](https://github.com/TurnrDev/nixfiles/pull/1) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
+5. ❗ Opened issue [#82](https://github.com/CollotsSpot/Ensemble/issues/82) in [CollotsSpot/Ensemble](https://github.com/CollotsSpot/Ensemble)
 <!--END_SECTION:activity-->
