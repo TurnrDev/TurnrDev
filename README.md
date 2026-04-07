@@ -7,9 +7,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/TurnrDev/nixfiles/pull/1#issuecomment-4170397904) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
-2. 🎉 Merged PR [#1](https://github.com/TurnrDev/nixfiles/pull/1) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
-3. 💪 Opened PR [#1](https://github.com/TurnrDev/nixfiles/pull/1) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
-4. ℹ️ Assigned PR [#1](https://github.com/TurnrDev/nixfiles/pull/1) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
-5. ❗ Opened issue [#82](https://github.com/CollotsSpot/Ensemble/issues/82) in [CollotsSpot/Ensemble](https://github.com/CollotsSpot/Ensemble)
+1. 🗣 Commented on [#134](https://github.com/openstreetmap/id-tagging-schema/pull/134#issuecomment-4199603051) in [openstreetmap/id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema)
+2. 💪 Opened PR [#108](https://github.com/rapideditor/temaki/pull/108) in [rapideditor/temaki](https://github.com/rapideditor/temaki)
+3. 🗣 Commented on [#1](https://github.com/TurnrDev/nixfiles/pull/1#issuecomment-4170397904) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
+4. 🎉 Merged PR [#1](https://github.com/TurnrDev/nixfiles/pull/1) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
+5. 💪 Opened PR [#1](https://github.com/TurnrDev/nixfiles/pull/1) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
 <!--END_SECTION:activity-->
