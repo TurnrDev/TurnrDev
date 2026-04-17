@@ -7,9 +7,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#509534](https://github.com/NixOS/nixpkgs/pull/509534) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. ❗ Opened issue [#22](https://github.com/KadenThomp36/air-quality-card/issues/22) in [KadenThomp36/air-quality-card](https://github.com/KadenThomp36/air-quality-card)
-3. 🗣 Commented on [#134](https://github.com/openstreetmap/id-tagging-schema/pull/134#issuecomment-4199603051) in [openstreetmap/id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema)
-4. 💪 Opened PR [#108](https://github.com/rapideditor/temaki/pull/108) in [rapideditor/temaki](https://github.com/rapideditor/temaki)
-5. ❗ Opened issue [#82](https://github.com/CollotsSpot/Ensemble/issues/82) in [CollotsSpot/Ensemble](https://github.com/CollotsSpot/Ensemble)
+1. 🗣 Commented on [#509534](https://github.com/NixOS/nixpkgs/pull/509534#issuecomment-4269192721) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 💪 Opened PR [#509534](https://github.com/NixOS/nixpkgs/pull/509534) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. ❗ Opened issue [#22](https://github.com/KadenThomp36/air-quality-card/issues/22) in [KadenThomp36/air-quality-card](https://github.com/KadenThomp36/air-quality-card)
+4. 🗣 Commented on [#134](https://github.com/openstreetmap/id-tagging-schema/pull/134#issuecomment-4199603051) in [openstreetmap/id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema)
+5. 💪 Opened PR [#108](https://github.com/rapideditor/temaki/pull/108) in [rapideditor/temaki](https://github.com/rapideditor/temaki)
 <!--END_SECTION:activity-->
