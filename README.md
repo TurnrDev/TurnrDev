@@ -7,9 +7,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#17](https://github.com/BSkando/GoogleFindMy-Card/issues/17) in [BSkando/GoogleFindMy-Card](https://github.com/BSkando/GoogleFindMy-Card)
-2. 🗣 Commented on [#509534](https://github.com/NixOS/nixpkgs/pull/509534#issuecomment-4269192721) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. 💪 Opened PR [#509534](https://github.com/NixOS/nixpkgs/pull/509534) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. ❗ Opened issue [#22](https://github.com/KadenThomp36/air-quality-card/issues/22) in [KadenThomp36/air-quality-card](https://github.com/KadenThomp36/air-quality-card)
-5. 🗣 Commented on [#134](https://github.com/openstreetmap/id-tagging-schema/pull/134#issuecomment-4199603051) in [openstreetmap/id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema)
+1. 💪 Opened PR [#18](https://github.com/BSkando/GoogleFindMy-Card/pull/18) in [BSkando/GoogleFindMy-Card](https://github.com/BSkando/GoogleFindMy-Card)
+2. 🗣 Commented on [#509534](https://github.com/NixOS/nixpkgs/pull/509534#issuecomment-4289706729) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. ❗ Opened issue [#17](https://github.com/BSkando/GoogleFindMy-Card/issues/17) in [BSkando/GoogleFindMy-Card](https://github.com/BSkando/GoogleFindMy-Card)
+4. 🗣 Commented on [#509534](https://github.com/NixOS/nixpkgs/pull/509534#issuecomment-4269192721) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. 💪 Opened PR [#509534](https://github.com/NixOS/nixpkgs/pull/509534) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
