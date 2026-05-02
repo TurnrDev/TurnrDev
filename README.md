@@ -7,9 +7,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#123](https://github.com/DMarby/picsum-photos/issues/123) in [DMarby/picsum-photos](https://github.com/DMarby/picsum-photos)
-2. 🎉 Merged PR [#2](https://github.com/TurnrDev/nixfiles/pull/2) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
-3. 💪 Opened PR [#2](https://github.com/TurnrDev/nixfiles/pull/2) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
-4. ℹ️ Assigned PR [#2](https://github.com/TurnrDev/nixfiles/pull/2) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
-5. 🎉 Merged PR [#509534](https://github.com/NixOS/nixpkgs/pull/509534) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 💪 Opened PR [#2](https://github.com/Azelphur/nixfiles/pull/2) in [Azelphur/nixfiles](https://github.com/Azelphur/nixfiles)
+2. ❗ Opened issue [#123](https://github.com/DMarby/picsum-photos/issues/123) in [DMarby/picsum-photos](https://github.com/DMarby/picsum-photos)
+3. 🎉 Merged PR [#2](https://github.com/TurnrDev/nixfiles/pull/2) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
+4. 💪 Opened PR [#2](https://github.com/TurnrDev/nixfiles/pull/2) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
+5. ℹ️ Assigned PR [#2](https://github.com/TurnrDev/nixfiles/pull/2) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
 <!--END_SECTION:activity-->
