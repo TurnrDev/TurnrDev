@@ -7,9 +7,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Azelphur/nixfiles/pull/2) in [Azelphur/nixfiles](https://github.com/Azelphur/nixfiles)
-2. ❗ Opened issue [#123](https://github.com/DMarby/picsum-photos/issues/123) in [DMarby/picsum-photos](https://github.com/DMarby/picsum-photos)
-3. 🎉 Merged PR [#2](https://github.com/TurnrDev/nixfiles/pull/2) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
-4. 💪 Opened PR [#2](https://github.com/TurnrDev/nixfiles/pull/2) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
-5. ℹ️ Assigned PR [#2](https://github.com/TurnrDev/nixfiles/pull/2) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
+1. 🗣 Commented on [#123](https://github.com/DMarby/picsum-photos/issues/123#issuecomment-4373427655) in [DMarby/picsum-photos](https://github.com/DMarby/picsum-photos)
+2. 💪 Opened PR [#2](https://github.com/Azelphur/nixfiles/pull/2) in [Azelphur/nixfiles](https://github.com/Azelphur/nixfiles)
+3. ❗ Opened issue [#123](https://github.com/DMarby/picsum-photos/issues/123) in [DMarby/picsum-photos](https://github.com/DMarby/picsum-photos)
+4. 🎉 Merged PR [#2](https://github.com/TurnrDev/nixfiles/pull/2) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
+5. 💪 Opened PR [#2](https://github.com/TurnrDev/nixfiles/pull/2) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
 <!--END_SECTION:activity-->
