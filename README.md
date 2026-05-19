@@ -7,9 +7,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2290](https://github.com/AvengeMedia/DankMaterialShell/issues/2290#issuecomment-4479377715) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
-2. ❗ Opened issue [#3](https://github.com/TurnrDev/nixfiles/issues/3) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
-3. 🗣 Commented on [#518332](https://github.com/NixOS/nixpkgs/pull/518332#issuecomment-4438914302) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 🗣 Commented on [#518332](https://github.com/NixOS/nixpkgs/pull/518332#issuecomment-4429478112) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 🎉 Merged PR [#518332](https://github.com/NixOS/nixpkgs/pull/518332) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. ℹ️ Assigned issue [#4](https://github.com/TurnrDev/nixfiles/issues/4) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
+2. ❗ Opened issue [#4](https://github.com/TurnrDev/nixfiles/issues/4) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
+3. 🗣 Commented on [#2290](https://github.com/AvengeMedia/DankMaterialShell/issues/2290#issuecomment-4479377715) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
+4. ❗ Opened issue [#3](https://github.com/TurnrDev/nixfiles/issues/3) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
+5. 🗣 Commented on [#518332](https://github.com/NixOS/nixpkgs/pull/518332#issuecomment-4438914302) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
