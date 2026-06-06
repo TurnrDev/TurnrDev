@@ -7,9 +7,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#4](https://github.com/TurnrDev/nixfiles/issues/4) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
-2. ❗ Opened issue [#4](https://github.com/TurnrDev/nixfiles/issues/4) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
-3. 🗣 Commented on [#2290](https://github.com/AvengeMedia/DankMaterialShell/issues/2290#issuecomment-4479377715) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
-4. ❗ Opened issue [#3](https://github.com/TurnrDev/nixfiles/issues/3) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
-5. 🗣 Commented on [#518332](https://github.com/NixOS/nixpkgs/pull/518332#issuecomment-4438914302) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. 🎉 Merged PR [#3](https://github.com/Azelphur/nixfiles/pull/3) in [Azelphur/nixfiles](https://github.com/Azelphur/nixfiles)
+2. 💪 Opened PR [#3](https://github.com/Azelphur/nixfiles/pull/3) in [Azelphur/nixfiles](https://github.com/Azelphur/nixfiles)
+3. ℹ️ Assigned issue [#4](https://github.com/TurnrDev/nixfiles/issues/4) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
+4. ❗ Opened issue [#4](https://github.com/TurnrDev/nixfiles/issues/4) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
+5. 🗣 Commented on [#2290](https://github.com/AvengeMedia/DankMaterialShell/issues/2290#issuecomment-4479377715) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
 <!--END_SECTION:activity-->
