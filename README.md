@@ -7,9 +7,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Azelphur/nixfiles/pull/3) in [Azelphur/nixfiles](https://github.com/Azelphur/nixfiles)
-2. 💪 Opened PR [#3](https://github.com/Azelphur/nixfiles/pull/3) in [Azelphur/nixfiles](https://github.com/Azelphur/nixfiles)
-3. ℹ️ Assigned issue [#4](https://github.com/TurnrDev/nixfiles/issues/4) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
-4. ❗ Opened issue [#4](https://github.com/TurnrDev/nixfiles/issues/4) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
-5. 🗣 Commented on [#2290](https://github.com/AvengeMedia/DankMaterialShell/issues/2290#issuecomment-4479377715) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
+1. ❗ Opened issue [#58](https://github.com/Loweack/Matter-Time-Sync/issues/58) in [Loweack/Matter-Time-Sync](https://github.com/Loweack/Matter-Time-Sync)
+2. 🎉 Merged PR [#3](https://github.com/Azelphur/nixfiles/pull/3) in [Azelphur/nixfiles](https://github.com/Azelphur/nixfiles)
+3. 💪 Opened PR [#3](https://github.com/Azelphur/nixfiles/pull/3) in [Azelphur/nixfiles](https://github.com/Azelphur/nixfiles)
+4. ℹ️ Assigned issue [#4](https://github.com/TurnrDev/nixfiles/issues/4) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
+5. ❗ Opened issue [#4](https://github.com/TurnrDev/nixfiles/issues/4) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
 <!--END_SECTION:activity-->
