@@ -7,9 +7,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1011](https://github.com/EPMatt/awesome-ha-blueprints/issues/1011) in [EPMatt/awesome-ha-blueprints](https://github.com/EPMatt/awesome-ha-blueprints)
-2. 🗣 Commented on [#1011](https://github.com/EPMatt/awesome-ha-blueprints/issues/1011#issuecomment-4689412545) in [EPMatt/awesome-ha-blueprints](https://github.com/EPMatt/awesome-ha-blueprints)
-3. ❗ Opened issue [#1011](https://github.com/EPMatt/awesome-ha-blueprints/issues/1011) in [EPMatt/awesome-ha-blueprints](https://github.com/EPMatt/awesome-ha-blueprints)
-4. ❗ Opened issue [#58](https://github.com/Loweack/Matter-Time-Sync/issues/58) in [Loweack/Matter-Time-Sync](https://github.com/Loweack/Matter-Time-Sync)
-5. 🎉 Merged PR [#3](https://github.com/Azelphur/nixfiles/pull/3) in [Azelphur/nixfiles](https://github.com/Azelphur/nixfiles)
+1. 🗣 Commented on [#530160](https://github.com/NixOS/nixpkgs/pull/530160#issuecomment-4696203612) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🔒 Closed issue [#1011](https://github.com/EPMatt/awesome-ha-blueprints/issues/1011) in [EPMatt/awesome-ha-blueprints](https://github.com/EPMatt/awesome-ha-blueprints)
+3. 🗣 Commented on [#1011](https://github.com/EPMatt/awesome-ha-blueprints/issues/1011#issuecomment-4689412545) in [EPMatt/awesome-ha-blueprints](https://github.com/EPMatt/awesome-ha-blueprints)
+4. ❗ Opened issue [#1011](https://github.com/EPMatt/awesome-ha-blueprints/issues/1011) in [EPMatt/awesome-ha-blueprints](https://github.com/EPMatt/awesome-ha-blueprints)
+5. ❗ Opened issue [#58](https://github.com/Loweack/Matter-Time-Sync/issues/58) in [Loweack/Matter-Time-Sync](https://github.com/Loweack/Matter-Time-Sync)
 <!--END_SECTION:activity-->
