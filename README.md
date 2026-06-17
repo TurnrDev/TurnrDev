@@ -7,9 +7,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#530160](https://github.com/NixOS/nixpkgs/pull/530160#issuecomment-4696203612) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🔒 Closed issue [#1011](https://github.com/EPMatt/awesome-ha-blueprints/issues/1011) in [EPMatt/awesome-ha-blueprints](https://github.com/EPMatt/awesome-ha-blueprints)
-3. 🗣 Commented on [#1011](https://github.com/EPMatt/awesome-ha-blueprints/issues/1011#issuecomment-4689412545) in [EPMatt/awesome-ha-blueprints](https://github.com/EPMatt/awesome-ha-blueprints)
-4. ❗ Opened issue [#1011](https://github.com/EPMatt/awesome-ha-blueprints/issues/1011) in [EPMatt/awesome-ha-blueprints](https://github.com/EPMatt/awesome-ha-blueprints)
-5. ❗ Opened issue [#58](https://github.com/Loweack/Matter-Time-Sync/issues/58) in [Loweack/Matter-Time-Sync](https://github.com/Loweack/Matter-Time-Sync)
+1. 🗣 Commented on [#1046](https://github.com/alecthomas/chroma/issues/1046#issuecomment-4727661809) in [alecthomas/chroma](https://github.com/alecthomas/chroma)
+2. 🗣 Commented on [#530160](https://github.com/NixOS/nixpkgs/pull/530160#issuecomment-4696203612) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 🔒 Closed issue [#1011](https://github.com/EPMatt/awesome-ha-blueprints/issues/1011) in [EPMatt/awesome-ha-blueprints](https://github.com/EPMatt/awesome-ha-blueprints)
+4. 🗣 Commented on [#1011](https://github.com/EPMatt/awesome-ha-blueprints/issues/1011#issuecomment-4689412545) in [EPMatt/awesome-ha-blueprints](https://github.com/EPMatt/awesome-ha-blueprints)
+5. ❗ Opened issue [#1011](https://github.com/EPMatt/awesome-ha-blueprints/issues/1011) in [EPMatt/awesome-ha-blueprints](https://github.com/EPMatt/awesome-ha-blueprints)
 <!--END_SECTION:activity-->
