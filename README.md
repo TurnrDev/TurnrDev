@@ -7,9 +7,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/TurnrDev/nixfiles/issues/3) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
-2. 🔒 Closed issue [#4](https://github.com/TurnrDev/nixfiles/issues/4) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
-3. 🗣 Commented on [#2380](https://github.com/AvengeMedia/DankMaterialShell/issues/2380#issuecomment-4742732485) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
-4. 🗣 Commented on [#8552](https://github.com/primefaces/primevue/issues/8552#issuecomment-4740138932) in [primefaces/primevue](https://github.com/primefaces/primevue)
-5. 🗣 Commented on [#1046](https://github.com/alecthomas/chroma/issues/1046#issuecomment-4727661809) in [alecthomas/chroma](https://github.com/alecthomas/chroma)
+1. 🗣 Commented on [#324180](https://github.com/microsoft/vscode/issues/324180#issuecomment-4874599416) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. ❗ Opened issue [#324180](https://github.com/microsoft/vscode/issues/324180) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. 🔒 Closed issue [#3](https://github.com/TurnrDev/nixfiles/issues/3) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
+4. 🔒 Closed issue [#4](https://github.com/TurnrDev/nixfiles/issues/4) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
+5. 🗣 Commented on [#2380](https://github.com/AvengeMedia/DankMaterialShell/issues/2380#issuecomment-4742732485) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
 <!--END_SECTION:activity-->
