@@ -7,9 +7,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#108](https://github.com/rapideditor/temaki/pull/108) in [rapideditor/temaki](https://github.com/rapideditor/temaki)
-2. 🗣 Commented on [#134](https://github.com/openstreetmap/id-tagging-schema/pull/134#issuecomment-5004044990) in [openstreetmap/id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema)
-3. 🗣 Commented on [#538562](https://github.com/NixOS/nixpkgs/pull/538562#issuecomment-4994567059) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 💪 Opened PR [#4](https://github.com/Azelphur/nixfiles/pull/4) in [Azelphur/nixfiles](https://github.com/Azelphur/nixfiles)
-5. 🗣 Commented on [#2736](https://github.com/AvengeMedia/DankMaterialShell/issues/2736#issuecomment-4883898224) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
+1. 🎉 Merged PR [#134](https://github.com/openstreetmap/id-tagging-schema/pull/134) in [openstreetmap/id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema)
+2. 🗣 Commented on [#543373](https://github.com/NixOS/nixpkgs/issues/543373#issuecomment-5031943575) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. ❌ Closed PR [#108](https://github.com/rapideditor/temaki/pull/108) in [rapideditor/temaki](https://github.com/rapideditor/temaki)
+4. 🗣 Commented on [#134](https://github.com/openstreetmap/id-tagging-schema/pull/134#issuecomment-5004044990) in [openstreetmap/id-tagging-schema](https://github.com/openstreetmap/id-tagging-schema)
+5. 🗣 Commented on [#538562](https://github.com/NixOS/nixpkgs/pull/538562#issuecomment-4994567059) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->
