@@ -7,9 +7,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#102](https://github.com/DigitallyRefined/ha-cloudflare-speed-test/issues/102) in [DigitallyRefined/ha-cloudflare-speed-test](https://github.com/DigitallyRefined/ha-cloudflare-speed-test)
-2. ❌ Closed PR [#1](https://github.com/jonasbohmann/django4-docs/pull/1) in [jonasbohmann/django4-docs](https://github.com/jonasbohmann/django4-docs)
-3. ❌ Closed PR [#2](https://github.com/Azelphur/nixfiles/pull/2) in [Azelphur/nixfiles](https://github.com/Azelphur/nixfiles)
-4. ❌ Closed PR [#18](https://github.com/N1nn1/twigs/pull/18) in [N1nn1/twigs](https://github.com/N1nn1/twigs)
-5. ❌ Closed PR [#18](https://github.com/peterjgrainger/action-all-checks-passed/pull/18) in [peterjgrainger/action-all-checks-passed](https://github.com/peterjgrainger/action-all-checks-passed)
+1. 🗣 Commented on [#102](https://github.com/DigitallyRefined/ha-cloudflare-speed-test/issues/102#issuecomment-5058652176) in [DigitallyRefined/ha-cloudflare-speed-test](https://github.com/DigitallyRefined/ha-cloudflare-speed-test)
+2. 🗣 Commented on [#102](https://github.com/DigitallyRefined/ha-cloudflare-speed-test/issues/102#issuecomment-5058637158) in [DigitallyRefined/ha-cloudflare-speed-test](https://github.com/DigitallyRefined/ha-cloudflare-speed-test)
+3. ❗ Opened issue [#102](https://github.com/DigitallyRefined/ha-cloudflare-speed-test/issues/102) in [DigitallyRefined/ha-cloudflare-speed-test](https://github.com/DigitallyRefined/ha-cloudflare-speed-test)
+4. ❌ Closed PR [#1](https://github.com/jonasbohmann/django4-docs/pull/1) in [jonasbohmann/django4-docs](https://github.com/jonasbohmann/django4-docs)
+5. ❌ Closed PR [#2](https://github.com/Azelphur/nixfiles/pull/2) in [Azelphur/nixfiles](https://github.com/Azelphur/nixfiles)
 <!--END_SECTION:activity-->
