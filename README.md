@@ -7,9 +7,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#102](https://github.com/DigitallyRefined/ha-cloudflare-speed-test/issues/102#issuecomment-5058652176) in [DigitallyRefined/ha-cloudflare-speed-test](https://github.com/DigitallyRefined/ha-cloudflare-speed-test)
-2. 🗣 Commented on [#102](https://github.com/DigitallyRefined/ha-cloudflare-speed-test/issues/102#issuecomment-5058637158) in [DigitallyRefined/ha-cloudflare-speed-test](https://github.com/DigitallyRefined/ha-cloudflare-speed-test)
-3. ❗ Opened issue [#102](https://github.com/DigitallyRefined/ha-cloudflare-speed-test/issues/102) in [DigitallyRefined/ha-cloudflare-speed-test](https://github.com/DigitallyRefined/ha-cloudflare-speed-test)
-4. ❌ Closed PR [#1](https://github.com/jonasbohmann/django4-docs/pull/1) in [jonasbohmann/django4-docs](https://github.com/jonasbohmann/django4-docs)
-5. ❌ Closed PR [#2](https://github.com/Azelphur/nixfiles/pull/2) in [Azelphur/nixfiles](https://github.com/Azelphur/nixfiles)
+1. 🎉 Merged PR [#4](https://github.com/Azelphur/nixfiles/pull/4) in [Azelphur/nixfiles](https://github.com/Azelphur/nixfiles)
+2. 🗣 Commented on [#102](https://github.com/DigitallyRefined/ha-cloudflare-speed-test/issues/102#issuecomment-5058652176) in [DigitallyRefined/ha-cloudflare-speed-test](https://github.com/DigitallyRefined/ha-cloudflare-speed-test)
+3. 🗣 Commented on [#102](https://github.com/DigitallyRefined/ha-cloudflare-speed-test/issues/102#issuecomment-5058637158) in [DigitallyRefined/ha-cloudflare-speed-test](https://github.com/DigitallyRefined/ha-cloudflare-speed-test)
+4. ❗ Opened issue [#102](https://github.com/DigitallyRefined/ha-cloudflare-speed-test/issues/102) in [DigitallyRefined/ha-cloudflare-speed-test](https://github.com/DigitallyRefined/ha-cloudflare-speed-test)
+5. ❌ Closed PR [#1](https://github.com/jonasbohmann/django4-docs/pull/1) in [jonasbohmann/django4-docs](https://github.com/jonasbohmann/django4-docs)
 <!--END_SECTION:activity-->
