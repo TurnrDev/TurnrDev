@@ -7,9 +7,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#114](https://github.com/lozzd/octopus-energy-rates-card/issues/114) in [lozzd/octopus-energy-rates-card](https://github.com/lozzd/octopus-energy-rates-card)
-2. 🗣 Commented on [#15](https://github.com/mretallack/ukfuelfinder-ha/issues/15#issuecomment-5603728490) in [mretallack/ukfuelfinder-ha](https://github.com/mretallack/ukfuelfinder-ha)
-3. 🔒 Closed issue [#1](https://github.com/TurnrDev/Hoard/issues/1) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
-4. ❗ Opened issue [#1](https://github.com/TurnrDev/Hoard/issues/1) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
-5. ℹ️ Assigned issue [#1](https://github.com/TurnrDev/Hoard/issues/1) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
+1. 🔒 Closed issue [#4](https://github.com/TurnrDev/Hoard/issues/4) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
+2. ❗ Opened issue [#5](https://github.com/TurnrDev/Hoard/issues/5) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
+3. ❗ Opened issue [#4](https://github.com/TurnrDev/Hoard/issues/4) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
+4. ❗ Opened issue [#3](https://github.com/TurnrDev/Hoard/issues/3) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
+5. ❗ Opened issue [#114](https://github.com/lozzd/octopus-energy-rates-card/issues/114) in [lozzd/octopus-energy-rates-card](https://github.com/lozzd/octopus-energy-rates-card)
 <!--END_SECTION:activity-->
