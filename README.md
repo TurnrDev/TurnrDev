@@ -7,9 +7,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5](https://github.com/TurnrDev/Hoard/issues/5) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
-2. 🔒 Closed issue [#4](https://github.com/TurnrDev/Hoard/issues/4) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
-3. ❗ Opened issue [#5](https://github.com/TurnrDev/Hoard/issues/5) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
-4. ❗ Opened issue [#4](https://github.com/TurnrDev/Hoard/issues/4) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
-5. ❗ Opened issue [#3](https://github.com/TurnrDev/Hoard/issues/3) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
+1. ℹ️ Assigned PR [#6](https://github.com/TurnrDev/Hoard/pull/6) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
+2. 💪 Opened PR [#6](https://github.com/TurnrDev/Hoard/pull/6) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
+3. 🔒 Closed issue [#5](https://github.com/TurnrDev/Hoard/issues/5) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
+4. 🔒 Closed issue [#4](https://github.com/TurnrDev/Hoard/issues/4) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
+5. ❗ Opened issue [#5](https://github.com/TurnrDev/Hoard/issues/5) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
 <!--END_SECTION:activity-->
