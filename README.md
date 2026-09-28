@@ -7,9 +7,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9](https://github.com/TurnrDev/Hoard/issues/9) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
-2. ❗ Opened issue [#8](https://github.com/TurnrDev/Hoard/issues/8) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
-3. ❗ Opened issue [#7](https://github.com/TurnrDev/Hoard/issues/7) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
-4. 🎉 Merged PR [#6](https://github.com/TurnrDev/Hoard/pull/6) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
-5. ℹ️ Assigned PR [#6](https://github.com/TurnrDev/Hoard/pull/6) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
+1. ❌ Closed PR [#8](https://github.com/TurnrDev/nixfiles/pull/8) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
+2. ❗ Opened issue [#9](https://github.com/TurnrDev/Hoard/issues/9) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
+3. ❗ Opened issue [#8](https://github.com/TurnrDev/Hoard/issues/8) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
+4. ❗ Opened issue [#7](https://github.com/TurnrDev/Hoard/issues/7) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
+5. 🎉 Merged PR [#6](https://github.com/TurnrDev/Hoard/pull/6) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
 <!--END_SECTION:activity-->
