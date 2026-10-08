@@ -7,9 +7,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#15](https://github.com/TurnrDev/Hoard/pull/15) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
-2. ❌ Closed PR [#13](https://github.com/TurnrDev/Hoard/pull/13) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
-3. ❌ Closed PR [#14](https://github.com/TurnrDev/Hoard/pull/14) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
-4. ❌ Closed PR [#12](https://github.com/TurnrDev/Hoard/pull/12) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
-5. ❌ Closed PR [#11](https://github.com/TurnrDev/Hoard/pull/11) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
+1. 🗣 Commented on [#26](https://github.com/mretallack/ukfuelfinder-ha/issues/26#issuecomment-6055162014) in [mretallack/ukfuelfinder-ha](https://github.com/mretallack/ukfuelfinder-ha)
+2. ❗ Opened issue [#27](https://github.com/mretallack/ukfuelfinder-ha/issues/27) in [mretallack/ukfuelfinder-ha](https://github.com/mretallack/ukfuelfinder-ha)
+3. ❌ Closed PR [#15](https://github.com/TurnrDev/Hoard/pull/15) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
+4. ❌ Closed PR [#13](https://github.com/TurnrDev/Hoard/pull/13) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
+5. ❌ Closed PR [#14](https://github.com/TurnrDev/Hoard/pull/14) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
 <!--END_SECTION:activity-->
