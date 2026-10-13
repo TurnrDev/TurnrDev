@@ -7,9 +7,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#9](https://github.com/TurnrDev/DiceHoard/issues/9) in [TurnrDev/DiceHoard](https://github.com/TurnrDev/DiceHoard)
-2. 🔒 Closed issue [#8](https://github.com/TurnrDev/DiceHoard/issues/8) in [TurnrDev/DiceHoard](https://github.com/TurnrDev/DiceHoard)
-3. 🔒 Closed issue [#7](https://github.com/TurnrDev/DiceHoard/issues/7) in [TurnrDev/DiceHoard](https://github.com/TurnrDev/DiceHoard)
-4. 🔒 Closed issue [#3](https://github.com/TurnrDev/DiceHoard/issues/3) in [TurnrDev/DiceHoard](https://github.com/TurnrDev/DiceHoard)
-5. 🗣 Commented on [#26](https://github.com/mretallack/ukfuelfinder-ha/issues/26#issuecomment-6055162014) in [mretallack/ukfuelfinder-ha](https://github.com/mretallack/ukfuelfinder-ha)
+1. 💪 Opened PR [#37](https://github.com/TurnrDev/nixfiles/pull/37) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
+2. ℹ️ Assigned PR [#37](https://github.com/TurnrDev/nixfiles/pull/37) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
+3. 🔒 Closed issue [#9](https://github.com/TurnrDev/DiceHoard/issues/9) in [TurnrDev/DiceHoard](https://github.com/TurnrDev/DiceHoard)
+4. 🔒 Closed issue [#8](https://github.com/TurnrDev/DiceHoard/issues/8) in [TurnrDev/DiceHoard](https://github.com/TurnrDev/DiceHoard)
+5. 🔒 Closed issue [#7](https://github.com/TurnrDev/DiceHoard/issues/7) in [TurnrDev/DiceHoard](https://github.com/TurnrDev/DiceHoard)
 <!--END_SECTION:activity-->
