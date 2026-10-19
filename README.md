@@ -7,9 +7,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#37](https://github.com/TurnrDev/nixfiles/pull/37) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
-2. ℹ️ Assigned PR [#37](https://github.com/TurnrDev/nixfiles/pull/37) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
-3. 🔒 Closed issue [#9](https://github.com/TurnrDev/DiceHoard/issues/9) in [TurnrDev/DiceHoard](https://github.com/TurnrDev/DiceHoard)
-4. 🔒 Closed issue [#8](https://github.com/TurnrDev/DiceHoard/issues/8) in [TurnrDev/DiceHoard](https://github.com/TurnrDev/DiceHoard)
-5. 🔒 Closed issue [#7](https://github.com/TurnrDev/DiceHoard/issues/7) in [TurnrDev/DiceHoard](https://github.com/TurnrDev/DiceHoard)
+1. ❌ Closed PR [#20](https://github.com/TurnrDev/Hoard/pull/20) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
+2. ❌ Closed PR [#19](https://github.com/TurnrDev/Hoard/pull/19) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
+3. ❌ Closed PR [#18](https://github.com/TurnrDev/Hoard/pull/18) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
+4. ❌ Closed PR [#16](https://github.com/TurnrDev/Hoard/pull/16) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
+5. ❌ Closed PR [#17](https://github.com/TurnrDev/Hoard/pull/17) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
 <!--END_SECTION:activity-->
