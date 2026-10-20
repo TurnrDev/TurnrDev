@@ -7,9 +7,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37](https://github.com/TurnrDev/nixfiles/pull/37) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
-2. ❌ Closed PR [#20](https://github.com/TurnrDev/Hoard/pull/20) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
-3. ❌ Closed PR [#19](https://github.com/TurnrDev/Hoard/pull/19) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
-4. ❌ Closed PR [#18](https://github.com/TurnrDev/Hoard/pull/18) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
-5. ❌ Closed PR [#16](https://github.com/TurnrDev/Hoard/pull/16) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
+1. 🗣 Commented on [#7](https://github.com/TurnrDev/Hoard/issues/7#issuecomment-6292490362) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
+2. 🗣 Commented on [#9](https://github.com/TurnrDev/Hoard/issues/9#issuecomment-6292466527) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
+3. 🗣 Commented on [#2](https://github.com/TheMax98000/gitsquid-releases/issues/2#issuecomment-6292055153) in [TheMax98000/gitsquid-releases](https://github.com/TheMax98000/gitsquid-releases)
+4. 🗣 Commented on [#3](https://github.com/TurnrDev/Hoard/issues/3#issuecomment-6292455462) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
+5. 🔓 Reopened issue [#9](https://github.com/TurnrDev/Hoard/issues/9) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
 <!--END_SECTION:activity-->
