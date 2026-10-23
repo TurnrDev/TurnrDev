@@ -7,9 +7,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#24](https://github.com/TurnrDev/Hoard/pull/24) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
-2. 💪 Opened PR [#24](https://github.com/TurnrDev/Hoard/pull/24) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
-3. ℹ️ Assigned PR [#577852](https://github.com/NixOS/nixpkgs/pull/577852) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 💪 Opened PR [#577852](https://github.com/NixOS/nixpkgs/pull/577852) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. ❗ Opened issue [#2808](https://github.com/sourcegit-scm/sourcegit/issues/2808) in [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit)
+1. 🎉 Merged PR [#577852](https://github.com/NixOS/nixpkgs/pull/577852) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🗣 Commented on [#1566](https://github.com/sourcegit-scm/sourcegit/issues/1566#issuecomment-6362890177) in [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit)
+3. 🎉 Merged PR [#24](https://github.com/TurnrDev/Hoard/pull/24) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
+4. ℹ️ Assigned PR [#24](https://github.com/TurnrDev/Hoard/pull/24) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
+5. 💪 Opened PR [#24](https://github.com/TurnrDev/Hoard/pull/24) in [TurnrDev/Hoard](https://github.com/TurnrDev/Hoard)
 <!--END_SECTION:activity-->
