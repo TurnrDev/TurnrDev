@@ -7,9 +7,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#137](https://github.com/feincms/django-tree-queries/pull/137) in [feincms/django-tree-queries](https://github.com/feincms/django-tree-queries)
-2. ❗ Opened issue [#2852](https://github.com/sourcegit-scm/sourcegit/issues/2852) in [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit)
-3. 💪 Opened PR [#137](https://github.com/feincms/django-tree-queries/pull/137) in [feincms/django-tree-queries](https://github.com/feincms/django-tree-queries)
-4. 🗣 Commented on [#60](https://github.com/ADNPolymerase/ha-appliance-card/issues/60#issuecomment-6519997514) in [ADNPolymerase/ha-appliance-card](https://github.com/ADNPolymerase/ha-appliance-card)
-5. ❗ Opened issue [#60](https://github.com/ADNPolymerase/ha-appliance-card/issues/60) in [ADNPolymerase/ha-appliance-card](https://github.com/ADNPolymerase/ha-appliance-card)
+1. 🔒 Closed issue [#2852](https://github.com/sourcegit-scm/sourcegit/issues/2852) in [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit)
+2. 🗣 Commented on [#2852](https://github.com/sourcegit-scm/sourcegit/issues/2852#issuecomment-6682720281) in [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit)
+3. 🎉 Merged PR [#137](https://github.com/feincms/django-tree-queries/pull/137) in [feincms/django-tree-queries](https://github.com/feincms/django-tree-queries)
+4. ❗ Opened issue [#2852](https://github.com/sourcegit-scm/sourcegit/issues/2852) in [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit)
+5. 💪 Opened PR [#137](https://github.com/feincms/django-tree-queries/pull/137) in [feincms/django-tree-queries](https://github.com/feincms/django-tree-queries)
 <!--END_SECTION:activity-->
