@@ -7,9 +7,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/hokiebrian/s3_size/issues/2) in [hokiebrian/s3_size](https://github.com/hokiebrian/s3_size)
-2. 🔒 Closed issue [#2852](https://github.com/sourcegit-scm/sourcegit/issues/2852) in [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit)
-3. 🗣 Commented on [#2852](https://github.com/sourcegit-scm/sourcegit/issues/2852#issuecomment-6682720281) in [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit)
-4. 🎉 Merged PR [#137](https://github.com/feincms/django-tree-queries/pull/137) in [feincms/django-tree-queries](https://github.com/feincms/django-tree-queries)
-5. ❗ Opened issue [#2852](https://github.com/sourcegit-scm/sourcegit/issues/2852) in [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit)
+1. 💪 Opened PR [#71](https://github.com/TurnrDev/nixfiles/pull/71) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
+2. ℹ️ Assigned PR [#71](https://github.com/TurnrDev/nixfiles/pull/71) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
+3. ❗ Opened issue [#2](https://github.com/hokiebrian/s3_size/issues/2) in [hokiebrian/s3_size](https://github.com/hokiebrian/s3_size)
+4. 🔒 Closed issue [#2852](https://github.com/sourcegit-scm/sourcegit/issues/2852) in [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit)
+5. 🗣 Commented on [#2852](https://github.com/sourcegit-scm/sourcegit/issues/2852#issuecomment-6682720281) in [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit)
 <!--END_SECTION:activity-->
