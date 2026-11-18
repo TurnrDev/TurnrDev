@@ -11,5 +11,5 @@
 2. 💪 Opened PR [#71](https://github.com/TurnrDev/nixfiles/pull/71) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
 3. ℹ️ Assigned PR [#71](https://github.com/TurnrDev/nixfiles/pull/71) in [TurnrDev/nixfiles](https://github.com/TurnrDev/nixfiles)
 4. ❗ Opened issue [#2](https://github.com/hokiebrian/s3_size/issues/2) in [hokiebrian/s3_size](https://github.com/hokiebrian/s3_size)
-5. 🔒 Closed issue [#2852](https://github.com/sourcegit-scm/sourcegit/issues/2852) in [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit)
+5. 🔒 Closed issue [#2852](https://github.com/sourcegit-org/sourcegit/issues/2852) in [sourcegit-org/sourcegit](https://github.com/sourcegit-org/sourcegit)
 <!--END_SECTION:activity-->
